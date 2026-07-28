@@ -1,0 +1,944 @@
+\contentsline {chapter}{\numberline {1}When to Seek Emergency Medical Care}{1}{chapter.1}%
+\contentsline {chapter}{\numberline {2}Abdominal Pain}{3}{chapter.2}%
+\contentsline {chapter}{\numberline {3}Abscess (Skin Abscess)}{5}{chapter.3}%
+\contentsline {section}{\numberline {3.1}Definition}{5}{section.3.1}%
+\contentsline {section}{\numberline {3.2}Pathophysiology}{5}{section.3.2}%
+\contentsline {section}{\numberline {3.3}Etiology}{5}{section.3.3}%
+\contentsline {section}{\numberline {3.4}Indications for Evaluation}{6}{section.3.4}%
+\contentsline {section}{\numberline {3.5}Related Symptoms}{6}{section.3.5}%
+\contentsline {section}{\numberline {3.6}Self-Care/Home Management}{6}{section.3.6}%
+\contentsline {section}{\numberline {3.7}Diagnostic Approach}{6}{section.3.7}%
+\contentsline {section}{\numberline {3.8}Treatment/Management Overview}{7}{section.3.8}%
+\contentsline {chapter}{\numberline {4}Acne}{9}{chapter.4}%
+\contentsline {chapter}{\numberline {5}Addiction Withdrawal}{13}{chapter.5}%
+\contentsline {chapter}{\numberline {6}Allergic Reaction}{17}{chapter.6}%
+\contentsline {section}{\numberline {6.1}Definition}{17}{section.6.1}%
+\contentsline {section}{\numberline {6.2}Pathophysiology}{17}{section.6.2}%
+\contentsline {section}{\numberline {6.3}Etiology}{17}{section.6.3}%
+\contentsline {section}{\numberline {6.4}Indications for Evaluation}{17}{section.6.4}%
+\contentsline {section}{\numberline {6.5}Related Symptoms}{18}{section.6.5}%
+\contentsline {section}{\numberline {6.6}Self-Care/Home Management}{18}{section.6.6}%
+\contentsline {section}{\numberline {6.7}Diagnostic Approach}{18}{section.6.7}%
+\contentsline {section}{\numberline {6.8}Treatment/Management Overview}{18}{section.6.8}%
+\contentsline {chapter}{\numberline {7}Amenorrhea (Absence of Menstruation)}{19}{chapter.7}%
+\contentsline {section}{\numberline {7.1}Definition}{19}{section.7.1}%
+\contentsline {section}{\numberline {7.2}Pathophysiology}{19}{section.7.2}%
+\contentsline {section}{\numberline {7.3}Etiology}{19}{section.7.3}%
+\contentsline {section}{\numberline {7.4}Indications for Evaluation}{20}{section.7.4}%
+\contentsline {section}{\numberline {7.5}Related Symptoms}{20}{section.7.5}%
+\contentsline {section}{\numberline {7.6}Self-Care/Home Management}{20}{section.7.6}%
+\contentsline {section}{\numberline {7.7}Diagnostic Approach}{21}{section.7.7}%
+\contentsline {section}{\numberline {7.8}Treatment/Management Overview}{21}{section.7.8}%
+\contentsline {chapter}{\numberline {8}Anal Itching (Pruritus Ani)}{23}{chapter.8}%
+\contentsline {section}{\numberline {8.1}Definition}{23}{section.8.1}%
+\contentsline {section}{\numberline {8.2}Pathophysiology}{23}{section.8.2}%
+\contentsline {section}{\numberline {8.3}Etiology}{23}{section.8.3}%
+\contentsline {section}{\numberline {8.4}Indications for Evaluation}{24}{section.8.4}%
+\contentsline {section}{\numberline {8.5}Related Symptoms}{24}{section.8.5}%
+\contentsline {section}{\numberline {8.6}Self-Care/Home Management}{24}{section.8.6}%
+\contentsline {section}{\numberline {8.7}Diagnostic Approach}{25}{section.8.7}%
+\contentsline {section}{\numberline {8.8}Treatment/Management Overview}{25}{section.8.8}%
+\contentsline {chapter}{\numberline {9}Anal Pain}{27}{chapter.9}%
+\contentsline {chapter}{\numberline {10}Anemia}{31}{chapter.10}%
+\contentsline {section}{\numberline {10.1}Definition}{31}{section.10.1}%
+\contentsline {section}{\numberline {10.2}Pathophysiology}{31}{section.10.2}%
+\contentsline {section}{\numberline {10.3}Etiology}{31}{section.10.3}%
+\contentsline {section}{\numberline {10.4}Indications for Evaluation}{32}{section.10.4}%
+\contentsline {section}{\numberline {10.5}Related Symptoms}{32}{section.10.5}%
+\contentsline {section}{\numberline {10.6}Self-Care/Home Management}{32}{section.10.6}%
+\contentsline {section}{\numberline {10.7}Diagnostic Approach}{33}{section.10.7}%
+\contentsline {section}{\numberline {10.8}Treatment/Management Overview}{33}{section.10.8}%
+\contentsline {chapter}{\numberline {11}Anhedonia (Loss of Interest)}{35}{chapter.11}%
+\contentsline {chapter}{\numberline {12}Animal Bites}{39}{chapter.12}%
+\contentsline {section}{\numberline {12.1}Definition}{39}{section.12.1}%
+\contentsline {section}{\numberline {12.2}Pathophysiology}{39}{section.12.2}%
+\contentsline {section}{\numberline {12.3}Etiology}{39}{section.12.3}%
+\contentsline {section}{\numberline {12.4}Indications for Evaluation}{39}{section.12.4}%
+\contentsline {section}{\numberline {12.5}Related Symptoms}{40}{section.12.5}%
+\contentsline {section}{\numberline {12.6}Self-Care/Home Management}{40}{section.12.6}%
+\contentsline {section}{\numberline {12.7}Diagnostic Approach}{40}{section.12.7}%
+\contentsline {section}{\numberline {12.8}Treatment/Management Overview}{40}{section.12.8}%
+\contentsline {chapter}{\numberline {13}Ankle Pain}{41}{chapter.13}%
+\contentsline {chapter}{\numberline {14}Anxiety}{45}{chapter.14}%
+\contentsline {chapter}{\numberline {15}Arm Pain}{49}{chapter.15}%
+\contentsline {chapter}{\numberline {16}Ascites (Abdominal Fluid Accumulation)}{53}{chapter.16}%
+\contentsline {section}{\numberline {16.1}Definition}{53}{section.16.1}%
+\contentsline {section}{\numberline {16.2}Pathophysiology}{53}{section.16.2}%
+\contentsline {section}{\numberline {16.3}Etiology}{53}{section.16.3}%
+\contentsline {section}{\numberline {16.4}Indications for Evaluation}{54}{section.16.4}%
+\contentsline {section}{\numberline {16.5}Related Symptoms}{54}{section.16.5}%
+\contentsline {section}{\numberline {16.6}Self-Care/Home Management}{54}{section.16.6}%
+\contentsline {section}{\numberline {16.7}Diagnostic Approach}{55}{section.16.7}%
+\contentsline {section}{\numberline {16.8}Treatment/Management Overview}{55}{section.16.8}%
+\contentsline {chapter}{\numberline {17}Back Pain}{57}{chapter.17}%
+\contentsline {chapter}{\numberline {18}Bad Breath (Halitosis)}{59}{chapter.18}%
+\contentsline {chapter}{\numberline {19}Bad Taste in the Mouth (Dysgeusia)}{63}{chapter.19}%
+\contentsline {chapter}{\numberline {20}Bedwetting (Nocturnal Enuresis)}{67}{chapter.20}%
+\contentsline {section}{\numberline {20.1}Definition}{67}{section.20.1}%
+\contentsline {section}{\numberline {20.2}Pathophysiology}{67}{section.20.2}%
+\contentsline {section}{\numberline {20.3}Etiology}{67}{section.20.3}%
+\contentsline {section}{\numberline {20.4}Indications for Evaluation}{68}{section.20.4}%
+\contentsline {section}{\numberline {20.5}Related Symptoms}{68}{section.20.5}%
+\contentsline {section}{\numberline {20.6}Self-Care/Home Management}{68}{section.20.6}%
+\contentsline {section}{\numberline {20.7}Diagnostic Approach}{69}{section.20.7}%
+\contentsline {section}{\numberline {20.8}Treatment/Management Overview}{69}{section.20.8}%
+\contentsline {chapter}{\numberline {21}Bent Penis (Peyronie Disease)}{71}{chapter.21}%
+\contentsline {chapter}{\numberline {22}Black Eye (Periorbital Ecchymosis)}{73}{chapter.22}%
+\contentsline {chapter}{\numberline {23}Bleeding After Vaginal Sex (Postcoital Bleeding)}{77}{chapter.23}%
+\contentsline {chapter}{\numberline {24}Bleeding Between Periods (Spotting)}{81}{chapter.24}%
+\contentsline {chapter}{\numberline {25}Bleeding During Pregnancy}{85}{chapter.25}%
+\contentsline {chapter}{\numberline {26}Bloating}{89}{chapter.26}%
+\contentsline {chapter}{\numberline {27}Blood Clots (Venous Thromboembolism)}{93}{chapter.27}%
+\contentsline {chapter}{\numberline {28}Blood in Semen (Hematospermia)}{97}{chapter.28}%
+\contentsline {chapter}{\numberline {29}Blood in Stool}{101}{chapter.29}%
+\contentsline {chapter}{\numberline {30}Boils (Furuncles and Carbuncles)}{103}{chapter.30}%
+\contentsline {section}{\numberline {30.1}Definition}{103}{section.30.1}%
+\contentsline {section}{\numberline {30.2}Pathophysiology}{103}{section.30.2}%
+\contentsline {section}{\numberline {30.3}Etiology}{103}{section.30.3}%
+\contentsline {section}{\numberline {30.4}Indications for Evaluation}{104}{section.30.4}%
+\contentsline {section}{\numberline {30.5}Related Symptoms}{104}{section.30.5}%
+\contentsline {section}{\numberline {30.6}Self-Care/Home Management}{104}{section.30.6}%
+\contentsline {section}{\numberline {30.7}Diagnostic Approach}{105}{section.30.7}%
+\contentsline {section}{\numberline {30.8}Treatment/Management Overview}{105}{section.30.8}%
+\contentsline {chapter}{\numberline {31}Bowel Incontinence}{107}{chapter.31}%
+\contentsline {chapter}{\numberline {32}Brain Fog}{109}{chapter.32}%
+\contentsline {chapter}{\numberline {33}Breast Lump}{113}{chapter.33}%
+\contentsline {chapter}{\numberline {34}Breast Tenderness (Mastalgia)}{117}{chapter.34}%
+\contentsline {chapter}{\numberline {35}Brittle Nails (Nail Changes)}{121}{chapter.35}%
+\contentsline {chapter}{\numberline {36}Bruises (Contusions and Ecchymosis)}{125}{chapter.36}%
+\contentsline {section}{\numberline {36.1}Definition}{125}{section.36.1}%
+\contentsline {section}{\numberline {36.2}Pathophysiology}{125}{section.36.2}%
+\contentsline {section}{\numberline {36.3}Etiology}{125}{section.36.3}%
+\contentsline {section}{\numberline {36.4}Indications for Evaluation}{126}{section.36.4}%
+\contentsline {section}{\numberline {36.5}Related Symptoms}{126}{section.36.5}%
+\contentsline {section}{\numberline {36.6}Self-Care/Home Management}{126}{section.36.6}%
+\contentsline {section}{\numberline {36.7}Diagnostic Approach}{127}{section.36.7}%
+\contentsline {section}{\numberline {36.8}Treatment/Management Overview}{127}{section.36.8}%
+\contentsline {chapter}{\numberline {37}Bunions (Hallux Valgus)}{129}{chapter.37}%
+\contentsline {section}{\numberline {37.1}Definition}{129}{section.37.1}%
+\contentsline {section}{\numberline {37.2}Pathophysiology}{129}{section.37.2}%
+\contentsline {section}{\numberline {37.3}Etiology}{129}{section.37.3}%
+\contentsline {section}{\numberline {37.4}Indications for Evaluation}{130}{section.37.4}%
+\contentsline {section}{\numberline {37.5}Related Symptoms}{130}{section.37.5}%
+\contentsline {section}{\numberline {37.6}Self-Care/Home Management}{130}{section.37.6}%
+\contentsline {section}{\numberline {37.7}Diagnostic Approach}{131}{section.37.7}%
+\contentsline {section}{\numberline {37.8}Treatment/Management Overview}{131}{section.37.8}%
+\contentsline {chapter}{\numberline {38}Burning Feet}{133}{chapter.38}%
+\contentsline {chapter}{\numberline {39}Burning Mouth Syndrome}{137}{chapter.39}%
+\contentsline {chapter}{\numberline {40}Burping (Eructation)}{141}{chapter.40}%
+\contentsline {chapter}{\numberline {41}Calf Pain}{145}{chapter.41}%
+\contentsline {chapter}{\numberline {42}Canker Sores (Aphthous Ulcers)}{149}{chapter.42}%
+\contentsline {section}{\numberline {42.1}Definition}{149}{section.42.1}%
+\contentsline {section}{\numberline {42.2}Pathophysiology}{149}{section.42.2}%
+\contentsline {section}{\numberline {42.3}Etiology}{149}{section.42.3}%
+\contentsline {section}{\numberline {42.4}Indications for Evaluation}{150}{section.42.4}%
+\contentsline {section}{\numberline {42.5}Related Symptoms}{150}{section.42.5}%
+\contentsline {section}{\numberline {42.6}Self-Care/Home Management}{150}{section.42.6}%
+\contentsline {section}{\numberline {42.7}Diagnostic Approach}{151}{section.42.7}%
+\contentsline {section}{\numberline {42.8}Treatment/Management Overview}{151}{section.42.8}%
+\contentsline {chapter}{\numberline {43}Catarrh}{153}{chapter.43}%
+\contentsline {chapter}{\numberline {44}Cellulite}{155}{chapter.44}%
+\contentsline {section}{\numberline {44.1}Definition}{155}{section.44.1}%
+\contentsline {section}{\numberline {44.2}Pathophysiology}{155}{section.44.2}%
+\contentsline {section}{\numberline {44.3}Etiology}{155}{section.44.3}%
+\contentsline {section}{\numberline {44.4}Indications for Evaluation}{155}{section.44.4}%
+\contentsline {section}{\numberline {44.5}Related Symptoms}{156}{section.44.5}%
+\contentsline {section}{\numberline {44.6}Self-Care/Home Management}{156}{section.44.6}%
+\contentsline {section}{\numberline {44.7}Diagnostic Approach}{156}{section.44.7}%
+\contentsline {section}{\numberline {44.8}Treatment/Management Overview}{156}{section.44.8}%
+\contentsline {chapter}{\numberline {45}Chest Pain}{157}{chapter.45}%
+\contentsline {chapter}{\numberline {46}Chest Tightness and Discomfort}{161}{chapter.46}%
+\contentsline {chapter}{\numberline {47}Chills}{165}{chapter.47}%
+\contentsline {chapter}{\numberline {48}Choking (Airway Obstruction)}{167}{chapter.48}%
+\contentsline {chapter}{\numberline {49}Chronic Wounds}{171}{chapter.49}%
+\contentsline {chapter}{\numberline {50}Clitoral Pain (Clitorodynia)}{175}{chapter.50}%
+\contentsline {chapter}{\numberline {51}Cognitive Deficits (Brain Fog and Memory Lapses)}{179}{chapter.51}%
+\contentsline {section}{\numberline {51.1}Definition}{179}{section.51.1}%
+\contentsline {section}{\numberline {51.2}Pathophysiology}{179}{section.51.2}%
+\contentsline {section}{\numberline {51.3}Etiology}{179}{section.51.3}%
+\contentsline {section}{\numberline {51.4}Indications for Evaluation}{180}{section.51.4}%
+\contentsline {section}{\numberline {51.5}Related Symptoms}{180}{section.51.5}%
+\contentsline {section}{\numberline {51.6}Self-Care/Home Management}{180}{section.51.6}%
+\contentsline {section}{\numberline {51.7}Diagnostic Approach}{181}{section.51.7}%
+\contentsline {section}{\numberline {51.8}Treatment/Management Overview}{181}{section.51.8}%
+\contentsline {chapter}{\numberline {52}Cold Hands and Feet (Raynaud Phenomenon)}{183}{chapter.52}%
+\contentsline {chapter}{\numberline {53}Cold Intolerance (Feeling Cold)}{187}{chapter.53}%
+\contentsline {chapter}{\numberline {54}Cold Sores (Herpes Labialis)}{191}{chapter.54}%
+\contentsline {chapter}{\numberline {55}Coma}{195}{chapter.55}%
+\contentsline {section}{\numberline {55.1}Definition}{195}{section.55.1}%
+\contentsline {section}{\numberline {55.2}Pathophysiology}{195}{section.55.2}%
+\contentsline {section}{\numberline {55.3}Etiology}{195}{section.55.3}%
+\contentsline {section}{\numberline {55.4}Indications for Evaluation}{196}{section.55.4}%
+\contentsline {section}{\numberline {55.5}Related Symptoms}{196}{section.55.5}%
+\contentsline {section}{\numberline {55.6}Self-Care/Home Management}{196}{section.55.6}%
+\contentsline {section}{\numberline {55.7}Diagnostic Approach}{197}{section.55.7}%
+\contentsline {section}{\numberline {55.8}Treatment/Management Overview}{197}{section.55.8}%
+\contentsline {chapter}{\numberline {56}Concussion (Mild Traumatic Brain Injury)}{199}{chapter.56}%
+\contentsline {section}{\numberline {56.1}Definition}{199}{section.56.1}%
+\contentsline {section}{\numberline {56.2}Pathophysiology}{199}{section.56.2}%
+\contentsline {section}{\numberline {56.3}Etiology}{199}{section.56.3}%
+\contentsline {section}{\numberline {56.4}Indications for Evaluation}{199}{section.56.4}%
+\contentsline {section}{\numberline {56.5}Related Symptoms}{200}{section.56.5}%
+\contentsline {section}{\numberline {56.6}Self-Care/Home Management}{200}{section.56.6}%
+\contentsline {section}{\numberline {56.7}Diagnostic Approach}{201}{section.56.7}%
+\contentsline {section}{\numberline {56.8}Treatment/Management Overview}{201}{section.56.8}%
+\contentsline {chapter}{\numberline {57}Confusion}{203}{chapter.57}%
+\contentsline {chapter}{\numberline {58}Constipation}{205}{chapter.58}%
+\contentsline {chapter}{\numberline {59}Corns and Calluses}{207}{chapter.59}%
+\contentsline {section}{\numberline {59.1}Definition}{207}{section.59.1}%
+\contentsline {section}{\numberline {59.2}Pathophysiology}{207}{section.59.2}%
+\contentsline {section}{\numberline {59.3}Etiology}{207}{section.59.3}%
+\contentsline {section}{\numberline {59.4}Indications for Evaluation}{207}{section.59.4}%
+\contentsline {section}{\numberline {59.5}Related Symptoms}{208}{section.59.5}%
+\contentsline {section}{\numberline {59.6}Self-Care/Home Management}{208}{section.59.6}%
+\contentsline {section}{\numberline {59.7}Diagnostic Approach}{208}{section.59.7}%
+\contentsline {section}{\numberline {59.8}Treatment/Management Overview}{209}{section.59.8}%
+\contentsline {chapter}{\numberline {60}Cough}{211}{chapter.60}%
+\contentsline {chapter}{\numberline {61}Crying Spells}{213}{chapter.61}%
+\contentsline {chapter}{\numberline {62}Cyst}{217}{chapter.62}%
+\contentsline {section}{\numberline {62.1}Definition}{217}{section.62.1}%
+\contentsline {section}{\numberline {62.2}Pathophysiology}{217}{section.62.2}%
+\contentsline {section}{\numberline {62.3}Etiology}{217}{section.62.3}%
+\contentsline {section}{\numberline {62.4}Indications for Evaluation}{217}{section.62.4}%
+\contentsline {section}{\numberline {62.5}Related Symptoms}{218}{section.62.5}%
+\contentsline {section}{\numberline {62.6}Self-Care/Home Management}{218}{section.62.6}%
+\contentsline {section}{\numberline {62.7}Diagnostic Approach}{218}{section.62.7}%
+\contentsline {section}{\numberline {62.8}Treatment/Management Overview}{219}{section.62.8}%
+\contentsline {chapter}{\numberline {63}Dandruff (Seborrheic Dermatitis of the Scalp)}{221}{chapter.63}%
+\contentsline {section}{\numberline {63.1}Definition}{221}{section.63.1}%
+\contentsline {section}{\numberline {63.2}Pathophysiology}{221}{section.63.2}%
+\contentsline {section}{\numberline {63.3}Etiology}{221}{section.63.3}%
+\contentsline {section}{\numberline {63.4}Indications for Evaluation}{222}{section.63.4}%
+\contentsline {section}{\numberline {63.5}Related Symptoms}{222}{section.63.5}%
+\contentsline {section}{\numberline {63.6}Self-Care/Home Management}{222}{section.63.6}%
+\contentsline {section}{\numberline {63.7}Diagnostic Approach}{222}{section.63.7}%
+\contentsline {section}{\numberline {63.8}Treatment/Management Overview}{223}{section.63.8}%
+\contentsline {chapter}{\numberline {64}Dark Circles Under Eyes}{225}{chapter.64}%
+\contentsline {chapter}{\numberline {65}Dehydration}{229}{chapter.65}%
+\contentsline {chapter}{\numberline {66}Delirium}{233}{chapter.66}%
+\contentsline {chapter}{\numberline {67}Delusions}{235}{chapter.67}%
+\contentsline {chapter}{\numberline {68}Depression}{239}{chapter.68}%
+\contentsline {chapter}{\numberline {69}Diarrhea}{243}{chapter.69}%
+\contentsline {chapter}{\numberline {70}Disorientation}{245}{chapter.70}%
+\contentsline {chapter}{\numberline {71}Dizziness}{249}{chapter.71}%
+\contentsline {chapter}{\numberline {72}Double Vision (Diplopia)}{251}{chapter.72}%
+\contentsline {chapter}{\numberline {73}Drooling (Sialorrhea)}{255}{chapter.73}%
+\contentsline {chapter}{\numberline {74}Dry Eye Disease (Dry Eyes)}{259}{chapter.74}%
+\contentsline {chapter}{\numberline {75}Dry Mouth}{263}{chapter.75}%
+\contentsline {chapter}{\numberline {76}Dry Orgasm}{265}{chapter.76}%
+\contentsline {chapter}{\numberline {77}Dry Skin (Xerosis)}{269}{chapter.77}%
+\contentsline {chapter}{\numberline {78}Dysphagia (Difficulty Swallowing)}{273}{chapter.78}%
+\contentsline {section}{\numberline {78.1}Definition}{273}{section.78.1}%
+\contentsline {section}{\numberline {78.2}Pathophysiology}{273}{section.78.2}%
+\contentsline {section}{\numberline {78.3}Etiology}{273}{section.78.3}%
+\contentsline {section}{\numberline {78.4}Indications for Evaluation}{274}{section.78.4}%
+\contentsline {section}{\numberline {78.5}Related Symptoms}{274}{section.78.5}%
+\contentsline {section}{\numberline {78.6}Self-Care/Home Management}{274}{section.78.6}%
+\contentsline {section}{\numberline {78.7}Diagnostic Approach}{275}{section.78.7}%
+\contentsline {section}{\numberline {78.8}Treatment/Management Overview}{275}{section.78.8}%
+\contentsline {chapter}{\numberline {79}Earache}{277}{chapter.79}%
+\contentsline {chapter}{\numberline {80}Earwax (Cerumen Impaction)}{281}{chapter.80}%
+\contentsline {section}{\numberline {80.1}Definition}{281}{section.80.1}%
+\contentsline {section}{\numberline {80.2}Pathophysiology}{281}{section.80.2}%
+\contentsline {section}{\numberline {80.3}Etiology}{281}{section.80.3}%
+\contentsline {section}{\numberline {80.4}Indications for Evaluation}{281}{section.80.4}%
+\contentsline {section}{\numberline {80.5}Related Symptoms}{282}{section.80.5}%
+\contentsline {section}{\numberline {80.6}Self-Care/Home Management}{282}{section.80.6}%
+\contentsline {section}{\numberline {80.7}Diagnostic Approach}{282}{section.80.7}%
+\contentsline {section}{\numberline {80.8}Treatment/Management Overview}{283}{section.80.8}%
+\contentsline {chapter}{\numberline {81}Edema (Fluid Retention)}{285}{chapter.81}%
+\contentsline {section}{\numberline {81.1}Definition}{285}{section.81.1}%
+\contentsline {section}{\numberline {81.2}Pathophysiology}{285}{section.81.2}%
+\contentsline {section}{\numberline {81.3}Etiology}{285}{section.81.3}%
+\contentsline {section}{\numberline {81.4}Indications for Evaluation}{286}{section.81.4}%
+\contentsline {section}{\numberline {81.5}Related Symptoms}{286}{section.81.5}%
+\contentsline {section}{\numberline {81.6}Self-Care/Home Management}{286}{section.81.6}%
+\contentsline {section}{\numberline {81.7}Diagnostic Approach}{287}{section.81.7}%
+\contentsline {section}{\numberline {81.8}Treatment/Management Overview}{287}{section.81.8}%
+\contentsline {chapter}{\numberline {82}Elbow Pain}{289}{chapter.82}%
+\contentsline {chapter}{\numberline {83}Electric Shock Sensation (Formication)}{293}{chapter.83}%
+\contentsline {chapter}{\numberline {84}Enlarged Prostate (Benign Prostatic Hyperplasia)}{297}{chapter.84}%
+\contentsline {section}{\numberline {84.1}Definition}{297}{section.84.1}%
+\contentsline {section}{\numberline {84.2}Pathophysiology}{297}{section.84.2}%
+\contentsline {section}{\numberline {84.3}Etiology}{297}{section.84.3}%
+\contentsline {section}{\numberline {84.4}Indications for Evaluation}{297}{section.84.4}%
+\contentsline {section}{\numberline {84.5}Related Symptoms}{298}{section.84.5}%
+\contentsline {section}{\numberline {84.6}Self-Care/Home Management}{298}{section.84.6}%
+\contentsline {section}{\numberline {84.7}Diagnostic Approach}{299}{section.84.7}%
+\contentsline {section}{\numberline {84.8}Treatment/Management Overview}{299}{section.84.8}%
+\contentsline {chapter}{\numberline {85}Enlarged Spleen (Splenomegaly)}{301}{chapter.85}%
+\contentsline {section}{\numberline {85.1}Definition}{301}{section.85.1}%
+\contentsline {section}{\numberline {85.2}Pathophysiology}{301}{section.85.2}%
+\contentsline {section}{\numberline {85.3}Etiology}{301}{section.85.3}%
+\contentsline {section}{\numberline {85.4}Indications for Evaluation}{301}{section.85.4}%
+\contentsline {section}{\numberline {85.5}Related Symptoms}{302}{section.85.5}%
+\contentsline {section}{\numberline {85.6}Self-Care/Home Management}{302}{section.85.6}%
+\contentsline {section}{\numberline {85.7}Diagnostic Approach}{302}{section.85.7}%
+\contentsline {section}{\numberline {85.8}Treatment/Management Overview}{303}{section.85.8}%
+\contentsline {chapter}{\numberline {86}Erectile Dysfunction (Impotence)}{305}{chapter.86}%
+\contentsline {chapter}{\numberline {87}Excessive Sweating}{309}{chapter.87}%
+\contentsline {chapter}{\numberline {88}Eye Allergies (Allergic Conjunctivitis)}{313}{chapter.88}%
+\contentsline {section}{\numberline {88.1}Definition}{313}{section.88.1}%
+\contentsline {section}{\numberline {88.2}Pathophysiology}{313}{section.88.2}%
+\contentsline {section}{\numberline {88.3}Etiology}{313}{section.88.3}%
+\contentsline {section}{\numberline {88.4}Indications for Evaluation}{313}{section.88.4}%
+\contentsline {section}{\numberline {88.5}Related Symptoms}{314}{section.88.5}%
+\contentsline {section}{\numberline {88.6}Self-Care/Home Management}{314}{section.88.6}%
+\contentsline {section}{\numberline {88.7}Diagnostic Approach}{314}{section.88.7}%
+\contentsline {section}{\numberline {88.8}Treatment/Management Overview}{315}{section.88.8}%
+\contentsline {chapter}{\numberline {89}Eye Discharge}{317}{chapter.89}%
+\contentsline {chapter}{\numberline {90}Eye Floaters (Vitreous Floaters)}{321}{chapter.90}%
+\contentsline {section}{\numberline {90.1}Definition}{321}{section.90.1}%
+\contentsline {section}{\numberline {90.2}Pathophysiology}{321}{section.90.2}%
+\contentsline {section}{\numberline {90.3}Etiology}{321}{section.90.3}%
+\contentsline {section}{\numberline {90.4}Indications for Evaluation}{322}{section.90.4}%
+\contentsline {section}{\numberline {90.5}Related Symptoms}{322}{section.90.5}%
+\contentsline {section}{\numberline {90.6}Self-Care/Home Management}{322}{section.90.6}%
+\contentsline {section}{\numberline {90.7}Diagnostic Approach}{322}{section.90.7}%
+\contentsline {section}{\numberline {90.8}Treatment/Management Overview}{323}{section.90.8}%
+\contentsline {chapter}{\numberline {91}Eye Pain (Ophthalmalgia)}{325}{chapter.91}%
+\contentsline {chapter}{\numberline {92}Eye Strain (Asthenopia)}{329}{chapter.92}%
+\contentsline {chapter}{\numberline {93}Eye Twitching (Blepharospasm and Myokymia)}{333}{chapter.93}%
+\contentsline {chapter}{\numberline {94}Eyelid Bump (Stye and Chalazion)}{337}{chapter.94}%
+\contentsline {chapter}{\numberline {95}Eyelid Inflammation (Blepharitis)}{341}{chapter.95}%
+\contentsline {section}{\numberline {95.1}Definition}{341}{section.95.1}%
+\contentsline {section}{\numberline {95.2}Pathophysiology}{341}{section.95.2}%
+\contentsline {section}{\numberline {95.3}Etiology}{341}{section.95.3}%
+\contentsline {section}{\numberline {95.4}Indications for Evaluation}{341}{section.95.4}%
+\contentsline {section}{\numberline {95.5}Related Symptoms}{342}{section.95.5}%
+\contentsline {section}{\numberline {95.6}Self-Care/Home Management}{342}{section.95.6}%
+\contentsline {section}{\numberline {95.7}Diagnostic Approach}{342}{section.95.7}%
+\contentsline {section}{\numberline {95.8}Treatment/Management Overview}{343}{section.95.8}%
+\contentsline {chapter}{\numberline {96}Facial Droop}{345}{chapter.96}%
+\contentsline {chapter}{\numberline {97}Facial Numbness}{349}{chapter.97}%
+\contentsline {chapter}{\numberline {98}Fainting (Syncope)}{355}{chapter.98}%
+\contentsline {section}{\numberline {98.1}Definition}{355}{section.98.1}%
+\contentsline {section}{\numberline {98.2}Pathophysiology}{355}{section.98.2}%
+\contentsline {section}{\numberline {98.3}Etiology}{355}{section.98.3}%
+\contentsline {section}{\numberline {98.4}Indications for Evaluation}{355}{section.98.4}%
+\contentsline {section}{\numberline {98.5}Related Symptoms}{356}{section.98.5}%
+\contentsline {section}{\numberline {98.6}Self-Care/Home Management}{356}{section.98.6}%
+\contentsline {section}{\numberline {98.7}Diagnostic Approach}{356}{section.98.7}%
+\contentsline {section}{\numberline {98.8}Treatment/Management Overview}{357}{section.98.8}%
+\contentsline {chapter}{\numberline {99}Fatigue}{359}{chapter.99}%
+\contentsline {chapter}{\numberline {100}Febrile Seizure}{361}{chapter.100}%
+\contentsline {chapter}{\numberline {101}Fever}{365}{chapter.101}%
+\contentsline {chapter}{\numberline {102}Fluid from the Ear (Otorrhea)}{369}{chapter.102}%
+\contentsline {chapter}{\numberline {103}Foot Pain}{373}{chapter.103}%
+\contentsline {chapter}{\numberline {104}Frequent Bowel Movements}{377}{chapter.104}%
+\contentsline {chapter}{\numberline {105}Frequent Urination (Urinary Frequency)}{381}{chapter.105}%
+\contentsline {section}{\numberline {105.1}Definition}{381}{section.105.1}%
+\contentsline {section}{\numberline {105.2}Pathophysiology}{381}{section.105.2}%
+\contentsline {section}{\numberline {105.3}Etiology}{381}{section.105.3}%
+\contentsline {section}{\numberline {105.4}Indications for Evaluation}{382}{section.105.4}%
+\contentsline {section}{\numberline {105.5}Related Symptoms}{382}{section.105.5}%
+\contentsline {section}{\numberline {105.6}Self-Care/Home Management}{382}{section.105.6}%
+\contentsline {section}{\numberline {105.7}Diagnostic Approach}{383}{section.105.7}%
+\contentsline {section}{\numberline {105.8}Treatment/Management Overview}{383}{section.105.8}%
+\contentsline {chapter}{\numberline {106}Frostbite}{385}{chapter.106}%
+\contentsline {section}{\numberline {106.1}Definition}{385}{section.106.1}%
+\contentsline {section}{\numberline {106.2}Pathophysiology}{385}{section.106.2}%
+\contentsline {section}{\numberline {106.3}Etiology}{385}{section.106.3}%
+\contentsline {section}{\numberline {106.4}Indications for Evaluation}{386}{section.106.4}%
+\contentsline {section}{\numberline {106.5}Related Symptoms}{386}{section.106.5}%
+\contentsline {section}{\numberline {106.6}Self-Care/Home Management}{386}{section.106.6}%
+\contentsline {section}{\numberline {106.7}Diagnostic Approach}{386}{section.106.7}%
+\contentsline {section}{\numberline {106.8}Treatment/Management Overview}{387}{section.106.8}%
+\contentsline {chapter}{\numberline {107}Ganglion Cyst}{389}{chapter.107}%
+\contentsline {section}{\numberline {107.1}Definition}{389}{section.107.1}%
+\contentsline {section}{\numberline {107.2}Pathophysiology}{389}{section.107.2}%
+\contentsline {section}{\numberline {107.3}Etiology}{389}{section.107.3}%
+\contentsline {section}{\numberline {107.4}Indications for Evaluation}{389}{section.107.4}%
+\contentsline {section}{\numberline {107.5}Related Symptoms}{390}{section.107.5}%
+\contentsline {section}{\numberline {107.6}Self-Care/Home Management}{390}{section.107.6}%
+\contentsline {section}{\numberline {107.7}Diagnostic Approach}{390}{section.107.7}%
+\contentsline {section}{\numberline {107.8}Treatment/Management Overview}{390}{section.107.8}%
+\contentsline {chapter}{\numberline {108}Green Stool}{391}{chapter.108}%
+\contentsline {chapter}{\numberline {109}Groin Pain or Swelling}{395}{chapter.109}%
+\contentsline {chapter}{\numberline {110}Gum Swelling}{399}{chapter.110}%
+\contentsline {chapter}{\numberline {111}Gynecomastia (Enlarged Male Breast Tissue)}{403}{chapter.111}%
+\contentsline {section}{\numberline {111.1}Definition}{403}{section.111.1}%
+\contentsline {section}{\numberline {111.2}Pathophysiology}{403}{section.111.2}%
+\contentsline {section}{\numberline {111.3}Etiology}{403}{section.111.3}%
+\contentsline {section}{\numberline {111.4}Indications for Evaluation}{404}{section.111.4}%
+\contentsline {section}{\numberline {111.5}Related Symptoms}{404}{section.111.5}%
+\contentsline {section}{\numberline {111.6}Self-Care/Home Management}{404}{section.111.6}%
+\contentsline {section}{\numberline {111.7}Diagnostic Approach}{404}{section.111.7}%
+\contentsline {section}{\numberline {111.8}Treatment/Management Overview}{405}{section.111.8}%
+\contentsline {chapter}{\numberline {112}Haemoptysis (Coughing Up Blood)}{407}{chapter.112}%
+\contentsline {chapter}{\numberline {113}Hair Loss}{409}{chapter.113}%
+\contentsline {chapter}{\numberline {114}Hallucinations}{413}{chapter.114}%
+\contentsline {chapter}{\numberline {115}Hand Tremor}{417}{chapter.115}%
+\contentsline {chapter}{\numberline {116}Headache}{421}{chapter.116}%
+\contentsline {chapter}{\numberline {117}Hearing Loss}{423}{chapter.117}%
+\contentsline {chapter}{\numberline {118}Heart Murmur}{427}{chapter.118}%
+\contentsline {chapter}{\numberline {119}Heartburn}{431}{chapter.119}%
+\contentsline {chapter}{\numberline {120}Heat Cramps}{435}{chapter.120}%
+\contentsline {section}{\numberline {120.1}Definition}{435}{section.120.1}%
+\contentsline {section}{\numberline {120.2}Pathophysiology}{435}{section.120.2}%
+\contentsline {section}{\numberline {120.3}Etiology}{435}{section.120.3}%
+\contentsline {section}{\numberline {120.4}Indications for Evaluation}{435}{section.120.4}%
+\contentsline {section}{\numberline {120.5}Related Symptoms}{436}{section.120.5}%
+\contentsline {section}{\numberline {120.6}Self-Care/Home Management}{436}{section.120.6}%
+\contentsline {section}{\numberline {120.7}Diagnostic Approach}{436}{section.120.7}%
+\contentsline {section}{\numberline {120.8}Treatment/Management Overview}{436}{section.120.8}%
+\contentsline {chapter}{\numberline {121}Heat Exhaustion}{437}{chapter.121}%
+\contentsline {section}{\numberline {121.1}Definition}{437}{section.121.1}%
+\contentsline {section}{\numberline {121.2}Pathophysiology}{437}{section.121.2}%
+\contentsline {section}{\numberline {121.3}Etiology}{437}{section.121.3}%
+\contentsline {section}{\numberline {121.4}Indications for Evaluation}{438}{section.121.4}%
+\contentsline {section}{\numberline {121.5}Related Symptoms}{438}{section.121.5}%
+\contentsline {section}{\numberline {121.6}Self-Care/Home Management}{438}{section.121.6}%
+\contentsline {section}{\numberline {121.7}Diagnostic Approach}{439}{section.121.7}%
+\contentsline {section}{\numberline {121.8}Treatment/Management Overview}{439}{section.121.8}%
+\contentsline {chapter}{\numberline {122}Heat Rash (Miliaria)}{441}{chapter.122}%
+\contentsline {chapter}{\numberline {123}Heat Stroke}{445}{chapter.123}%
+\contentsline {section}{\numberline {123.1}Definition}{445}{section.123.1}%
+\contentsline {section}{\numberline {123.2}Pathophysiology}{445}{section.123.2}%
+\contentsline {section}{\numberline {123.3}Etiology}{445}{section.123.3}%
+\contentsline {section}{\numberline {123.4}Indications for Evaluation}{446}{section.123.4}%
+\contentsline {section}{\numberline {123.5}Related Symptoms}{446}{section.123.5}%
+\contentsline {section}{\numberline {123.6}Self-Care/Home Management}{446}{section.123.6}%
+\contentsline {section}{\numberline {123.7}Diagnostic Approach}{447}{section.123.7}%
+\contentsline {section}{\numberline {123.8}Treatment/Management Overview}{447}{section.123.8}%
+\contentsline {chapter}{\numberline {124}Heavy Periods (Menorrhagia)}{449}{chapter.124}%
+\contentsline {chapter}{\numberline {125}Heel Pain}{453}{chapter.125}%
+\contentsline {chapter}{\numberline {126}Hematoma}{457}{chapter.126}%
+\contentsline {section}{\numberline {126.1}Definition}{457}{section.126.1}%
+\contentsline {section}{\numberline {126.2}Pathophysiology}{457}{section.126.2}%
+\contentsline {section}{\numberline {126.3}Etiology}{457}{section.126.3}%
+\contentsline {section}{\numberline {126.4}Indications for Evaluation}{457}{section.126.4}%
+\contentsline {section}{\numberline {126.5}Related Symptoms}{458}{section.126.5}%
+\contentsline {section}{\numberline {126.6}Self-Care/Home Management}{458}{section.126.6}%
+\contentsline {section}{\numberline {126.7}Diagnostic Approach}{458}{section.126.7}%
+\contentsline {section}{\numberline {126.8}Treatment/Management Overview}{458}{section.126.8}%
+\contentsline {chapter}{\numberline {127}Hematuria}{459}{chapter.127}%
+\contentsline {chapter}{\numberline {128}Hiccups (Singultus)}{463}{chapter.128}%
+\contentsline {chapter}{\numberline {129}Hip Pain}{467}{chapter.129}%
+\contentsline {chapter}{\numberline {130}Hives and Angioedema (Urticaria)}{471}{chapter.130}%
+\contentsline {section}{\numberline {130.1}Definition}{471}{section.130.1}%
+\contentsline {section}{\numberline {130.2}Pathophysiology}{471}{section.130.2}%
+\contentsline {section}{\numberline {130.3}Etiology}{471}{section.130.3}%
+\contentsline {section}{\numberline {130.4}Indications for Evaluation}{471}{section.130.4}%
+\contentsline {section}{\numberline {130.5}Related Symptoms}{472}{section.130.5}%
+\contentsline {section}{\numberline {130.6}Self-Care/Home Management}{472}{section.130.6}%
+\contentsline {section}{\numberline {130.7}Diagnostic Approach}{472}{section.130.7}%
+\contentsline {section}{\numberline {130.8}Treatment/Management Overview}{473}{section.130.8}%
+\contentsline {chapter}{\numberline {131}Hoarseness}{475}{chapter.131}%
+\contentsline {chapter}{\numberline {132}Hot Flushes (Hot Flashes)}{477}{chapter.132}%
+\contentsline {chapter}{\numberline {133}Hyperhidrosis (Excessive Sweating)}{481}{chapter.133}%
+\contentsline {section}{\numberline {133.1}Definition}{481}{section.133.1}%
+\contentsline {section}{\numberline {133.2}Pathophysiology}{481}{section.133.2}%
+\contentsline {section}{\numberline {133.3}Etiology}{481}{section.133.3}%
+\contentsline {section}{\numberline {133.4}Indications for Evaluation}{482}{section.133.4}%
+\contentsline {section}{\numberline {133.5}Related Symptoms}{482}{section.133.5}%
+\contentsline {section}{\numberline {133.6}Self-Care/Home Management}{482}{section.133.6}%
+\contentsline {section}{\numberline {133.7}Diagnostic Approach}{482}{section.133.7}%
+\contentsline {section}{\numberline {133.8}Treatment/Management Overview}{483}{section.133.8}%
+\contentsline {chapter}{\numberline {134}Hyperventilation}{485}{chapter.134}%
+\contentsline {section}{\numberline {134.1}Definition}{485}{section.134.1}%
+\contentsline {section}{\numberline {134.2}Pathophysiology}{485}{section.134.2}%
+\contentsline {section}{\numberline {134.3}Etiology}{485}{section.134.3}%
+\contentsline {section}{\numberline {134.4}Indications for Evaluation}{486}{section.134.4}%
+\contentsline {section}{\numberline {134.5}Related Symptoms}{486}{section.134.5}%
+\contentsline {section}{\numberline {134.6}Self-Care/Home Management}{486}{section.134.6}%
+\contentsline {section}{\numberline {134.7}Diagnostic Approach}{487}{section.134.7}%
+\contentsline {section}{\numberline {134.8}Treatment/Management Overview}{487}{section.134.8}%
+\contentsline {chapter}{\numberline {135}Hyphema (Bleeding in the Eye)}{489}{chapter.135}%
+\contentsline {section}{\numberline {135.1}Definition}{489}{section.135.1}%
+\contentsline {section}{\numberline {135.2}Pathophysiology}{489}{section.135.2}%
+\contentsline {section}{\numberline {135.3}Etiology}{489}{section.135.3}%
+\contentsline {section}{\numberline {135.4}Indications for Evaluation}{489}{section.135.4}%
+\contentsline {section}{\numberline {135.5}Related Symptoms}{490}{section.135.5}%
+\contentsline {section}{\numberline {135.6}Self-Care/Home Management}{490}{section.135.6}%
+\contentsline {section}{\numberline {135.7}Diagnostic Approach}{490}{section.135.7}%
+\contentsline {section}{\numberline {135.8}Treatment/Management Overview}{491}{section.135.8}%
+\contentsline {chapter}{\numberline {136}Hypothermia}{493}{chapter.136}%
+\contentsline {section}{\numberline {136.1}Definition}{493}{section.136.1}%
+\contentsline {section}{\numberline {136.2}Pathophysiology}{493}{section.136.2}%
+\contentsline {section}{\numberline {136.3}Etiology}{493}{section.136.3}%
+\contentsline {section}{\numberline {136.4}Indications for Evaluation}{494}{section.136.4}%
+\contentsline {section}{\numberline {136.5}Related Symptoms}{494}{section.136.5}%
+\contentsline {section}{\numberline {136.6}Self-Care/Home Management}{494}{section.136.6}%
+\contentsline {section}{\numberline {136.7}Diagnostic Approach}{495}{section.136.7}%
+\contentsline {section}{\numberline {136.8}Treatment/Management Overview}{495}{section.136.8}%
+\contentsline {chapter}{\numberline {137}Inability to Urinate (Urinary Retention)}{497}{chapter.137}%
+\contentsline {section}{\numberline {137.1}Definition}{497}{section.137.1}%
+\contentsline {section}{\numberline {137.2}Pathophysiology}{497}{section.137.2}%
+\contentsline {section}{\numberline {137.3}Etiology}{497}{section.137.3}%
+\contentsline {section}{\numberline {137.4}Indications for Evaluation}{498}{section.137.4}%
+\contentsline {section}{\numberline {137.5}Related Symptoms}{498}{section.137.5}%
+\contentsline {section}{\numberline {137.6}Self-Care/Home Management}{498}{section.137.6}%
+\contentsline {section}{\numberline {137.7}Diagnostic Approach}{499}{section.137.7}%
+\contentsline {section}{\numberline {137.8}Treatment/Management Overview}{499}{section.137.8}%
+\contentsline {chapter}{\numberline {138}Indigestion (Dyspepsia)}{501}{chapter.138}%
+\contentsline {section}{\numberline {138.1}Definition}{501}{section.138.1}%
+\contentsline {section}{\numberline {138.2}Pathophysiology}{501}{section.138.2}%
+\contentsline {section}{\numberline {138.3}Etiology}{501}{section.138.3}%
+\contentsline {section}{\numberline {138.4}Indications for Evaluation}{502}{section.138.4}%
+\contentsline {section}{\numberline {138.5}Related Symptoms}{502}{section.138.5}%
+\contentsline {section}{\numberline {138.6}Self-Care/Home Management}{502}{section.138.6}%
+\contentsline {section}{\numberline {138.7}Diagnostic Approach}{503}{section.138.7}%
+\contentsline {section}{\numberline {138.8}Treatment/Management Overview}{503}{section.138.8}%
+\contentsline {chapter}{\numberline {139}Ingrown Hair (Pseudofolliculitis Barbae)}{505}{chapter.139}%
+\contentsline {section}{\numberline {139.1}Definition}{505}{section.139.1}%
+\contentsline {section}{\numberline {139.2}Pathophysiology}{505}{section.139.2}%
+\contentsline {section}{\numberline {139.3}Etiology}{505}{section.139.3}%
+\contentsline {section}{\numberline {139.4}Indications for Evaluation}{506}{section.139.4}%
+\contentsline {section}{\numberline {139.5}Related Symptoms}{506}{section.139.5}%
+\contentsline {section}{\numberline {139.6}Self-Care/Home Management}{506}{section.139.6}%
+\contentsline {section}{\numberline {139.7}Diagnostic Approach}{506}{section.139.7}%
+\contentsline {section}{\numberline {139.8}Treatment/Management Overview}{507}{section.139.8}%
+\contentsline {chapter}{\numberline {140}Ingrown Toenails (Onychocryptosis)}{509}{chapter.140}%
+\contentsline {section}{\numberline {140.1}Definition}{509}{section.140.1}%
+\contentsline {section}{\numberline {140.2}Pathophysiology}{509}{section.140.2}%
+\contentsline {section}{\numberline {140.3}Etiology}{509}{section.140.3}%
+\contentsline {section}{\numberline {140.4}Indications for Evaluation}{509}{section.140.4}%
+\contentsline {section}{\numberline {140.5}Related Symptoms}{510}{section.140.5}%
+\contentsline {section}{\numberline {140.6}Self-Care/Home Management}{510}{section.140.6}%
+\contentsline {section}{\numberline {140.7}Diagnostic Approach}{510}{section.140.7}%
+\contentsline {section}{\numberline {140.8}Treatment/Management Overview}{510}{section.140.8}%
+\contentsline {chapter}{\numberline {141}Insect Bites (Arthropod Bites and Stings)}{513}{chapter.141}%
+\contentsline {section}{\numberline {141.1}Definition}{513}{section.141.1}%
+\contentsline {section}{\numberline {141.2}Pathophysiology}{513}{section.141.2}%
+\contentsline {section}{\numberline {141.3}Etiology}{513}{section.141.3}%
+\contentsline {section}{\numberline {141.4}Indications for Evaluation}{514}{section.141.4}%
+\contentsline {section}{\numberline {141.5}Related Symptoms}{514}{section.141.5}%
+\contentsline {section}{\numberline {141.6}Self-Care/Home Management}{514}{section.141.6}%
+\contentsline {section}{\numberline {141.7}Diagnostic Approach}{515}{section.141.7}%
+\contentsline {section}{\numberline {141.8}Treatment/Management Overview}{515}{section.141.8}%
+\contentsline {chapter}{\numberline {142}Insomnia}{517}{chapter.142}%
+\contentsline {chapter}{\numberline {143}Internal Bleeding}{521}{chapter.143}%
+\contentsline {section}{\numberline {143.1}Definition}{521}{section.143.1}%
+\contentsline {section}{\numberline {143.2}Pathophysiology}{521}{section.143.2}%
+\contentsline {section}{\numberline {143.3}Etiology}{521}{section.143.3}%
+\contentsline {section}{\numberline {143.4}Indications for Evaluation}{522}{section.143.4}%
+\contentsline {section}{\numberline {143.5}Related Symptoms}{522}{section.143.5}%
+\contentsline {section}{\numberline {143.6}Self-Care/Home Management}{522}{section.143.6}%
+\contentsline {section}{\numberline {143.7}Diagnostic Approach}{523}{section.143.7}%
+\contentsline {section}{\numberline {143.8}Treatment/Management Overview}{523}{section.143.8}%
+\contentsline {chapter}{\numberline {144}Irregular Periods}{525}{chapter.144}%
+\contentsline {chapter}{\numberline {145}Irritability}{529}{chapter.145}%
+\contentsline {chapter}{\numberline {146}Itching Pruritus}{533}{chapter.146}%
+\contentsline {chapter}{\numberline {147}Jaundice}{535}{chapter.147}%
+\contentsline {chapter}{\numberline {148}Jock Itch (Tinea Cruris)}{539}{chapter.148}%
+\contentsline {section}{\numberline {148.1}Definition}{539}{section.148.1}%
+\contentsline {section}{\numberline {148.2}Pathophysiology}{539}{section.148.2}%
+\contentsline {section}{\numberline {148.3}Etiology}{539}{section.148.3}%
+\contentsline {section}{\numberline {148.4}Indications for Evaluation}{539}{section.148.4}%
+\contentsline {section}{\numberline {148.5}Related Symptoms}{540}{section.148.5}%
+\contentsline {section}{\numberline {148.6}Self-Care/Home Management}{540}{section.148.6}%
+\contentsline {section}{\numberline {148.7}Diagnostic Approach}{540}{section.148.7}%
+\contentsline {section}{\numberline {148.8}Treatment/Management Overview}{541}{section.148.8}%
+\contentsline {chapter}{\numberline {149}Joint Pain}{543}{chapter.149}%
+\contentsline {chapter}{\numberline {150}Kidney Pain}{545}{chapter.150}%
+\contentsline {chapter}{\numberline {151}Knee Injury}{549}{chapter.151}%
+\contentsline {section}{\numberline {151.1}Definition}{549}{section.151.1}%
+\contentsline {section}{\numberline {151.2}Pathophysiology}{549}{section.151.2}%
+\contentsline {section}{\numberline {151.3}Etiology}{549}{section.151.3}%
+\contentsline {section}{\numberline {151.4}Indications for Evaluation}{550}{section.151.4}%
+\contentsline {section}{\numberline {151.5}Related Symptoms}{550}{section.151.5}%
+\contentsline {section}{\numberline {151.6}Self-Care/Home Management}{550}{section.151.6}%
+\contentsline {section}{\numberline {151.7}Diagnostic Approach}{551}{section.151.7}%
+\contentsline {section}{\numberline {151.8}Treatment/Management Overview}{551}{section.151.8}%
+\contentsline {chapter}{\numberline {152}Knee Pain}{553}{chapter.152}%
+\contentsline {chapter}{\numberline {153}Labia Changes (Atrophy)}{557}{chapter.153}%
+\contentsline {chapter}{\numberline {154}Labor Signs (Signs of Labor)}{561}{chapter.154}%
+\contentsline {section}{\numberline {154.1}Definition}{561}{section.154.1}%
+\contentsline {section}{\numberline {154.2}Pathophysiology}{561}{section.154.2}%
+\contentsline {section}{\numberline {154.3}Etiology}{561}{section.154.3}%
+\contentsline {section}{\numberline {154.4}Indications for Evaluation}{561}{section.154.4}%
+\contentsline {section}{\numberline {154.5}Related Symptoms}{562}{section.154.5}%
+\contentsline {section}{\numberline {154.6}Self-Care/Home Management}{562}{section.154.6}%
+\contentsline {section}{\numberline {154.7}Diagnostic Approach}{562}{section.154.7}%
+\contentsline {section}{\numberline {154.8}Treatment/Management Overview}{562}{section.154.8}%
+\contentsline {chapter}{\numberline {155}Lack of Motivation (Avolition)}{563}{chapter.155}%
+\contentsline {chapter}{\numberline {156}Laryngitis}{567}{chapter.156}%
+\contentsline {section}{\numberline {156.1}Definition}{567}{section.156.1}%
+\contentsline {section}{\numberline {156.2}Pathophysiology}{567}{section.156.2}%
+\contentsline {section}{\numberline {156.3}Etiology}{567}{section.156.3}%
+\contentsline {section}{\numberline {156.4}Indications for Evaluation}{568}{section.156.4}%
+\contentsline {section}{\numberline {156.5}Related Symptoms}{568}{section.156.5}%
+\contentsline {section}{\numberline {156.6}Self-Care/Home Management}{568}{section.156.6}%
+\contentsline {section}{\numberline {156.7}Diagnostic Approach}{569}{section.156.7}%
+\contentsline {section}{\numberline {156.8}Treatment/Management Overview}{569}{section.156.8}%
+\contentsline {chapter}{\numberline {157}Leg Pain}{571}{chapter.157}%
+\contentsline {chapter}{\numberline {158}Loss of Appetite}{575}{chapter.158}%
+\contentsline {chapter}{\numberline {159}Loss of Bone Density (Osteopenia/Osteoporosis)}{577}{chapter.159}%
+\contentsline {chapter}{\numberline {160}Loss of Smell (Anosmia)}{581}{chapter.160}%
+\contentsline {chapter}{\numberline {161}Low Blood Sugar (Hypoglycemia)}{585}{chapter.161}%
+\contentsline {section}{\numberline {161.1}Definition}{585}{section.161.1}%
+\contentsline {section}{\numberline {161.2}Pathophysiology}{585}{section.161.2}%
+\contentsline {section}{\numberline {161.3}Etiology}{585}{section.161.3}%
+\contentsline {section}{\numberline {161.4}Indications for Evaluation}{586}{section.161.4}%
+\contentsline {section}{\numberline {161.5}Related Symptoms}{586}{section.161.5}%
+\contentsline {section}{\numberline {161.6}Self-Care/Home Management}{586}{section.161.6}%
+\contentsline {section}{\numberline {161.7}Diagnostic Approach}{587}{section.161.7}%
+\contentsline {section}{\numberline {161.8}Treatment/Management Overview}{587}{section.161.8}%
+\contentsline {chapter}{\numberline {162}Low Libido (Female Hypoactive Sexual Desire Disorder)}{589}{chapter.162}%
+\contentsline {chapter}{\numberline {163}Low Self-Esteem (Loss of Confidence)}{593}{chapter.163}%
+\contentsline {chapter}{\numberline {164}Lump Under Armpit (Axillary Mass)}{597}{chapter.164}%
+\contentsline {chapter}{\numberline {165}Lymphedema}{601}{chapter.165}%
+\contentsline {section}{\numberline {165.1}Definition}{601}{section.165.1}%
+\contentsline {section}{\numberline {165.2}Pathophysiology}{601}{section.165.2}%
+\contentsline {section}{\numberline {165.3}Etiology}{601}{section.165.3}%
+\contentsline {section}{\numberline {165.4}Indications for Evaluation}{602}{section.165.4}%
+\contentsline {section}{\numberline {165.5}Related Symptoms}{602}{section.165.5}%
+\contentsline {section}{\numberline {165.6}Self-Care/Home Management}{602}{section.165.6}%
+\contentsline {section}{\numberline {165.7}Diagnostic Approach}{603}{section.165.7}%
+\contentsline {section}{\numberline {165.8}Treatment/Management Overview}{603}{section.165.8}%
+\contentsline {chapter}{\numberline {166}Malaise}{605}{chapter.166}%
+\contentsline {chapter}{\numberline {167}Memory Loss}{607}{chapter.167}%
+\contentsline {chapter}{\numberline {168}Menstrual Pain (Dysmenorrhea)}{611}{chapter.168}%
+\contentsline {section}{\numberline {168.1}Definition}{611}{section.168.1}%
+\contentsline {section}{\numberline {168.2}Pathophysiology}{611}{section.168.2}%
+\contentsline {section}{\numberline {168.3}Etiology}{611}{section.168.3}%
+\contentsline {section}{\numberline {168.4}Indications for Evaluation}{612}{section.168.4}%
+\contentsline {section}{\numberline {168.5}Related Symptoms}{612}{section.168.5}%
+\contentsline {section}{\numberline {168.6}Self-Care/Home Management}{612}{section.168.6}%
+\contentsline {section}{\numberline {168.7}Diagnostic Approach}{613}{section.168.7}%
+\contentsline {section}{\numberline {168.8}Treatment/Management Overview}{613}{section.168.8}%
+\contentsline {chapter}{\numberline {169}Migraine}{615}{chapter.169}%
+\contentsline {chapter}{\numberline {170}Mittelschmerz (Ovulation Pain)}{619}{chapter.170}%
+\contentsline {section}{\numberline {170.1}Definition}{619}{section.170.1}%
+\contentsline {section}{\numberline {170.2}Pathophysiology}{619}{section.170.2}%
+\contentsline {section}{\numberline {170.3}Etiology}{619}{section.170.3}%
+\contentsline {section}{\numberline {170.4}Indications for Evaluation}{619}{section.170.4}%
+\contentsline {section}{\numberline {170.5}Related Symptoms}{620}{section.170.5}%
+\contentsline {section}{\numberline {170.6}Self-Care/Home Management}{620}{section.170.6}%
+\contentsline {section}{\numberline {170.7}Diagnostic Approach}{620}{section.170.7}%
+\contentsline {section}{\numberline {170.8}Treatment/Management Overview}{620}{section.170.8}%
+\contentsline {chapter}{\numberline {171}Mood Swings}{621}{chapter.171}%
+\contentsline {chapter}{\numberline {172}Morning Sickness (Nausea Gravidarum)}{625}{chapter.172}%
+\contentsline {chapter}{\numberline {173}Motion Sickness}{629}{chapter.173}%
+\contentsline {chapter}{\numberline {174}Mouth Ulcers (Aphthous Ulcers)}{633}{chapter.174}%
+\contentsline {chapter}{\numberline {175}Muscle Cramps}{637}{chapter.175}%
+\contentsline {chapter}{\numberline {176}Muscle Pain}{641}{chapter.176}%
+\contentsline {chapter}{\numberline {177}Nail Injuries}{643}{chapter.177}%
+\contentsline {section}{\numberline {177.1}Definition}{643}{section.177.1}%
+\contentsline {section}{\numberline {177.2}Pathophysiology}{643}{section.177.2}%
+\contentsline {section}{\numberline {177.3}Etiology}{643}{section.177.3}%
+\contentsline {section}{\numberline {177.4}Indications for Evaluation}{643}{section.177.4}%
+\contentsline {section}{\numberline {177.5}Related Symptoms}{644}{section.177.5}%
+\contentsline {section}{\numberline {177.6}Self-Care/Home Management}{644}{section.177.6}%
+\contentsline {section}{\numberline {177.7}Diagnostic Approach}{644}{section.177.7}%
+\contentsline {section}{\numberline {177.8}Treatment/Management Overview}{645}{section.177.8}%
+\contentsline {chapter}{\numberline {178}Nail Psoriasis}{647}{chapter.178}%
+\contentsline {section}{\numberline {178.1}Definition}{647}{section.178.1}%
+\contentsline {section}{\numberline {178.2}Pathophysiology}{647}{section.178.2}%
+\contentsline {section}{\numberline {178.3}Etiology}{647}{section.178.3}%
+\contentsline {section}{\numberline {178.4}Indications for Evaluation}{647}{section.178.4}%
+\contentsline {section}{\numberline {178.5}Related Symptoms}{648}{section.178.5}%
+\contentsline {section}{\numberline {178.6}Self-Care/Home Management}{648}{section.178.6}%
+\contentsline {section}{\numberline {178.7}Diagnostic Approach}{648}{section.178.7}%
+\contentsline {section}{\numberline {178.8}Treatment/Management Overview}{649}{section.178.8}%
+\contentsline {chapter}{\numberline {179}Narcolepsy}{651}{chapter.179}%
+\contentsline {section}{\numberline {179.1}Definition}{651}{section.179.1}%
+\contentsline {section}{\numberline {179.2}Pathophysiology}{651}{section.179.2}%
+\contentsline {section}{\numberline {179.3}Etiology}{651}{section.179.3}%
+\contentsline {section}{\numberline {179.4}Indications for Evaluation}{651}{section.179.4}%
+\contentsline {section}{\numberline {179.5}Related Symptoms}{652}{section.179.5}%
+\contentsline {section}{\numberline {179.6}Self-Care/Home Management}{652}{section.179.6}%
+\contentsline {section}{\numberline {179.7}Diagnostic Approach}{652}{section.179.7}%
+\contentsline {section}{\numberline {179.8}Treatment/Management Overview}{653}{section.179.8}%
+\contentsline {chapter}{\numberline {180}Nasal Congestion (Blocked Nose)}{655}{chapter.180}%
+\contentsline {chapter}{\numberline {181}Nausea}{659}{chapter.181}%
+\contentsline {chapter}{\numberline {182}Neck Pain}{661}{chapter.182}%
+\contentsline {chapter}{\numberline {183}Nerve Pain (Neuropathic Pain)}{665}{chapter.183}%
+\contentsline {chapter}{\numberline {184}Night Sweats}{669}{chapter.184}%
+\contentsline {chapter}{\numberline {185}Night Terrors (Sleep Terrors)}{673}{chapter.185}%
+\contentsline {section}{\numberline {185.1}Definition}{673}{section.185.1}%
+\contentsline {section}{\numberline {185.2}Pathophysiology}{673}{section.185.2}%
+\contentsline {section}{\numberline {185.3}Etiology}{673}{section.185.3}%
+\contentsline {section}{\numberline {185.4}Indications for Evaluation}{674}{section.185.4}%
+\contentsline {section}{\numberline {185.5}Related Symptoms}{674}{section.185.5}%
+\contentsline {section}{\numberline {185.6}Self-Care/Home Management}{674}{section.185.6}%
+\contentsline {section}{\numberline {185.7}Diagnostic Approach}{674}{section.185.7}%
+\contentsline {section}{\numberline {185.8}Treatment/Management Overview}{675}{section.185.8}%
+\contentsline {chapter}{\numberline {186}Nipple Discharge}{677}{chapter.186}%
+\contentsline {chapter}{\numberline {187}Nosebleed (Epistaxis)}{681}{chapter.187}%
+\contentsline {chapter}{\numberline {188}Nosebleeds (Epistaxis)}{685}{chapter.188}%
+\contentsline {section}{\numberline {188.1}Definition}{685}{section.188.1}%
+\contentsline {section}{\numberline {188.2}Pathophysiology}{685}{section.188.2}%
+\contentsline {section}{\numberline {188.3}Etiology}{685}{section.188.3}%
+\contentsline {section}{\numberline {188.4}Indications for Evaluation}{686}{section.188.4}%
+\contentsline {section}{\numberline {188.5}Related Symptoms}{686}{section.188.5}%
+\contentsline {section}{\numberline {188.6}Self-Care/Home Management}{686}{section.188.6}%
+\contentsline {section}{\numberline {188.7}Diagnostic Approach}{686}{section.188.7}%
+\contentsline {section}{\numberline {188.8}Treatment/Management Overview}{687}{section.188.8}%
+\contentsline {chapter}{\numberline {189}Oral Thrush (Oropharyngeal Candidiasis)}{689}{chapter.189}%
+\contentsline {chapter}{\numberline {190}Overactive Bladder}{693}{chapter.190}%
+\contentsline {section}{\numberline {190.1}Definition}{693}{section.190.1}%
+\contentsline {section}{\numberline {190.2}Pathophysiology}{693}{section.190.2}%
+\contentsline {section}{\numberline {190.3}Etiology}{693}{section.190.3}%
+\contentsline {section}{\numberline {190.4}Indications for Evaluation}{693}{section.190.4}%
+\contentsline {section}{\numberline {190.5}Related Symptoms}{694}{section.190.5}%
+\contentsline {section}{\numberline {190.6}Self-Care/Home Management}{694}{section.190.6}%
+\contentsline {section}{\numberline {190.7}Diagnostic Approach}{694}{section.190.7}%
+\contentsline {section}{\numberline {190.8}Treatment/Management Overview}{695}{section.190.8}%
+\contentsline {chapter}{\numberline {191}Pain}{697}{chapter.191}%
+\contentsline {chapter}{\numberline {192}Pain after Surgery (Postoperative Pain)}{699}{chapter.192}%
+\contentsline {section}{\numberline {192.1}Definition}{699}{section.192.1}%
+\contentsline {section}{\numberline {192.2}Pathophysiology}{699}{section.192.2}%
+\contentsline {section}{\numberline {192.3}Etiology}{699}{section.192.3}%
+\contentsline {section}{\numberline {192.4}Indications for Evaluation}{700}{section.192.4}%
+\contentsline {section}{\numberline {192.5}Related Symptoms}{700}{section.192.5}%
+\contentsline {section}{\numberline {192.6}Self-Care/Home Management}{700}{section.192.6}%
+\contentsline {section}{\numberline {192.7}Diagnostic Approach}{700}{section.192.7}%
+\contentsline {section}{\numberline {192.8}Treatment/Management Overview}{701}{section.192.8}%
+\contentsline {chapter}{\numberline {193}Pain during Intercourse (Dyspareunia)}{703}{chapter.193}%
+\contentsline {section}{\numberline {193.1}Definition}{703}{section.193.1}%
+\contentsline {section}{\numberline {193.2}Pathophysiology}{703}{section.193.2}%
+\contentsline {section}{\numberline {193.3}Etiology}{703}{section.193.3}%
+\contentsline {section}{\numberline {193.4}Indications for Evaluation}{704}{section.193.4}%
+\contentsline {section}{\numberline {193.5}Related Symptoms}{704}{section.193.5}%
+\contentsline {section}{\numberline {193.6}Self-Care/Home Management}{704}{section.193.6}%
+\contentsline {section}{\numberline {193.7}Diagnostic Approach}{705}{section.193.7}%
+\contentsline {section}{\numberline {193.8}Treatment/Management Overview}{705}{section.193.8}%
+\contentsline {chapter}{\numberline {194}Painful Sex (Dyspareunia)}{707}{chapter.194}%
+\contentsline {chapter}{\numberline {195}Painful Urination (Dysuria)}{711}{chapter.195}%
+\contentsline {chapter}{\numberline {196}Palpitations}{715}{chapter.196}%
+\contentsline {chapter}{\numberline {197}Panic Attacks}{717}{chapter.197}%
+\contentsline {chapter}{\numberline {198}Peeling Skin}{721}{chapter.198}%
+\contentsline {chapter}{\numberline {199}Pelvic Organ Prolapse}{725}{chapter.199}%
+\contentsline {chapter}{\numberline {200}Pelvic Pain}{729}{chapter.200}%
+\contentsline {chapter}{\numberline {201}Penis Irritation (Balanitis)}{733}{chapter.201}%
+\contentsline {chapter}{\numberline {202}Penis Swelling and Injury}{737}{chapter.202}%
+\contentsline {chapter}{\numberline {203}Petechiae}{741}{chapter.203}%
+\contentsline {chapter}{\numberline {204}Pinched Nerve (Nerve Compression)}{745}{chapter.204}%
+\contentsline {section}{\numberline {204.1}Definition}{745}{section.204.1}%
+\contentsline {section}{\numberline {204.2}Pathophysiology}{745}{section.204.2}%
+\contentsline {section}{\numberline {204.3}Etiology}{745}{section.204.3}%
+\contentsline {section}{\numberline {204.4}Indications for Evaluation}{746}{section.204.4}%
+\contentsline {section}{\numberline {204.5}Related Symptoms}{746}{section.204.5}%
+\contentsline {section}{\numberline {204.6}Self-Care/Home Management}{746}{section.204.6}%
+\contentsline {section}{\numberline {204.7}Diagnostic Approach}{747}{section.204.7}%
+\contentsline {section}{\numberline {204.8}Treatment/Management Overview}{747}{section.204.8}%
+\contentsline {chapter}{\numberline {205}Pleurisy (Pleuritis)}{749}{chapter.205}%
+\contentsline {section}{\numberline {205.1}Definition}{749}{section.205.1}%
+\contentsline {section}{\numberline {205.2}Pathophysiology}{749}{section.205.2}%
+\contentsline {section}{\numberline {205.3}Etiology}{749}{section.205.3}%
+\contentsline {section}{\numberline {205.4}Indications for Evaluation}{750}{section.205.4}%
+\contentsline {section}{\numberline {205.5}Related Symptoms}{750}{section.205.5}%
+\contentsline {section}{\numberline {205.6}Self-Care/Home Management}{750}{section.205.6}%
+\contentsline {section}{\numberline {205.7}Diagnostic Approach}{751}{section.205.7}%
+\contentsline {section}{\numberline {205.8}Treatment/Management Overview}{751}{section.205.8}%
+\contentsline {chapter}{\numberline {206}Pressure Sores (Bedsores)}{753}{chapter.206}%
+\contentsline {section}{\numberline {206.1}Definition}{753}{section.206.1}%
+\contentsline {section}{\numberline {206.2}Pathophysiology}{753}{section.206.2}%
+\contentsline {section}{\numberline {206.3}Etiology}{753}{section.206.3}%
+\contentsline {section}{\numberline {206.4}Indications for Evaluation}{754}{section.206.4}%
+\contentsline {section}{\numberline {206.5}Related Symptoms}{754}{section.206.5}%
+\contentsline {section}{\numberline {206.6}Self-Care/Home Management}{754}{section.206.6}%
+\contentsline {section}{\numberline {206.7}Diagnostic Approach}{754}{section.206.7}%
+\contentsline {section}{\numberline {206.8}Treatment/Management Overview}{755}{section.206.8}%
+\contentsline {chapter}{\numberline {207}Rash}{757}{chapter.207}%
+\contentsline {chapter}{\numberline {208}Rectal Bleeding}{761}{chapter.208}%
+\contentsline {chapter}{\numberline {209}Rectal Pain (Proctalgia)}{765}{chapter.209}%
+\contentsline {section}{\numberline {209.1}Definition}{765}{section.209.1}%
+\contentsline {section}{\numberline {209.2}Pathophysiology}{765}{section.209.2}%
+\contentsline {section}{\numberline {209.3}Etiology}{765}{section.209.3}%
+\contentsline {section}{\numberline {209.4}Indications for Evaluation}{766}{section.209.4}%
+\contentsline {section}{\numberline {209.5}Related Symptoms}{766}{section.209.5}%
+\contentsline {section}{\numberline {209.6}Self-Care/Home Management}{766}{section.209.6}%
+\contentsline {section}{\numberline {209.7}Diagnostic Approach}{767}{section.209.7}%
+\contentsline {section}{\numberline {209.8}Treatment/Management Overview}{767}{section.209.8}%
+\contentsline {chapter}{\numberline {210}Red Eye}{769}{chapter.210}%
+\contentsline {chapter}{\numberline {211}Restless Legs Syndrome (Willis-Ekbom Disease)}{773}{chapter.211}%
+\contentsline {chapter}{\numberline {212}Runny Nose (Rhinorrhea)}{777}{chapter.212}%
+\contentsline {chapter}{\numberline {213}Scabies}{781}{chapter.213}%
+\contentsline {section}{\numberline {213.1}Definition}{781}{section.213.1}%
+\contentsline {section}{\numberline {213.2}Pathophysiology}{781}{section.213.2}%
+\contentsline {section}{\numberline {213.3}Etiology}{781}{section.213.3}%
+\contentsline {section}{\numberline {213.4}Indications for Evaluation}{781}{section.213.4}%
+\contentsline {section}{\numberline {213.5}Related Symptoms}{782}{section.213.5}%
+\contentsline {section}{\numberline {213.6}Self-Care/Home Management}{782}{section.213.6}%
+\contentsline {section}{\numberline {213.7}Diagnostic Approach}{782}{section.213.7}%
+\contentsline {section}{\numberline {213.8}Treatment/Management Overview}{782}{section.213.8}%
+\contentsline {chapter}{\numberline {214}Sciatica}{783}{chapter.214}%
+\contentsline {chapter}{\numberline {215}Seizures}{787}{chapter.215}%
+\contentsline {chapter}{\numberline {216}Shin Splints (Medial Tibial Stress Syndrome)}{789}{chapter.216}%
+\contentsline {section}{\numberline {216.1}Definition}{789}{section.216.1}%
+\contentsline {section}{\numberline {216.2}Pathophysiology}{789}{section.216.2}%
+\contentsline {section}{\numberline {216.3}Etiology}{789}{section.216.3}%
+\contentsline {section}{\numberline {216.4}Indications for Evaluation}{789}{section.216.4}%
+\contentsline {section}{\numberline {216.5}Related Symptoms}{790}{section.216.5}%
+\contentsline {section}{\numberline {216.6}Self-Care/Home Management}{790}{section.216.6}%
+\contentsline {section}{\numberline {216.7}Diagnostic Approach}{790}{section.216.7}%
+\contentsline {section}{\numberline {216.8}Treatment/Management Overview}{791}{section.216.8}%
+\contentsline {chapter}{\numberline {217}Shock (Hemodynamic Instability)}{793}{chapter.217}%
+\contentsline {section}{\numberline {217.1}Definition}{793}{section.217.1}%
+\contentsline {section}{\numberline {217.2}Pathophysiology}{793}{section.217.2}%
+\contentsline {section}{\numberline {217.3}Etiology}{793}{section.217.3}%
+\contentsline {section}{\numberline {217.4}Indications for Evaluation}{793}{section.217.4}%
+\contentsline {section}{\numberline {217.5}Related Symptoms}{794}{section.217.5}%
+\contentsline {section}{\numberline {217.6}Self-Care/Home Management}{794}{section.217.6}%
+\contentsline {section}{\numberline {217.7}Diagnostic Approach}{794}{section.217.7}%
+\contentsline {section}{\numberline {217.8}Treatment/Management Overview}{795}{section.217.8}%
+\contentsline {chapter}{\numberline {218}Shortness of Breath}{797}{chapter.218}%
+\contentsline {chapter}{\numberline {219}Shoulder Pain}{799}{chapter.219}%
+\contentsline {chapter}{\numberline {220}Skin Tags (Acrochordons)}{803}{chapter.220}%
+\contentsline {section}{\numberline {220.1}Definition}{803}{section.220.1}%
+\contentsline {section}{\numberline {220.2}Pathophysiology}{803}{section.220.2}%
+\contentsline {section}{\numberline {220.3}Etiology}{803}{section.220.3}%
+\contentsline {section}{\numberline {220.4}Indications for Evaluation}{803}{section.220.4}%
+\contentsline {section}{\numberline {220.5}Related Symptoms}{804}{section.220.5}%
+\contentsline {section}{\numberline {220.6}Self-Care/Home Management}{804}{section.220.6}%
+\contentsline {section}{\numberline {220.7}Diagnostic Approach}{804}{section.220.7}%
+\contentsline {section}{\numberline {220.8}Treatment/Management Overview}{804}{section.220.8}%
+\contentsline {chapter}{\numberline {221}Sneezing}{805}{chapter.221}%
+\contentsline {chapter}{\numberline {222}Snoring}{807}{chapter.222}%
+\contentsline {chapter}{\numberline {223}Sore Throat}{811}{chapter.223}%
+\contentsline {chapter}{\numberline {224}Splinters}{813}{chapter.224}%
+\contentsline {section}{\numberline {224.1}Definition}{813}{section.224.1}%
+\contentsline {section}{\numberline {224.2}Pathophysiology}{813}{section.224.2}%
+\contentsline {section}{\numberline {224.3}Etiology}{813}{section.224.3}%
+\contentsline {section}{\numberline {224.4}Indications for Evaluation}{813}{section.224.4}%
+\contentsline {section}{\numberline {224.5}Related Symptoms}{814}{section.224.5}%
+\contentsline {section}{\numberline {224.6}Self-Care/Home Management}{814}{section.224.6}%
+\contentsline {section}{\numberline {224.7}Diagnostic Approach}{814}{section.224.7}%
+\contentsline {section}{\numberline {224.8}Treatment/Management Overview}{814}{section.224.8}%
+\contentsline {chapter}{\numberline {225}Stool Color Changes}{815}{chapter.225}%
+\contentsline {section}{\numberline {225.1}Definition}{815}{section.225.1}%
+\contentsline {section}{\numberline {225.2}Pathophysiology}{815}{section.225.2}%
+\contentsline {section}{\numberline {225.3}Etiology}{815}{section.225.3}%
+\contentsline {section}{\numberline {225.4}Indications for Evaluation}{815}{section.225.4}%
+\contentsline {section}{\numberline {225.5}Related Symptoms}{816}{section.225.5}%
+\contentsline {section}{\numberline {225.6}Self-Care/Home Management}{816}{section.225.6}%
+\contentsline {section}{\numberline {225.7}Diagnostic Approach}{816}{section.225.7}%
+\contentsline {section}{\numberline {225.8}Treatment/Management Overview}{817}{section.225.8}%
+\contentsline {chapter}{\numberline {226}Stress Health (Stress Management)}{819}{chapter.226}%
+\contentsline {section}{\numberline {226.1}Definition}{819}{section.226.1}%
+\contentsline {section}{\numberline {226.2}Pathophysiology}{819}{section.226.2}%
+\contentsline {section}{\numberline {226.3}Etiology}{819}{section.226.3}%
+\contentsline {section}{\numberline {226.4}Indications for Evaluation}{820}{section.226.4}%
+\contentsline {section}{\numberline {226.5}Related Symptoms}{820}{section.226.5}%
+\contentsline {section}{\numberline {226.6}Self-Care/Home Management}{820}{section.226.6}%
+\contentsline {section}{\numberline {226.7}Diagnostic Approach}{821}{section.226.7}%
+\contentsline {section}{\numberline {226.8}Treatment/Management Overview}{821}{section.226.8}%
+\contentsline {chapter}{\numberline {227}Stretch Marks (Striae Distensae)}{823}{chapter.227}%
+\contentsline {section}{\numberline {227.1}Definition}{823}{section.227.1}%
+\contentsline {section}{\numberline {227.2}Pathophysiology}{823}{section.227.2}%
+\contentsline {section}{\numberline {227.3}Etiology}{823}{section.227.3}%
+\contentsline {section}{\numberline {227.4}Indications for Evaluation}{824}{section.227.4}%
+\contentsline {section}{\numberline {227.5}Related Symptoms}{824}{section.227.5}%
+\contentsline {section}{\numberline {227.6}Self-Care/Home Management}{824}{section.227.6}%
+\contentsline {section}{\numberline {227.7}Diagnostic Approach}{824}{section.227.7}%
+\contentsline {section}{\numberline {227.8}Treatment/Management Overview}{825}{section.227.8}%
+\contentsline {chapter}{\numberline {228}Stroke}{827}{chapter.228}%
+\contentsline {chapter}{\numberline {229}Sty (Hordeolum)}{829}{chapter.229}%
+\contentsline {section}{\numberline {229.1}Definition}{829}{section.229.1}%
+\contentsline {section}{\numberline {229.2}Pathophysiology}{829}{section.229.2}%
+\contentsline {section}{\numberline {229.3}Etiology}{829}{section.229.3}%
+\contentsline {section}{\numberline {229.4}Indications for Evaluation}{829}{section.229.4}%
+\contentsline {section}{\numberline {229.5}Related Symptoms}{830}{section.229.5}%
+\contentsline {section}{\numberline {229.6}Self-Care/Home Management}{830}{section.229.6}%
+\contentsline {section}{\numberline {229.7}Diagnostic Approach}{830}{section.229.7}%
+\contentsline {section}{\numberline {229.8}Treatment/Management Overview}{830}{section.229.8}%
+\contentsline {chapter}{\numberline {230}Sunburn}{831}{chapter.230}%
+\contentsline {section}{\numberline {230.1}Definition}{831}{section.230.1}%
+\contentsline {section}{\numberline {230.2}Pathophysiology}{831}{section.230.2}%
+\contentsline {section}{\numberline {230.3}Etiology}{831}{section.230.3}%
+\contentsline {section}{\numberline {230.4}Indications for Evaluation}{831}{section.230.4}%
+\contentsline {section}{\numberline {230.5}Related Symptoms}{832}{section.230.5}%
+\contentsline {section}{\numberline {230.6}Self-Care/Home Management}{832}{section.230.6}%
+\contentsline {section}{\numberline {230.7}Diagnostic Approach}{832}{section.230.7}%
+\contentsline {section}{\numberline {230.8}Treatment/Management Overview}{832}{section.230.8}%
+\contentsline {chapter}{\numberline {231}Swelling}{835}{chapter.231}%
+\contentsline {chapter}{\numberline {232}Swollen or Painful Testicle}{839}{chapter.232}%
+\contentsline {chapter}{\numberline {233}Syncope}{843}{chapter.233}%
+\contentsline {chapter}{\numberline {234}Tachycardia}{845}{chapter.234}%
+\contentsline {chapter}{\numberline {235}Teething}{849}{chapter.235}%
+\contentsline {section}{\numberline {235.1}Definition}{849}{section.235.1}%
+\contentsline {section}{\numberline {235.2}Pathophysiology}{849}{section.235.2}%
+\contentsline {section}{\numberline {235.3}Etiology}{849}{section.235.3}%
+\contentsline {section}{\numberline {235.4}Indications for Evaluation}{849}{section.235.4}%
+\contentsline {section}{\numberline {235.5}Related Symptoms}{850}{section.235.5}%
+\contentsline {section}{\numberline {235.6}Self-Care/Home Management}{850}{section.235.6}%
+\contentsline {section}{\numberline {235.7}Diagnostic Approach}{850}{section.235.7}%
+\contentsline {section}{\numberline {235.8}Treatment/Management Overview}{850}{section.235.8}%
+\contentsline {chapter}{\numberline {236}Testicular Pain (Orchalgia)}{851}{chapter.236}%
+\contentsline {section}{\numberline {236.1}Definition}{851}{section.236.1}%
+\contentsline {section}{\numberline {236.2}Pathophysiology}{851}{section.236.2}%
+\contentsline {section}{\numberline {236.3}Etiology}{851}{section.236.3}%
+\contentsline {section}{\numberline {236.4}Indications for Evaluation}{852}{section.236.4}%
+\contentsline {section}{\numberline {236.5}Related Symptoms}{852}{section.236.5}%
+\contentsline {section}{\numberline {236.6}Self-Care/Home Management}{852}{section.236.6}%
+\contentsline {section}{\numberline {236.7}Diagnostic Approach}{852}{section.236.7}%
+\contentsline {section}{\numberline {236.8}Treatment/Management Overview}{853}{section.236.8}%
+\contentsline {chapter}{\numberline {237}Tingling Numbness}{855}{chapter.237}%
+\contentsline {chapter}{\numberline {238}Tinnitus (Ringing in the Ears)}{859}{chapter.238}%
+\contentsline {chapter}{\numberline {239}Toothache (Dental Pain)}{863}{chapter.239}%
+\contentsline {chapter}{\numberline {240}Tremors}{867}{chapter.240}%
+\contentsline {section}{\numberline {240.1}Definition}{867}{section.240.1}%
+\contentsline {section}{\numberline {240.2}Pathophysiology}{867}{section.240.2}%
+\contentsline {section}{\numberline {240.3}Etiology}{867}{section.240.3}%
+\contentsline {section}{\numberline {240.4}Indications for Evaluation}{868}{section.240.4}%
+\contentsline {section}{\numberline {240.5}Related Symptoms}{868}{section.240.5}%
+\contentsline {section}{\numberline {240.6}Self-Care/Home Management}{868}{section.240.6}%
+\contentsline {section}{\numberline {240.7}Diagnostic Approach}{868}{section.240.7}%
+\contentsline {section}{\numberline {240.8}Treatment/Management Overview}{869}{section.240.8}%
+\contentsline {chapter}{\numberline {241}Urinary Frequency}{871}{chapter.241}%
+\contentsline {chapter}{\numberline {242}Urinary Incontinence}{873}{chapter.242}%
+\contentsline {chapter}{\numberline {243}Urinary Retention}{875}{chapter.243}%
+\contentsline {chapter}{\numberline {244}Urine Odor}{879}{chapter.244}%
+\contentsline {chapter}{\numberline {245}Vaginal Bleeding}{883}{chapter.245}%
+\contentsline {section}{\numberline {245.1}Definition}{883}{section.245.1}%
+\contentsline {section}{\numberline {245.2}Pathophysiology}{883}{section.245.2}%
+\contentsline {section}{\numberline {245.3}Etiology}{883}{section.245.3}%
+\contentsline {section}{\numberline {245.4}Indications for Evaluation}{884}{section.245.4}%
+\contentsline {section}{\numberline {245.5}Related Symptoms}{884}{section.245.5}%
+\contentsline {section}{\numberline {245.6}Self-Care/Home Management}{884}{section.245.6}%
+\contentsline {section}{\numberline {245.7}Diagnostic Approach}{885}{section.245.7}%
+\contentsline {section}{\numberline {245.8}Treatment/Management Overview}{885}{section.245.8}%
+\contentsline {chapter}{\numberline {246}Vaginal Discharge}{887}{chapter.246}%
+\contentsline {chapter}{\numberline {247}Vaginal Dryness}{889}{chapter.247}%
+\contentsline {chapter}{\numberline {248}Vaginal Irritation and Infection}{893}{chapter.248}%
+\contentsline {chapter}{\numberline {249}Vaginal Prolapse (Pelvic Organ Prolapse)}{897}{chapter.249}%
+\contentsline {section}{\numberline {249.1}Definition}{897}{section.249.1}%
+\contentsline {section}{\numberline {249.2}Pathophysiology}{897}{section.249.2}%
+\contentsline {section}{\numberline {249.3}Etiology}{897}{section.249.3}%
+\contentsline {section}{\numberline {249.4}Indications for Evaluation}{898}{section.249.4}%
+\contentsline {section}{\numberline {249.5}Related Symptoms}{898}{section.249.5}%
+\contentsline {section}{\numberline {249.6}Self-Care/Home Management}{898}{section.249.6}%
+\contentsline {section}{\numberline {249.7}Diagnostic Approach}{898}{section.249.7}%
+\contentsline {section}{\numberline {249.8}Treatment/Management Overview}{899}{section.249.8}%
+\contentsline {chapter}{\numberline {250}Vertigo}{901}{chapter.250}%
+\contentsline {chapter}{\numberline {251}Vision Blurred}{903}{chapter.251}%
+\contentsline {chapter}{\numberline {252}Vomiting}{905}{chapter.252}%
+\contentsline {chapter}{\numberline {253}Vomiting and Nausea}{907}{chapter.253}%
+\contentsline {section}{\numberline {253.1}Definition}{907}{section.253.1}%
+\contentsline {section}{\numberline {253.2}Pathophysiology}{907}{section.253.2}%
+\contentsline {section}{\numberline {253.3}Etiology}{907}{section.253.3}%
+\contentsline {section}{\numberline {253.4}Indications for Evaluation}{908}{section.253.4}%
+\contentsline {section}{\numberline {253.5}Related Symptoms}{908}{section.253.5}%
+\contentsline {section}{\numberline {253.6}Self-Care/Home Management}{908}{section.253.6}%
+\contentsline {section}{\numberline {253.7}Diagnostic Approach}{909}{section.253.7}%
+\contentsline {section}{\numberline {253.8}Treatment/Management Overview}{909}{section.253.8}%
+\contentsline {chapter}{\numberline {254}Warning Signs During Pregnancy}{911}{chapter.254}%
+\contentsline {chapter}{\numberline {255}Watery Eyes (Epiphora)}{915}{chapter.255}%
+\contentsline {chapter}{\numberline {256}Weakness}{919}{chapter.256}%
+\contentsline {chapter}{\numberline {257}Weight Gain (Menopausal Weight Change)}{921}{chapter.257}%
+\contentsline {chapter}{\numberline {258}Weight Loss}{925}{chapter.258}%
+\contentsline {chapter}{\numberline {259}Wheezing}{927}{chapter.259}%
+\contentsline {chapter}{\numberline {260}White Tongue}{929}{chapter.260}%
+\contentsline {chapter}{\numberline {261}Wound Care (Wound Management)}{933}{chapter.261}%
+\contentsline {section}{\numberline {261.1}Definition}{933}{section.261.1}%
+\contentsline {section}{\numberline {261.2}Pathophysiology}{933}{section.261.2}%
+\contentsline {section}{\numberline {261.3}Etiology}{933}{section.261.3}%
+\contentsline {section}{\numberline {261.4}Indications for Evaluation}{933}{section.261.4}%
+\contentsline {section}{\numberline {261.5}Related Symptoms}{934}{section.261.5}%
+\contentsline {section}{\numberline {261.6}Self-Care/Home Management}{934}{section.261.6}%
+\contentsline {section}{\numberline {261.7}Diagnostic Approach}{934}{section.261.7}%
+\contentsline {section}{\numberline {261.8}Treatment/Management Overview}{934}{section.261.8}%
+\contentsline {chapter}{\numberline {262}Wrist Injury}{935}{chapter.262}%
+\contentsline {section}{\numberline {262.1}Definition}{935}{section.262.1}%
+\contentsline {section}{\numberline {262.2}Pathophysiology}{935}{section.262.2}%
+\contentsline {section}{\numberline {262.3}Etiology}{935}{section.262.3}%
+\contentsline {section}{\numberline {262.4}Indications for Evaluation}{935}{section.262.4}%
+\contentsline {section}{\numberline {262.5}Related Symptoms}{936}{section.262.5}%
+\contentsline {section}{\numberline {262.6}Self-Care/Home Management}{936}{section.262.6}%
+\contentsline {section}{\numberline {262.7}Diagnostic Approach}{936}{section.262.7}%
+\contentsline {section}{\numberline {262.8}Treatment/Management Overview}{936}{section.262.8}%
+\contentsline {chapter}{\numberline {263}Wrist Pain}{937}{chapter.263}%
+\contentsline {chapter}{\numberline {264}Yellow Tongue}{941}{chapter.264}%

@@ -1,0 +1,4764 @@
+This is pdfTeX, Version 3.141592653-2.6-1.40.29 (TeX Live 2026/Homebrew) (preloaded format=pdflatex 2026.3.4)  29 JUL 2026 00:29
+entering extended mode
+ restricted \write18 enabled.
+ %&-line parsing enabled.
+**medical_symptoms.tex
+(./medical_symptoms.tex
+LaTeX2e <2025-11-01>
+L3 programming layer <2026-01-19>
+
+(/opt/homebrew/Cellar/texlive/20260301/share/texmf-dist/tex/latex/base/book.cls
+Document Class: book 2025/01/22 v1.4n Standard LaTeX document class
+
+(/opt/homebrew/Cellar/texlive/20260301/share/texmf-dist/tex/latex/base/bk11.clo
+File: bk11.clo 2025/01/22 v1.4n Standard LaTeX file (size option)
+)
+\c@part=\count275
+\c@chapter=\count276
+\c@section=\count277
+\c@subsection=\count278
+\c@subsubsection=\count279
+\c@paragraph=\count280
+\c@subparagraph=\count281
+\c@figure=\count282
+\c@table=\count283
+\abovecaptionskip=\skip49
+\belowcaptionskip=\skip50
+\bibindent=\dimen148
+)
+(/opt/homebrew/Cellar/texlive/20260301/share/texmf-dist/tex/latex/geometry/geom
+etry.sty
+Package: geometry 2020/01/02 v5.9 Page Geometry
+
+(/opt/homebrew/Cellar/texlive/20260301/share/texmf-dist/tex/latex/graphics/keyv
+al.sty
+Package: keyval 2022/05/29 v1.15 key=value parser (DPC)
+\KV@toks@=\toks17
+)
+(/opt/homebrew/Cellar/texlive/20260301/share/texmf-dist/tex/generic/iftex/ifvte
+x.sty
+Package: ifvtex 2019/10/25 v1.7 ifvtex legacy package. Use iftex instead.
+
+(/opt/homebrew/Cellar/texlive/20260301/share/texmf-dist/tex/generic/iftex/iftex
+.sty
+Package: iftex 2024/12/12 v1.0g TeX engine tests
+))
+\Gm@cnth=\count284
+\Gm@cntv=\count285
+\c@Gm@tempcnt=\count286
+\Gm@bindingoffset=\dimen149
+\Gm@wd@mp=\dimen150
+\Gm@odd@mp=\dimen151
+\Gm@even@mp=\dimen152
+\Gm@layoutwidth=\dimen153
+\Gm@layoutheight=\dimen154
+\Gm@layouthoffset=\dimen155
+\Gm@layoutvoffset=\dimen156
+\Gm@dimlist=\toks18
+)
+(/opt/homebrew/Cellar/texlive/20260301/share/texmf-dist/tex/latex/lm/lmodern.st
+y
+Package: lmodern 2015/05/01 v1.6.1 Latin Modern Fonts
+LaTeX Font Info:    Overwriting symbol font `operators' in version `normal'
+(Font)                  OT1/cmr/m/n --> OT1/lmr/m/n on input line 22.
+LaTeX Font Info:    Overwriting symbol font `letters' in version `normal'
+(Font)                  OML/cmm/m/it --> OML/lmm/m/it on input line 23.
+LaTeX Font Info:    Overwriting symbol font `symbols' in version `normal'
+(Font)                  OMS/cmsy/m/n --> OMS/lmsy/m/n on input line 24.
+LaTeX Font Info:    Overwriting symbol font `largesymbols' in version `normal'
+(Font)                  OMX/cmex/m/n --> OMX/lmex/m/n on input line 25.
+LaTeX Font Info:    Overwriting symbol font `operators' in version `bold'
+(Font)                  OT1/cmr/bx/n --> OT1/lmr/bx/n on input line 26.
+LaTeX Font Info:    Overwriting symbol font `letters' in version `bold'
+(Font)                  OML/cmm/b/it --> OML/lmm/b/it on input line 27.
+LaTeX Font Info:    Overwriting symbol font `symbols' in version `bold'
+(Font)                  OMS/cmsy/b/n --> OMS/lmsy/b/n on input line 28.
+LaTeX Font Info:    Overwriting symbol font `largesymbols' in version `bold'
+(Font)                  OMX/cmex/m/n --> OMX/lmex/m/n on input line 29.
+LaTeX Font Info:    Overwriting math alphabet `\mathbf' in version `normal'
+(Font)                  OT1/cmr/bx/n --> OT1/lmr/bx/n on input line 31.
+LaTeX Font Info:    Overwriting math alphabet `\mathsf' in version `normal'
+(Font)                  OT1/cmss/m/n --> OT1/lmss/m/n on input line 32.
+LaTeX Font Info:    Overwriting math alphabet `\mathit' in version `normal'
+(Font)                  OT1/cmr/m/it --> OT1/lmr/m/it on input line 33.
+LaTeX Font Info:    Overwriting math alphabet `\mathtt' in version `normal'
+(Font)                  OT1/cmtt/m/n --> OT1/lmtt/m/n on input line 34.
+LaTeX Font Info:    Overwriting math alphabet `\mathbf' in version `bold'
+(Font)                  OT1/cmr/bx/n --> OT1/lmr/bx/n on input line 35.
+LaTeX Font Info:    Overwriting math alphabet `\mathsf' in version `bold'
+(Font)                  OT1/cmss/bx/n --> OT1/lmss/bx/n on input line 36.
+LaTeX Font Info:    Overwriting math alphabet `\mathit' in version `bold'
+(Font)                  OT1/cmr/bx/it --> OT1/lmr/bx/it on input line 37.
+LaTeX Font Info:    Overwriting math alphabet `\mathtt' in version `bold'
+(Font)                  OT1/cmtt/m/n --> OT1/lmtt/m/n on input line 38.
+)
+(/opt/homebrew/Cellar/texlive/20260301/share/texmf-dist/tex/latex/base/inputenc
+.sty
+Package: inputenc 2024/02/08 v1.3d Input encoding file
+\inpenc@prehook=\toks19
+\inpenc@posthook=\toks20
+)
+(/opt/homebrew/Cellar/texlive/20260301/share/texmf-dist/tex/latex/base/fontenc.
+sty
+Package: fontenc 2025/07/18 v2.1d Standard LaTeX package
+LaTeX Font Info:    Trying to load font information for T1+lmr on input line 11
+6.
+
+(/opt/homebrew/Cellar/texlive/20260301/share/texmf-dist/tex/latex/lm/t1lmr.fd
+File: t1lmr.fd 2015/05/01 v1.6.1 Font defs for Latin Modern
+))
+(/opt/homebrew/Cellar/texlive/20260301/share/texmf-dist/tex/latex/hyperref/hype
+rref.sty
+Package: hyperref 2026-01-29 v7.01p Hypertext links for LaTeX
+
+(/opt/homebrew/Cellar/texlive/20260301/share/texmf-dist/tex/latex/kvsetkeys/kvs
+etkeys.sty
+Package: kvsetkeys 2022-10-05 v1.19 Key value parser (HO)
+)
+(/opt/homebrew/Cellar/texlive/20260301/share/texmf-dist/tex/generic/kvdefinekey
+s/kvdefinekeys.sty
+Package: kvdefinekeys 2019-12-19 v1.6 Define keys (HO)
+)
+(/opt/homebrew/Cellar/texlive/20260301/share/texmf-dist/tex/generic/pdfescape/p
+dfescape.sty
+Package: pdfescape 2019/12/09 v1.15 Implements pdfTeX's escape features (HO)
+
+(/opt/homebrew/Cellar/texlive/20260301/share/texmf-dist/tex/generic/ltxcmds/ltx
+cmds.sty
+Package: ltxcmds 2023-12-04 v1.26 LaTeX kernel commands for general use (HO)
+)
+(/opt/homebrew/Cellar/texlive/20260301/share/texmf-dist/tex/generic/pdftexcmds/
+pdftexcmds.sty
+Package: pdftexcmds 2020-06-27 v0.33 Utility functions of pdfTeX for LuaTeX (HO
+)
+
+(/opt/homebrew/Cellar/texlive/20260301/share/texmf-dist/tex/generic/infwarerr/i
+nfwarerr.sty
+Package: infwarerr 2019/12/03 v1.5 Providing info/warning/error messages (HO)
+)
+Package pdftexcmds Info: \pdf@primitive is available.
+Package pdftexcmds Info: \pdf@ifprimitive is available.
+Package pdftexcmds Info: \pdfdraftmode found.
+))
+(/opt/homebrew/Cellar/texlive/20260301/share/texmf-dist/tex/latex/hycolor/hycol
+or.sty
+Package: hycolor 2020-01-27 v1.10 Color options for hyperref/bookmark (HO)
+)
+(/opt/homebrew/Cellar/texlive/20260301/share/texmf-dist/tex/latex/hyperref/name
+ref.sty
+Package: nameref 2026-01-29 v2.58 Cross-referencing by name of section
+
+(/opt/homebrew/Cellar/texlive/20260301/share/texmf-dist/tex/latex/refcount/refc
+ount.sty
+Package: refcount 2019/12/15 v3.6 Data extraction from label references (HO)
+)
+(/opt/homebrew/Cellar/texlive/20260301/share/texmf-dist/tex/generic/gettitlestr
+ing/gettitlestring.sty
+Package: gettitlestring 2019/12/15 v1.6 Cleanup title references (HO)
+
+(/opt/homebrew/Cellar/texlive/20260301/share/texmf-dist/tex/latex/kvoptions/kvo
+ptions.sty
+Package: kvoptions 2022-06-15 v3.15 Key value format for package options (HO)
+))
+\c@section@level=\count287
+)
+(/opt/homebrew/Cellar/texlive/20260301/share/texmf-dist/tex/latex/etoolbox/etoo
+lbox.sty
+Package: etoolbox 2025/10/02 v2.5m e-TeX tools for LaTeX (JAW)
+\etb@tempcnta=\count288
+)
+(/opt/homebrew/Cellar/texlive/20260301/share/texmf-dist/tex/generic/stringenc/s
+tringenc.sty
+Package: stringenc 2019/11/29 v1.12 Convert strings between diff. encodings (HO
+)
+)
+\@linkdim=\dimen157
+\Hy@linkcounter=\count289
+\Hy@pagecounter=\count290
+
+(/opt/homebrew/Cellar/texlive/20260301/share/texmf-dist/tex/latex/hyperref/pd1e
+nc.def
+File: pd1enc.def 2026-01-29 v7.01p Hyperref: PDFDocEncoding definition (HO)
+Now handling font encoding PD1 ...
+... no UTF-8 mapping file for font encoding PD1
+)
+(/opt/homebrew/Cellar/texlive/20260301/share/texmf-dist/tex/generic/intcalc/int
+calc.sty
+Package: intcalc 2019/12/15 v1.3 Expandable calculations with integers (HO)
+)
+\Hy@SavedSpaceFactor=\count291
+
+(/opt/homebrew/Cellar/texlive/20260301/share/texmf-dist/tex/latex/hyperref/puen
+c.def
+File: puenc.def 2026-01-29 v7.01p Hyperref: PDF Unicode definition (HO)
+Now handling font encoding PU ...
+... no UTF-8 mapping file for font encoding PU
+)
+Package hyperref Info: Hyper figures OFF on input line 4201.
+Package hyperref Info: Link nesting OFF on input line 4206.
+Package hyperref Info: Hyper index ON on input line 4209.
+Package hyperref Info: Plain pages OFF on input line 4216.
+Package hyperref Info: Backreferencing OFF on input line 4221.
+Package hyperref Info: Implicit mode ON; LaTeX internals redefined.
+Package hyperref Info: Bookmarks ON on input line 4468.
+\c@Hy@tempcnt=\count292
+
+(/opt/homebrew/Cellar/texlive/20260301/share/texmf-dist/tex/latex/url/url.sty
+\Urlmuskip=\muskip17
+Package: url 2013/09/16  ver 3.4  Verb mode for urls, etc.
+)
+LaTeX Info: Redefining \url on input line 4807.
+\XeTeXLinkMargin=\dimen158
+
+(/opt/homebrew/Cellar/texlive/20260301/share/texmf-dist/tex/generic/bitset/bits
+et.sty
+Package: bitset 2019/12/09 v1.3 Handle bit-vector datatype (HO)
+
+(/opt/homebrew/Cellar/texlive/20260301/share/texmf-dist/tex/generic/bigintcalc/
+bigintcalc.sty
+Package: bigintcalc 2019/12/15 v1.5 Expandable calculations on big integers (HO
+)
+))
+\Fld@menulength=\count293
+\Field@Width=\dimen159
+\Fld@charsize=\dimen160
+Package hyperref Info: Hyper figures OFF on input line 6084.
+Package hyperref Info: Link nesting OFF on input line 6089.
+Package hyperref Info: Hyper index ON on input line 6092.
+Package hyperref Info: backreferencing OFF on input line 6099.
+Package hyperref Info: Link coloring OFF on input line 6104.
+Package hyperref Info: Link coloring with OCG OFF on input line 6109.
+Package hyperref Info: PDF/A mode OFF on input line 6114.
+\Hy@abspage=\count294
+\c@Item=\count295
+\c@Hfootnote=\count296
+)
+Package hyperref Info: Driver (autodetected): hpdftex.
+
+(/opt/homebrew/Cellar/texlive/20260301/share/texmf-dist/tex/latex/hyperref/hpdf
+tex.def
+File: hpdftex.def 2026-01-29 v7.01p Hyperref driver for pdfTeX
+\Fld@listcount=\count297
+\c@bookmark@seq@number=\count298
+
+(/opt/homebrew/Cellar/texlive/20260301/share/texmf-dist/tex/latex/rerunfilechec
+k/rerunfilecheck.sty
+Package: rerunfilecheck 2025-06-21 v1.11 Rerun checks for auxiliary files (HO)
+
+(/opt/homebrew/Cellar/texlive/20260301/share/texmf-dist/tex/generic/uniquecount
+er/uniquecounter.sty
+Package: uniquecounter 2019/12/15 v1.4 Provide unlimited unique counter (HO)
+)
+Package uniquecounter Info: New unique counter `rerunfilecheck' on input line 2
+84.
+)
+\Hy@SectionHShift=\skip51
+)
+(/opt/homebrew/Cellar/texlive/20260301/share/texmf-dist/tex/latex/base/textcomp
+.sty
+Package: textcomp 2024/04/24 v2.1b Standard LaTeX package
+)
+(/opt/homebrew/Cellar/texlive/20260301/share/texmf-dist/tex/latex/l3backend/l3b
+ackend-pdftex.def
+File: l3backend-pdftex.def 2025-10-09 L3 backend support: PDF output (pdfTeX)
+\l__color_backend_stack_int=\count299
+) (./medical_symptoms.aux
+(./chapters/appendix_emergency_warnings.aux)
+(./chapters/symptom_abdominal_pain.aux) (./chapters/symptom_abscess.aux)
+(./chapters/symptom_acne.aux) (./chapters/symptom_addiction_withdrawal.aux)
+(./chapters/symptom_allergic_reaction.aux) (./chapters/symptom_amenorrhea.aux)
+(./chapters/symptom_anal_itching.aux) (./chapters/symptom_anal_pain.aux)
+(./chapters/symptom_anemia.aux) (./chapters/symptom_anhedonia.aux)
+(./chapters/symptom_animal_bites.aux) (./chapters/symptom_ankle_pain.aux)
+(./chapters/symptom_anxiety.aux) (./chapters/symptom_arm_pain.aux)
+(./chapters/symptom_ascites.aux) (./chapters/symptom_back_pain.aux)
+(./chapters/symptom_bad_breath.aux)
+(./chapters/symptom_bad_taste_in_the_mouth.aux)
+(./chapters/symptom_bedwetting.aux) (./chapters/symptom_bent_penis.aux)
+(./chapters/symptom_black_eye.aux)
+(./chapters/symptom_bleeding_after_vaginal_sex.aux)
+(./chapters/symptom_bleeding_between_periods.aux)
+(./chapters/symptom_bleeding_during_pregnancy.aux)
+(./chapters/symptom_bloating.aux) (./chapters/symptom_blood_clots.aux)
+(./chapters/symptom_blood_in_semen.aux) (./chapters/symptom_blood_in_stool.aux)
+(./chapters/symptom_boils.aux) (./chapters/symptom_bowel_incontinence.aux)
+(./chapters/symptom_brain_fog.aux) (./chapters/symptom_breast_lump.aux)
+(./chapters/symptom_breast_tenderness.aux)
+(./chapters/symptom_brittle_nails.aux) (./chapters/symptom_bruises.aux)
+(./chapters/symptom_bunions.aux) (./chapters/symptom_burning_feet.aux)
+(./chapters/symptom_burning_mouth_syndrome.aux) (./chapters/symptom_burping.aux
+) (./chapters/symptom_calf_pain.aux) (./chapters/symptom_canker_sores.aux)
+(./chapters/symptom_catarrh.aux) (./chapters/symptom_cellulite.aux)
+(./chapters/symptom_chest_pain.aux)
+(./chapters/symptom_chest_tightness_and_discomfort.aux)
+(./chapters/symptom_chills.aux) (./chapters/symptom_choking.aux)
+(./chapters/symptom_chronic_wounds.aux) (./chapters/symptom_clitoral_pain.aux)
+(./chapters/symptom_cognitive_deficits.aux)
+(./chapters/symptom_cold_hands_and_feet.aux)
+(./chapters/symptom_cold_intolerance.aux) (./chapters/symptom_cold_sores.aux)
+(./chapters/symptom_coma.aux) (./chapters/symptom_concussion.aux)
+(./chapters/symptom_confusion.aux) (./chapters/symptom_constipation.aux)
+(./chapters/symptom_corns_and_calluses.aux) (./chapters/symptom_cough.aux)
+(./chapters/symptom_crying_spells.aux) (./chapters/symptom_cyst.aux)
+(./chapters/symptom_dandruff.aux)
+(./chapters/symptom_dark_circles_under_eyes.aux)
+(./chapters/symptom_dehydration.aux) (./chapters/symptom_delirium.aux)
+(./chapters/symptom_delusions.aux) (./chapters/symptom_depression.aux)
+(./chapters/symptom_diarrhea.aux) (./chapters/symptom_disorientation.aux)
+(./chapters/symptom_dizziness.aux) (./chapters/symptom_double_vision.aux)
+(./chapters/symptom_drooling.aux) (./chapters/symptom_dry_eye_disease.aux)
+(./chapters/symptom_dry_mouth.aux) (./chapters/symptom_dry_orgasm.aux)
+(./chapters/symptom_dry_skin.aux) (./chapters/symptom_dysphagia.aux)
+(./chapters/symptom_earache.aux) (./chapters/symptom_earwax.aux)
+(./chapters/symptom_edema.aux) (./chapters/symptom_elbow_pain.aux)
+(./chapters/symptom_electric_shock_sensation.aux)
+(./chapters/symptom_enlarged_prostate.aux)
+(./chapters/symptom_enlarged_spleen.aux)
+(./chapters/symptom_erectile_dysfunction.aux)
+(./chapters/symptom_excessive_sweating.aux)
+(./chapters/symptom_eye_allergies.aux) (./chapters/symptom_eye_discharge.aux)
+(./chapters/symptom_eye_floaters.aux) (./chapters/symptom_eye_pain.aux)
+(./chapters/symptom_eye_strain.aux) (./chapters/symptom_eye_twitching.aux)
+(./chapters/symptom_eyelid_bump.aux)
+(./chapters/symptom_eyelid_inflammation.aux)
+(./chapters/symptom_facial_droop.aux) (./chapters/symptom_facial_numbness.aux)
+(./chapters/symptom_fainting.aux) (./chapters/symptom_fatigue.aux)
+(./chapters/symptom_febrile_seizure.aux) (./chapters/symptom_fever.aux)
+(./chapters/symptom_fluid_from_the_ear.aux) (./chapters/symptom_foot_pain.aux)
+(./chapters/symptom_frequent_bowel_movements.aux)
+(./chapters/symptom_frequent_urination.aux) (./chapters/symptom_frostbite.aux)
+(./chapters/symptom_ganglion_cyst.aux) (./chapters/symptom_green_stool.aux)
+(./chapters/symptom_groin_pain_or_swelling.aux)
+(./chapters/symptom_gum_swelling.aux) (./chapters/symptom_gynecomastia.aux)
+(./chapters/symptom_haemoptysis.aux) (./chapters/symptom_hair_loss.aux)
+(./chapters/symptom_hallucinations.aux) (./chapters/symptom_hand_tremor.aux)
+(./chapters/symptom_headache.aux) (./chapters/symptom_hearing_loss.aux)
+(./chapters/symptom_heart_murmur.aux) (./chapters/symptom_heartburn.aux)
+(./chapters/symptom_heat_cramps.aux) (./chapters/symptom_heat_exhaustion.aux)
+(./chapters/symptom_heat_rash.aux) (./chapters/symptom_heat_stroke.aux)
+(./chapters/symptom_heavy_periods.aux) (./chapters/symptom_heel_pain.aux)
+(./chapters/symptom_hematoma.aux) (./chapters/symptom_hematuria.aux)
+(./chapters/symptom_hiccups.aux) (./chapters/symptom_hip_pain.aux)
+(./chapters/symptom_hives_and_angioedema.aux)
+(./chapters/symptom_hoarseness.aux) (./chapters/symptom_hot_flushes.aux)
+(./chapters/symptom_hyperhidrosis.aux) (./chapters/symptom_hyperventilation.aux
+) (./chapters/symptom_hyphema.aux) (./chapters/symptom_hypothermia.aux)
+(./chapters/symptom_inability_to_urinate.aux)
+(./chapters/symptom_indigestion.aux) (./chapters/symptom_ingrown_hair.aux)
+(./chapters/symptom_ingrown_toenails.aux) (./chapters/symptom_insect_bites.aux)
+(./chapters/symptom_insomnia.aux) (./chapters/symptom_internal_bleeding.aux)
+(./chapters/symptom_irregular_periods.aux) (./chapters/symptom_irritability.aux
+) (./chapters/symptom_itching_pruritus.aux) (./chapters/symptom_jaundice.aux)
+(./chapters/symptom_jock_itch.aux) (./chapters/symptom_joint_pain.aux)
+(./chapters/symptom_kidney_pain.aux) (./chapters/symptom_knee_injury.aux)
+(./chapters/symptom_knee_pain.aux) (./chapters/symptom_labia_changes.aux)
+(./chapters/symptom_labor_signs.aux) (./chapters/symptom_lack_of_motivation.aux
+) (./chapters/symptom_laryngitis.aux) (./chapters/symptom_leg_pain.aux)
+(./chapters/symptom_loss_of_appetite.aux)
+(./chapters/symptom_loss_of_bone_density.aux)
+(./chapters/symptom_loss_of_smell.aux) (./chapters/symptom_low_blood_sugar.aux)
+(./chapters/symptom_low_libido.aux) (./chapters/symptom_low_self_esteem.aux)
+(./chapters/symptom_lump_under_armpit.aux) (./chapters/symptom_lymphedema.aux)
+(./chapters/symptom_malaise.aux) (./chapters/symptom_memory_loss.aux)
+(./chapters/symptom_menstrual_pain.aux) (./chapters/symptom_migraine.aux)
+(./chapters/symptom_mittelschmerz.aux) (./chapters/symptom_mood_swings.aux)
+(./chapters/symptom_morning_sickness.aux)
+(./chapters/symptom_motion_sickness.aux) (./chapters/symptom_mouth_ulcers.aux)
+(./chapters/symptom_muscle_cramps.aux) (./chapters/symptom_muscle_pain.aux)
+(./chapters/symptom_nail_injuries.aux) (./chapters/symptom_nail_psoriasis.aux)
+(./chapters/symptom_narcolepsy.aux) (./chapters/symptom_nasal_congestion.aux)
+(./chapters/symptom_nausea.aux) (./chapters/symptom_neck_pain.aux)
+(./chapters/symptom_nerve_pain.aux) (./chapters/symptom_night_sweats.aux)
+(./chapters/symptom_night_terrors.aux) (./chapters/symptom_nipple_discharge.aux
+) (./chapters/symptom_nosebleed.aux) (./chapters/symptom_nosebleeds.aux)
+(./chapters/symptom_oral_thrush.aux) (./chapters/symptom_overactive_bladder.aux
+) (./chapters/symptom_pain.aux) (./chapters/symptom_pain_after_surgery.aux)
+(./chapters/symptom_pain_during_intercourse.aux)
+(./chapters/symptom_painful_sex.aux) (./chapters/symptom_painful_urination.aux)
+(./chapters/symptom_palpitations.aux) (./chapters/symptom_panic_attacks.aux)
+(./chapters/symptom_peeling_skin.aux)
+(./chapters/symptom_pelvic_organ_prolapse.aux)
+(./chapters/symptom_pelvic_pain.aux) (./chapters/symptom_penis_irritation.aux)
+(./chapters/symptom_penis_swelling_and_injury.aux)
+(./chapters/symptom_petechiae.aux) (./chapters/symptom_pinched_nerve.aux)
+(./chapters/symptom_pleurisy.aux) (./chapters/symptom_pressure_sores.aux)
+(./chapters/symptom_rash.aux) (./chapters/symptom_rectal_bleeding.aux)
+(./chapters/symptom_rectal_pain.aux) (./chapters/symptom_red_eye.aux)
+(./chapters/symptom_restless_legs_syndrome.aux)
+(./chapters/symptom_runny_nose.aux) (./chapters/symptom_scabies.aux)
+(./chapters/symptom_sciatica.aux) (./chapters/symptom_seizures.aux)
+(./chapters/symptom_shin_splints.aux) (./chapters/symptom_shock.aux)
+(./chapters/symptom_shortness_of_breath.aux)
+(./chapters/symptom_shoulder_pain.aux) (./chapters/symptom_skin_tags.aux)
+(./chapters/symptom_sneezing.aux) (./chapters/symptom_snoring.aux)
+(./chapters/symptom_sore_throat.aux) (./chapters/symptom_splinters.aux)
+(./chapters/symptom_stool_color_changes.aux)
+(./chapters/symptom_stress_health.aux) (./chapters/symptom_stretch_marks.aux)
+(./chapters/symptom_stroke.aux) (./chapters/symptom_sty.aux)
+(./chapters/symptom_sunburn.aux) (./chapters/symptom_swelling.aux)
+(./chapters/symptom_swollen_or_painful_testicle.aux)
+(./chapters/symptom_syncope.aux) (./chapters/symptom_tachycardia.aux)
+(./chapters/symptom_teething.aux) (./chapters/symptom_testicular_pain.aux)
+(./chapters/symptom_tingling_numbness.aux) (./chapters/symptom_tinnitus.aux)
+(./chapters/symptom_toothache.aux) (./chapters/symptom_tremors.aux)
+(./chapters/symptom_urinary_frequency.aux)
+(./chapters/symptom_urinary_incontinence.aux)
+(./chapters/symptom_urinary_retention.aux) (./chapters/symptom_urine_odor.aux)
+(./chapters/symptom_vaginal_bleeding.aux)
+(./chapters/symptom_vaginal_discharge.aux)
+(./chapters/symptom_vaginal_dryness.aux)
+(./chapters/symptom_vaginal_irritation_and_infection.aux)
+(./chapters/symptom_vaginal_prolapse.aux) (./chapters/symptom_vertigo.aux)
+(./chapters/symptom_vision_blurred.aux) (./chapters/symptom_vomiting.aux)
+(./chapters/symptom_vomiting_and_nausea.aux)
+(./chapters/symptom_warning_signs_during_pregnancy.aux)
+(./chapters/symptom_watery_eyes.aux) (./chapters/symptom_weakness.aux)
+(./chapters/symptom_weight_gain.aux) (./chapters/symptom_weight_loss.aux)
+(./chapters/symptom_wheezing.aux) (./chapters/symptom_white_tongue.aux)
+(./chapters/symptom_wound_care.aux) (./chapters/symptom_wrist_injury.aux)
+(./chapters/symptom_wrist_pain.aux) (./chapters/symptom_yellow_tongue.aux))
+\openout1 = `medical_symptoms.aux'.
+
+LaTeX Font Info:    Checking defaults for OML/cmm/m/it on input line 17.
+LaTeX Font Info:    ... okay on input line 17.
+LaTeX Font Info:    Checking defaults for OMS/cmsy/m/n on input line 17.
+LaTeX Font Info:    ... okay on input line 17.
+LaTeX Font Info:    Checking defaults for OT1/cmr/m/n on input line 17.
+LaTeX Font Info:    ... okay on input line 17.
+LaTeX Font Info:    Checking defaults for T1/cmr/m/n on input line 17.
+LaTeX Font Info:    ... okay on input line 17.
+LaTeX Font Info:    Checking defaults for TS1/cmr/m/n on input line 17.
+LaTeX Font Info:    ... okay on input line 17.
+LaTeX Font Info:    Checking defaults for OMX/cmex/m/n on input line 17.
+LaTeX Font Info:    ... okay on input line 17.
+LaTeX Font Info:    Checking defaults for U/cmr/m/n on input line 17.
+LaTeX Font Info:    ... okay on input line 17.
+LaTeX Font Info:    Checking defaults for PD1/pdf/m/n on input line 17.
+LaTeX Font Info:    ... okay on input line 17.
+LaTeX Font Info:    Checking defaults for PU/pdf/m/n on input line 17.
+LaTeX Font Info:    ... okay on input line 17.
+
+*geometry* driver: auto-detecting
+*geometry* detected driver: pdftex
+*geometry* verbose mode - [ preamble ] result:
+* driver: pdftex
+* paper: <default>
+* layout: <same size as paper>
+* layoutoffset:(h,v)=(0.0pt,0.0pt)
+* modes: twoside 
+* h-part:(L,W,R)=(72.26999pt, 469.75502pt, 72.26999pt)
+* v-part:(T,H,B)=(72.26999pt, 650.43001pt, 72.26999pt)
+* \paperwidth=614.295pt
+* \paperheight=794.96999pt
+* \textwidth=469.75502pt
+* \textheight=650.43001pt
+* \oddsidemargin=0.0pt
+* \evensidemargin=0.0pt
+* \topmargin=-31.8738pt
+* \headheight=12.0pt
+* \headsep=19.8738pt
+* \topskip=11.0pt
+* \footskip=27.46295pt
+* \marginparwidth=116.0pt
+* \marginparsep=7.0pt
+* \columnsep=10.0pt
+* \skip\footins=10.0pt plus 4.0pt minus 2.0pt
+* \hoffset=0.0pt
+* \voffset=0.0pt
+* \mag=1000
+* \@twocolumnfalse
+* \@twosidetrue
+* \@mparswitchtrue
+* \@reversemarginfalse
+* (1in=72.27pt=25.4mm, 1cm=28.453pt)
+
+Package hyperref Info: Link coloring OFF on input line 17.
+(./medical_symptoms.out) (./medical_symptoms.out)
+\@outlinefile=\write3
+\openout3 = `medical_symptoms.out'.
+
+LaTeX Font Info:    Trying to load font information for OT1+lmr on input line 1
+9.
+
+(/opt/homebrew/Cellar/texlive/20260301/share/texmf-dist/tex/latex/lm/ot1lmr.fd
+File: ot1lmr.fd 2015/05/01 v1.6.1 Font defs for Latin Modern
+)
+LaTeX Font Info:    Trying to load font information for OML+lmm on input line 1
+9.
+(/opt/homebrew/Cellar/texlive/20260301/share/texmf-dist/tex/latex/lm/omllmm.fd
+File: omllmm.fd 2015/05/01 v1.6.1 Font defs for Latin Modern
+)
+LaTeX Font Info:    Trying to load font information for OMS+lmsy on input line 
+19.
+
+(/opt/homebrew/Cellar/texlive/20260301/share/texmf-dist/tex/latex/lm/omslmsy.fd
+File: omslmsy.fd 2015/05/01 v1.6.1 Font defs for Latin Modern
+)
+LaTeX Font Info:    Trying to load font information for OMX+lmex on input line 
+19.
+
+(/opt/homebrew/Cellar/texlive/20260301/share/texmf-dist/tex/latex/lm/omxlmex.fd
+File: omxlmex.fd 2015/05/01 v1.6.1 Font defs for Latin Modern
+)
+LaTeX Font Info:    External font `lmex10' loaded for size
+(Font)              <12> on input line 19.
+LaTeX Font Info:    External font `lmex10' loaded for size
+(Font)              <8> on input line 19.
+LaTeX Font Info:    External font `lmex10' loaded for size
+(Font)              <6> on input line 19.
+ [1
+
+
+{/opt/homebrew/Cellar/texlive/20260301/share/texmf-dist/fonts/map/pdftex/updmap
+/pdftex.map}{/opt/homebrew/Cellar/texlive/20260301/share/texmf-dist/fonts/enc/d
+vips/lm/lm-ec.enc}] [2
+
+] (./medical_symptoms.toc
+LaTeX Font Info:    External font `lmex10' loaded for size
+(Font)              <10.95> on input line 4.
+ [3] [4] [5] [6] [7]
+[8] [9] [10]
+Overfull \hbox (2.46371pt too wide) detected at line 324
+\T1/lmr/bx/n/10.95 100 
+ []
+
+
+Overfull \hbox (2.46371pt too wide) detected at line 325
+\T1/lmr/bx/n/10.95 101 
+ []
+
+
+Overfull \hbox (2.46371pt too wide) detected at line 326
+\T1/lmr/bx/n/10.95 102 
+ []
+
+
+Overfull \hbox (2.46371pt too wide) detected at line 327
+\T1/lmr/bx/n/10.95 103 
+ []
+
+
+Overfull \hbox (2.46371pt too wide) detected at line 328
+\T1/lmr/bx/n/10.95 104 
+ []
+
+
+Overfull \hbox (2.46371pt too wide) detected at line 329
+\T1/lmr/bx/n/10.95 105 
+ []
+
+[11]
+Overfull \hbox (2.46371pt too wide) detected at line 338
+\T1/lmr/bx/n/10.95 106 
+ []
+
+
+Overfull \hbox (2.46371pt too wide) detected at line 347
+\T1/lmr/bx/n/10.95 107 
+ []
+
+
+Overfull \hbox (2.46371pt too wide) detected at line 356
+\T1/lmr/bx/n/10.95 108 
+ []
+
+
+Overfull \hbox (2.46371pt too wide) detected at line 357
+\T1/lmr/bx/n/10.95 109 
+ []
+
+
+Overfull \hbox (2.46371pt too wide) detected at line 358
+\T1/lmr/bx/n/10.95 110 
+ []
+
+
+Overfull \hbox (2.46371pt too wide) detected at line 359
+\T1/lmr/bx/n/10.95 111 
+ []
+
+
+Overfull \hbox (2.46371pt too wide) detected at line 368
+\T1/lmr/bx/n/10.95 112 
+ []
+
+
+Overfull \hbox (2.46371pt too wide) detected at line 369
+\T1/lmr/bx/n/10.95 113 
+ []
+
+
+Overfull \hbox (2.46371pt too wide) detected at line 370
+\T1/lmr/bx/n/10.95 114 
+ []
+
+
+Overfull \hbox (2.46371pt too wide) detected at line 371
+\T1/lmr/bx/n/10.95 115 
+ []
+
+
+Overfull \hbox (2.46371pt too wide) detected at line 372
+\T1/lmr/bx/n/10.95 116 
+ []
+
+
+Overfull \hbox (2.46371pt too wide) detected at line 373
+\T1/lmr/bx/n/10.95 117 
+ []
+
+
+Overfull \hbox (2.46371pt too wide) detected at line 374
+\T1/lmr/bx/n/10.95 118 
+ []
+
+[12]
+Overfull \hbox (2.46371pt too wide) detected at line 375
+\T1/lmr/bx/n/10.95 119 
+ []
+
+
+Overfull \hbox (2.46371pt too wide) detected at line 376
+\T1/lmr/bx/n/10.95 120 
+ []
+
+
+Overfull \hbox (2.46371pt too wide) detected at line 385
+\T1/lmr/bx/n/10.95 121 
+ []
+
+
+Overfull \hbox (2.46371pt too wide) detected at line 394
+\T1/lmr/bx/n/10.95 122 
+ []
+
+
+Overfull \hbox (2.46371pt too wide) detected at line 395
+\T1/lmr/bx/n/10.95 123 
+ []
+
+
+Overfull \hbox (2.46371pt too wide) detected at line 404
+\T1/lmr/bx/n/10.95 124 
+ []
+
+
+Overfull \hbox (2.46371pt too wide) detected at line 405
+\T1/lmr/bx/n/10.95 125 
+ []
+
+
+Overfull \hbox (2.46371pt too wide) detected at line 406
+\T1/lmr/bx/n/10.95 126 
+ []
+
+
+Overfull \hbox (2.46371pt too wide) detected at line 415
+\T1/lmr/bx/n/10.95 127 
+ []
+
+[13]
+Overfull \hbox (2.46371pt too wide) detected at line 416
+\T1/lmr/bx/n/10.95 128 
+ []
+
+
+Overfull \hbox (2.46371pt too wide) detected at line 417
+\T1/lmr/bx/n/10.95 129 
+ []
+
+
+Overfull \hbox (2.46371pt too wide) detected at line 418
+\T1/lmr/bx/n/10.95 130 
+ []
+
+
+Overfull \hbox (2.46371pt too wide) detected at line 427
+\T1/lmr/bx/n/10.95 131 
+ []
+
+
+Overfull \hbox (2.46371pt too wide) detected at line 428
+\T1/lmr/bx/n/10.95 132 
+ []
+
+
+Overfull \hbox (2.46371pt too wide) detected at line 429
+\T1/lmr/bx/n/10.95 133 
+ []
+
+
+Overfull \hbox (2.46371pt too wide) detected at line 438
+\T1/lmr/bx/n/10.95 134 
+ []
+
+
+Overfull \hbox (2.46371pt too wide) detected at line 447
+\T1/lmr/bx/n/10.95 135 
+ []
+
+
+Overfull \hbox (2.46371pt too wide) detected at line 456
+\T1/lmr/bx/n/10.95 136 
+ []
+
+[14]
+Overfull \hbox (2.46371pt too wide) detected at line 465
+\T1/lmr/bx/n/10.95 137 
+ []
+
+
+Overfull \hbox (2.46371pt too wide) detected at line 474
+\T1/lmr/bx/n/10.95 138 
+ []
+
+
+Overfull \hbox (2.46371pt too wide) detected at line 483
+\T1/lmr/bx/n/10.95 139 
+ []
+
+
+Overfull \hbox (2.46371pt too wide) detected at line 492
+\T1/lmr/bx/n/10.95 140 
+ []
+
+[15]
+Overfull \hbox (2.46371pt too wide) detected at line 501
+\T1/lmr/bx/n/10.95 141 
+ []
+
+
+Overfull \hbox (2.46371pt too wide) detected at line 510
+\T1/lmr/bx/n/10.95 142 
+ []
+
+
+Overfull \hbox (2.46371pt too wide) detected at line 511
+\T1/lmr/bx/n/10.95 143 
+ []
+
+
+Overfull \hbox (2.46371pt too wide) detected at line 520
+\T1/lmr/bx/n/10.95 144 
+ []
+
+
+Overfull \hbox (2.46371pt too wide) detected at line 521
+\T1/lmr/bx/n/10.95 145 
+ []
+
+
+Overfull \hbox (2.46371pt too wide) detected at line 522
+\T1/lmr/bx/n/10.95 146 
+ []
+
+
+Overfull \hbox (2.46371pt too wide) detected at line 523
+\T1/lmr/bx/n/10.95 147 
+ []
+
+
+Overfull \hbox (2.46371pt too wide) detected at line 524
+\T1/lmr/bx/n/10.95 148 
+ []
+
+
+Overfull \hbox (2.46371pt too wide) detected at line 533
+\T1/lmr/bx/n/10.95 149 
+ []
+
+
+Overfull \hbox (2.46371pt too wide) detected at line 534
+\T1/lmr/bx/n/10.95 150 
+ []
+
+
+Overfull \hbox (2.46371pt too wide) detected at line 535
+\T1/lmr/bx/n/10.95 151 
+ []
+
+[16]
+Overfull \hbox (2.46371pt too wide) detected at line 544
+\T1/lmr/bx/n/10.95 152 
+ []
+
+
+Overfull \hbox (2.46371pt too wide) detected at line 545
+\T1/lmr/bx/n/10.95 153 
+ []
+
+
+Overfull \hbox (2.46371pt too wide) detected at line 546
+\T1/lmr/bx/n/10.95 154 
+ []
+
+
+Overfull \hbox (2.46371pt too wide) detected at line 555
+\T1/lmr/bx/n/10.95 155 
+ []
+
+
+Overfull \hbox (2.46371pt too wide) detected at line 556
+\T1/lmr/bx/n/10.95 156 
+ []
+
+
+Overfull \hbox (2.46371pt too wide) detected at line 565
+\T1/lmr/bx/n/10.95 157 
+ []
+
+
+Overfull \hbox (2.46371pt too wide) detected at line 566
+\T1/lmr/bx/n/10.95 158 
+ []
+
+
+Overfull \hbox (2.46371pt too wide) detected at line 567
+\T1/lmr/bx/n/10.95 159 
+ []
+
+
+Overfull \hbox (2.46371pt too wide) detected at line 568
+\T1/lmr/bx/n/10.95 160 
+ []
+
+
+Overfull \hbox (2.46371pt too wide) detected at line 569
+\T1/lmr/bx/n/10.95 161 
+ []
+
+[17]
+Overfull \hbox (2.46371pt too wide) detected at line 578
+\T1/lmr/bx/n/10.95 162 
+ []
+
+
+Overfull \hbox (2.46371pt too wide) detected at line 579
+\T1/lmr/bx/n/10.95 163 
+ []
+
+
+Overfull \hbox (2.46371pt too wide) detected at line 580
+\T1/lmr/bx/n/10.95 164 
+ []
+
+
+Overfull \hbox (2.46371pt too wide) detected at line 581
+\T1/lmr/bx/n/10.95 165 
+ []
+
+
+Overfull \hbox (2.46371pt too wide) detected at line 590
+\T1/lmr/bx/n/10.95 166 
+ []
+
+
+Overfull \hbox (2.46371pt too wide) detected at line 591
+\T1/lmr/bx/n/10.95 167 
+ []
+
+
+Overfull \hbox (2.46371pt too wide) detected at line 592
+\T1/lmr/bx/n/10.95 168 
+ []
+
+
+Overfull \hbox (2.46371pt too wide) detected at line 601
+\T1/lmr/bx/n/10.95 169 
+ []
+
+
+Overfull \hbox (2.46371pt too wide) detected at line 602
+\T1/lmr/bx/n/10.95 170 
+ []
+
+
+Overfull \hbox (2.46371pt too wide) detected at line 611
+\T1/lmr/bx/n/10.95 171 
+ []
+
+
+Overfull \hbox (2.46371pt too wide) detected at line 612
+\T1/lmr/bx/n/10.95 172 
+ []
+
+
+Overfull \hbox (2.46371pt too wide) detected at line 613
+\T1/lmr/bx/n/10.95 173 
+ []
+
+[18]
+Overfull \hbox (2.46371pt too wide) detected at line 614
+\T1/lmr/bx/n/10.95 174 
+ []
+
+
+Overfull \hbox (2.46371pt too wide) detected at line 615
+\T1/lmr/bx/n/10.95 175 
+ []
+
+
+Overfull \hbox (2.46371pt too wide) detected at line 616
+\T1/lmr/bx/n/10.95 176 
+ []
+
+
+Overfull \hbox (2.46371pt too wide) detected at line 617
+\T1/lmr/bx/n/10.95 177 
+ []
+
+
+Overfull \hbox (2.46371pt too wide) detected at line 626
+\T1/lmr/bx/n/10.95 178 
+ []
+
+
+Overfull \hbox (2.46371pt too wide) detected at line 635
+\T1/lmr/bx/n/10.95 179 
+ []
+
+
+Overfull \hbox (2.46371pt too wide) detected at line 644
+\T1/lmr/bx/n/10.95 180 
+ []
+
+
+Overfull \hbox (2.46371pt too wide) detected at line 645
+\T1/lmr/bx/n/10.95 181 
+ []
+
+
+Overfull \hbox (2.46371pt too wide) detected at line 646
+\T1/lmr/bx/n/10.95 182 
+ []
+
+
+Overfull \hbox (2.46371pt too wide) detected at line 647
+\T1/lmr/bx/n/10.95 183 
+ []
+
+
+Overfull \hbox (2.46371pt too wide) detected at line 648
+\T1/lmr/bx/n/10.95 184 
+ []
+
+
+Overfull \hbox (2.46371pt too wide) detected at line 649
+\T1/lmr/bx/n/10.95 185 
+ []
+
+[19]
+Overfull \hbox (2.46371pt too wide) detected at line 658
+\T1/lmr/bx/n/10.95 186 
+ []
+
+
+Overfull \hbox (2.46371pt too wide) detected at line 659
+\T1/lmr/bx/n/10.95 187 
+ []
+
+
+Overfull \hbox (2.46371pt too wide) detected at line 660
+\T1/lmr/bx/n/10.95 188 
+ []
+
+
+Overfull \hbox (2.46371pt too wide) detected at line 669
+\T1/lmr/bx/n/10.95 189 
+ []
+
+
+Overfull \hbox (2.46371pt too wide) detected at line 670
+\T1/lmr/bx/n/10.95 190 
+ []
+
+
+Overfull \hbox (2.46371pt too wide) detected at line 679
+\T1/lmr/bx/n/10.95 191 
+ []
+
+
+Overfull \hbox (2.46371pt too wide) detected at line 680
+\T1/lmr/bx/n/10.95 192 
+ []
+
+
+Overfull \hbox (2.46371pt too wide) detected at line 689
+\T1/lmr/bx/n/10.95 193 
+ []
+
+[20]
+Overfull \hbox (2.46371pt too wide) detected at line 698
+\T1/lmr/bx/n/10.95 194 
+ []
+
+
+Overfull \hbox (2.46371pt too wide) detected at line 699
+\T1/lmr/bx/n/10.95 195 
+ []
+
+
+Overfull \hbox (2.46371pt too wide) detected at line 700
+\T1/lmr/bx/n/10.95 196 
+ []
+
+
+Overfull \hbox (2.46371pt too wide) detected at line 701
+\T1/lmr/bx/n/10.95 197 
+ []
+
+
+Overfull \hbox (2.46371pt too wide) detected at line 702
+\T1/lmr/bx/n/10.95 198 
+ []
+
+
+Overfull \hbox (2.46371pt too wide) detected at line 703
+\T1/lmr/bx/n/10.95 199 
+ []
+
+
+Overfull \hbox (2.46371pt too wide) detected at line 704
+\T1/lmr/bx/n/10.95 200 
+ []
+
+
+Overfull \hbox (2.46371pt too wide) detected at line 705
+\T1/lmr/bx/n/10.95 201 
+ []
+
+
+Overfull \hbox (2.46371pt too wide) detected at line 706
+\T1/lmr/bx/n/10.95 202 
+ []
+
+
+Overfull \hbox (2.46371pt too wide) detected at line 707
+\T1/lmr/bx/n/10.95 203 
+ []
+
+
+Overfull \hbox (2.46371pt too wide) detected at line 708
+\T1/lmr/bx/n/10.95 204 
+ []
+
+
+Overfull \hbox (2.46371pt too wide) detected at line 717
+\T1/lmr/bx/n/10.95 205 
+ []
+
+
+Overfull \hbox (2.46371pt too wide) detected at line 726
+\T1/lmr/bx/n/10.95 206 
+ []
+
+[21]
+Overfull \hbox (2.46371pt too wide) detected at line 735
+\T1/lmr/bx/n/10.95 207 
+ []
+
+
+Overfull \hbox (2.46371pt too wide) detected at line 736
+\T1/lmr/bx/n/10.95 208 
+ []
+
+
+Overfull \hbox (2.46371pt too wide) detected at line 737
+\T1/lmr/bx/n/10.95 209 
+ []
+
+
+Overfull \hbox (2.46371pt too wide) detected at line 746
+\T1/lmr/bx/n/10.95 210 
+ []
+
+
+Overfull \hbox (2.46371pt too wide) detected at line 747
+\T1/lmr/bx/n/10.95 211 
+ []
+
+
+Overfull \hbox (2.46371pt too wide) detected at line 748
+\T1/lmr/bx/n/10.95 212 
+ []
+
+
+Overfull \hbox (2.46371pt too wide) detected at line 749
+\T1/lmr/bx/n/10.95 213 
+ []
+
+
+Overfull \hbox (2.46371pt too wide) detected at line 758
+\T1/lmr/bx/n/10.95 214 
+ []
+
+
+Overfull \hbox (2.46371pt too wide) detected at line 759
+\T1/lmr/bx/n/10.95 215 
+ []
+
+
+Overfull \hbox (2.46371pt too wide) detected at line 760
+\T1/lmr/bx/n/10.95 216 
+ []
+
+[22]
+Overfull \hbox (2.46371pt too wide) detected at line 769
+\T1/lmr/bx/n/10.95 217 
+ []
+
+
+Overfull \hbox (2.46371pt too wide) detected at line 778
+\T1/lmr/bx/n/10.95 218 
+ []
+
+
+Overfull \hbox (2.46371pt too wide) detected at line 779
+\T1/lmr/bx/n/10.95 219 
+ []
+
+
+Overfull \hbox (2.46371pt too wide) detected at line 780
+\T1/lmr/bx/n/10.95 220 
+ []
+
+
+Overfull \hbox (2.46371pt too wide) detected at line 789
+\T1/lmr/bx/n/10.95 221 
+ []
+
+
+Overfull \hbox (2.46371pt too wide) detected at line 790
+\T1/lmr/bx/n/10.95 222 
+ []
+
+
+Overfull \hbox (2.46371pt too wide) detected at line 791
+\T1/lmr/bx/n/10.95 223 
+ []
+
+
+Overfull \hbox (2.46371pt too wide) detected at line 792
+\T1/lmr/bx/n/10.95 224 
+ []
+
+
+Overfull \hbox (2.46371pt too wide) detected at line 801
+\T1/lmr/bx/n/10.95 225 
+ []
+
+[23]
+Overfull \hbox (2.46371pt too wide) detected at line 810
+\T1/lmr/bx/n/10.95 226 
+ []
+
+
+Overfull \hbox (2.46371pt too wide) detected at line 819
+\T1/lmr/bx/n/10.95 227 
+ []
+
+
+Overfull \hbox (2.46371pt too wide) detected at line 828
+\T1/lmr/bx/n/10.95 228 
+ []
+
+
+Overfull \hbox (2.46371pt too wide) detected at line 829
+\T1/lmr/bx/n/10.95 229 
+ []
+
+
+Overfull \hbox (2.46371pt too wide) detected at line 838
+\T1/lmr/bx/n/10.95 230 
+ []
+
+
+Overfull \hbox (2.46371pt too wide) detected at line 847
+\T1/lmr/bx/n/10.95 231 
+ []
+
+
+Overfull \hbox (2.46371pt too wide) detected at line 848
+\T1/lmr/bx/n/10.95 232 
+ []
+
+[24]
+Overfull \hbox (2.46371pt too wide) detected at line 849
+\T1/lmr/bx/n/10.95 233 
+ []
+
+
+Overfull \hbox (2.46371pt too wide) detected at line 850
+\T1/lmr/bx/n/10.95 234 
+ []
+
+
+Overfull \hbox (2.46371pt too wide) detected at line 851
+\T1/lmr/bx/n/10.95 235 
+ []
+
+
+Overfull \hbox (2.46371pt too wide) detected at line 860
+\T1/lmr/bx/n/10.95 236 
+ []
+
+
+Overfull \hbox (2.46371pt too wide) detected at line 869
+\T1/lmr/bx/n/10.95 237 
+ []
+
+
+Overfull \hbox (2.46371pt too wide) detected at line 870
+\T1/lmr/bx/n/10.95 238 
+ []
+
+
+Overfull \hbox (2.46371pt too wide) detected at line 871
+\T1/lmr/bx/n/10.95 239 
+ []
+
+
+Overfull \hbox (2.46371pt too wide) detected at line 872
+\T1/lmr/bx/n/10.95 240 
+ []
+
+
+Overfull \hbox (2.46371pt too wide) detected at line 881
+\T1/lmr/bx/n/10.95 241 
+ []
+
+
+Overfull \hbox (2.46371pt too wide) detected at line 882
+\T1/lmr/bx/n/10.95 242 
+ []
+
+
+Overfull \hbox (2.46371pt too wide) detected at line 883
+\T1/lmr/bx/n/10.95 243 
+ []
+
+
+Overfull \hbox (2.46371pt too wide) detected at line 884
+\T1/lmr/bx/n/10.95 244 
+ []
+
+
+Overfull \hbox (2.46371pt too wide) detected at line 885
+\T1/lmr/bx/n/10.95 245 
+ []
+
+[25]
+Overfull \hbox (2.46371pt too wide) detected at line 894
+\T1/lmr/bx/n/10.95 246 
+ []
+
+
+Overfull \hbox (2.46371pt too wide) detected at line 895
+\T1/lmr/bx/n/10.95 247 
+ []
+
+
+Overfull \hbox (2.46371pt too wide) detected at line 896
+\T1/lmr/bx/n/10.95 248 
+ []
+
+
+Overfull \hbox (2.46371pt too wide) detected at line 897
+\T1/lmr/bx/n/10.95 249 
+ []
+
+
+Overfull \hbox (2.46371pt too wide) detected at line 906
+\T1/lmr/bx/n/10.95 250 
+ []
+
+
+Overfull \hbox (2.46371pt too wide) detected at line 907
+\T1/lmr/bx/n/10.95 251 
+ []
+
+
+Overfull \hbox (2.46371pt too wide) detected at line 908
+\T1/lmr/bx/n/10.95 252 
+ []
+
+
+Overfull \hbox (2.46371pt too wide) detected at line 909
+\T1/lmr/bx/n/10.95 253 
+ []
+
+
+Overfull \hbox (2.46371pt too wide) detected at line 918
+\T1/lmr/bx/n/10.95 254 
+ []
+
+
+Overfull \hbox (2.46371pt too wide) detected at line 919
+\T1/lmr/bx/n/10.95 255 
+ []
+
+
+Overfull \hbox (2.46371pt too wide) detected at line 920
+\T1/lmr/bx/n/10.95 256 
+ []
+
+
+Overfull \hbox (2.46371pt too wide) detected at line 921
+\T1/lmr/bx/n/10.95 257 
+ []
+
+
+Overfull \hbox (2.46371pt too wide) detected at line 922
+\T1/lmr/bx/n/10.95 258 
+ []
+
+[26]
+Overfull \hbox (2.46371pt too wide) detected at line 923
+\T1/lmr/bx/n/10.95 259 
+ []
+
+
+Overfull \hbox (2.46371pt too wide) detected at line 924
+\T1/lmr/bx/n/10.95 260 
+ []
+
+
+Overfull \hbox (2.46371pt too wide) detected at line 925
+\T1/lmr/bx/n/10.95 261 
+ []
+
+
+Overfull \hbox (2.46371pt too wide) detected at line 934
+\T1/lmr/bx/n/10.95 262 
+ []
+
+
+Overfull \hbox (2.46371pt too wide) detected at line 943
+\T1/lmr/bx/n/10.95 263 
+ []
+
+
+Overfull \hbox (2.46371pt too wide) detected at line 944
+\T1/lmr/bx/n/10.95 264 
+ []
+
+)
+\tf@toc=\write4
+\openout4 = `medical_symptoms.toc'.
+
+ [27] [28
+
+]
+\openout2 = `chapters/appendix_emergency_warnings.aux'.
+
+ (./chapters/appendix_emergency_warnings.tex
+Chapter 1.
+LaTeX Font Info:    Trying to load font information for TS1+lmr on input line 6
+.
+(/opt/homebrew/Cellar/texlive/20260301/share/texmf-dist/tex/latex/lm/ts1lmr.fd
+File: ts1lmr.fd 2015/05/01 v1.6.1 Font defs for Latin Modern
+)
+pdfTeX warning (ext4): destination with the same identifier (name{page.1}) has 
+been already used, duplicate ignored
+<to be read again> 
+                   \relax 
+l.23 \clearpage
+                [1
+
+
+{/opt/homebrew/Cellar/texlive/20260301/share/texmf-dist/fonts/enc/dvips/lm/lm-t
+s1.enc}])
+\openout2 = `chapters/symptom_abdominal_pain.aux'.
+
+ (./chapters/symptom_abdominal_pain.tex
+pdfTeX warning (ext4): destination with the same identifier (name{page.2}) has 
+been already used, duplicate ignored
+<to be read again> 
+                   \relax 
+l.1 \chapter
+            {Abdominal Pain} [2
+
+
+
+
+
+]
+Chapter 2.
+
+pdfTeX warning (ext4): destination with the same identifier (name{page.3}) has 
+been already used, duplicate ignored
+<to be read again> 
+                   \relax 
+l.32   \item C
+              onstipation/Diarrhea [3]
+Overfull \hbox (6.26572pt too wide) in paragraph at lines 55--56
+[]\T1/lmr/m/n/10.95 First-line man-age-ment in-cludes ac-tiv-ity mod-i-fi-ca-ti
+on, phys-i-cal ther-apy, and anal-gesics (NSAIDs
+ []
+
+
+pdfTeX warning (ext4): destination with the same identifier (name{page.4}) has 
+been already used, duplicate ignored
+<to be read again> 
+                   \relax 
+l.61 \clearpage
+                [4])
+\openout2 = `chapters/symptom_abscess.aux'.
+
+ (./chapters/symptom_abscess.tex
+Chapter 3.
+
+pdfTeX warning (ext4): destination with the same identifier (name{page.5}) has 
+been already used, duplicate ignored
+<to be read again> 
+                   \relax 
+l.27 \item P
+            ain and tenderness [5
+
+
+
+
+
+]
+pdfTeX warning (ext4): destination with the same identifier (name{page.6}) has 
+been already used, duplicate ignored
+<to be read again> 
+                   \relax 
+l.64 \item W
+            arm compresses and wound care [6])
+pdfTeX warning (ext4): destination with the same identifier (name{page.7}) has 
+been already used, duplicate ignored
+<to be read again> 
+                   \relax 
+l.25 \include{chapters/symptom_abscess}
+                                        [7]
+\openout2 = `chapters/symptom_acne.aux'.
+
+ (./chapters/symptom_acne.tex
+pdfTeX warning (ext4): destination with the same identifier (name{page.8}) has 
+been already used, duplicate ignored
+<to be read again> 
+                   \relax 
+l.1 \chapter
+            {Acne} [8
+
+
+
+
+]
+Chapter 4.
+
+pdfTeX warning (ext4): destination with the same identifier (name{page.9}) has 
+been already used, duplicate ignored
+<to be read again> 
+                   \relax 
+l.26   \item S
+              evere or worsening symptoms [9]
+pdfTeX warning (ext4): destination with the same identifier (name{page.10}) has
+ been already used, duplicate ignored
+<to be read again> 
+                   \relax 
+l.64   \item F
+              ollow-up ensures treatment effectiveness and allows timely adj...
+[10]
+pdfTeX warning (ext4): destination with the same identifier (name{page.11}) has
+ been already used, duplicate ignored
+<to be read again> 
+                   \relax 
+l.67 \clearpage
+                [11])
+\openout2 = `chapters/symptom_addiction_withdrawal.aux'.
+
+ (./chapters/symptom_addiction_withdrawal.tex
+pdfTeX warning (ext4): destination with the same identifier (name{page.12}) has
+ been already used, duplicate ignored
+<to be read again> 
+                   \relax 
+l.1 \chapter
+            {Addiction Withdrawal} [12
+
+
+
+
+
+]
+Chapter 5.
+
+pdfTeX warning (ext4): destination with the same identifier (name{page.13}) has
+ been already used, duplicate ignored
+<to be read again> 
+                   \relax 
+l.28   \item A
+              ccompanied by other concerning signs [13]
+pdfTeX warning (ext4): destination with the same identifier (name{page.14}) has
+ been already used, duplicate ignored
+<to be read again> 
+                   \relax 
+l.63   \item F
+              ollow-up ensures treatment effectiveness and allows timely adj...
+[14]
+pdfTeX warning (ext4): destination with the same identifier (name{page.15}) has
+ been already used, duplicate ignored
+<to be read again> 
+                   \relax 
+l.66 \clearpage
+                [15])
+\openout2 = `chapters/symptom_allergic_reaction.aux'.
+
+ (./chapters/symptom_allergic_reaction.tex
+pdfTeX warning (ext4): destination with the same identifier (name{page.16}) has
+ been already used, duplicate ignored
+<to be read again> 
+                   \relax 
+l.1 \chapter
+            {Allergic Reaction} [16
+
+
+
+
+
+]
+Chapter 6.
+
+pdfTeX warning (ext4): destination with the same identifier (name{page.17}) has
+ been already used, duplicate ignored
+<to be read again> 
+                   \relax 
+l.31 \item U
+            rticaria (hives) [17])
+pdfTeX warning (ext4): destination with the same identifier (name{page.18}) has
+ been already used, duplicate ignored
+<to be read again> 
+                   \relax 
+l.28 \include{chapters/symptom_allergic_reaction}
+                                                  [18]
+\openout2 = `chapters/symptom_amenorrhea.aux'.
+
+
+(./chapters/symptom_amenorrhea.tex
+Chapter 7.
+
+pdfTeX warning (ext4): destination with the same identifier (name{page.19}) has
+ been already used, duplicate ignored
+<to be read again> 
+                   \relax 
+l.26 \item A
+            bsence of menstruation for three or more cycles in a previously ...
+[19
+
+
+
+
+]
+pdfTeX warning (ext4): destination with the same identifier (name{page.20}) has
+ been already used, duplicate ignored
+<to be read again> 
+                   \relax 
+l.63 \item A
+            ndrogen profile (testosterone, DHEA-S) if signs of hyperandrogenism
+[20])
+pdfTeX warning (ext4): destination with the same identifier (name{page.21}) has
+ been already used, duplicate ignored
+<to be read again> 
+                   \relax 
+l.29 \include{chapters/symptom_amenorrhea}
+                                           [21]
+\openout2 = `chapters/symptom_anal_itching.aux'.
+
+
+(./chapters/symptom_anal_itching.tex
+pdfTeX warning (ext4): destination with the same identifier (name{page.22}) has
+ been already used, duplicate ignored
+<to be read again> 
+                   \relax 
+l.1 \chapter
+            {Anal Itching (Pruritus Ani)} [22
+
+
+
+
+]
+Chapter 8.
+
+pdfTeX warning (ext4): destination with the same identifier (name{page.23}) has
+ been already used, duplicate ignored
+<to be read again> 
+                   \relax 
+l.26 \item I
+            tching accompanied by rectal bleeding or discharge [23]
+pdfTeX warning (ext4): destination with the same identifier (name{page.24}) has
+ been already used, duplicate ignored
+<to be read again> 
+                   \relax 
+l.63 \item A
+            noscopy or sigmoidoscopy if underlying anorectal pathology is su...
+[24])
+pdfTeX warning (ext4): destination with the same identifier (name{page.25}) has
+ been already used, duplicate ignored
+<to be read again> 
+                   \relax 
+l.30 \include{chapters/symptom_anal_itching}
+                                             [25]
+\openout2 = `chapters/symptom_anal_pain.aux'.
+
+
+(./chapters/symptom_anal_pain.tex
+pdfTeX warning (ext4): destination with the same identifier (name{page.26}) has
+ been already used, duplicate ignored
+<to be read again> 
+                   \relax 
+l.1 \chapter
+            {Anal Pain} [26
+
+
+
+
+]
+Chapter 9.
+
+pdfTeX warning (ext4): destination with the same identifier (name{page.27}) has
+ been already used, duplicate ignored
+<to be read again> 
+                   \relax 
+l.28   \item A
+              ccompanied by other concerning signs [27]
+pdfTeX warning (ext4): destination with the same identifier (name{page.28}) has
+ been already used, duplicate ignored
+<to be read again> 
+                   \relax 
+l.64 \end{itemize}
+                   [28] [29])
+\openout2 = `chapters/symptom_anemia.aux'.
+
+ (./chapters/symptom_anemia.tex [30
+
+
+
+
+
+]
+Chapter 10.
+[31] [32]) [33]
+\openout2 = `chapters/symptom_anhedonia.aux'.
+
+ (./chapters/symptom_anhedonia.tex [34
+
+
+
+
+]
+Chapter 11.
+[35] [36] [37])
+\openout2 = `chapters/symptom_animal_bites.aux'.
+
+ (./chapters/symptom_animal_bites.tex [38
+
+
+
+
+
+]
+Chapter 12.
+[39]) [40]
+\openout2 = `chapters/symptom_ankle_pain.aux'.
+
+ (./chapters/symptom_ankle_pain.tex
+Chapter 13.
+[41
+
+
+
+
+] [42] [43])
+\openout2 = `chapters/symptom_anxiety.aux'.
+
+ (./chapters/symptom_anxiety.tex [44
+
+
+
+
+
+]
+Chapter 14.
+[45] [46]
+Overfull \hbox (0.91293pt too wide) in paragraph at lines 57--58
+[]\T1/lmr/m/n/10.95 Referral to psy-chi-a-try is in-di-cated for se-vere symp-t
+oms, treat-ment re-sis-tance, sui-ci-dal ideation,
+ []
+
+[47])
+\openout2 = `chapters/symptom_arm_pain.aux'.
+
+ (./chapters/symptom_arm_pain.tex [48
+
+
+
+
+
+]
+Chapter 15.
+[49] [50] [51])
+\openout2 = `chapters/symptom_ascites.aux'.
+
+ (./chapters/symptom_ascites.tex [52
+
+
+
+
+
+]
+Chapter 16.
+[53] [54]) [55]
+\openout2 = `chapters/symptom_back_pain.aux'.
+
+ (./chapters/symptom_back_pain.tex [56
+
+
+
+
+]
+Chapter 17.
+[57]
+Overfull \hbox (6.26572pt too wide) in paragraph at lines 55--56
+[]\T1/lmr/m/n/10.95 First-line man-age-ment in-cludes ac-tiv-ity mod-i-fi-ca-ti
+on, phys-i-cal ther-apy, and anal-gesics (NSAIDs
+ []
+
+[58])
+\openout2 = `chapters/symptom_bad_breath.aux'.
+
+ (./chapters/symptom_bad_breath.tex
+Chapter 18.
+[59
+
+
+
+
+
+] [60] [61])
+\openout2 = `chapters/symptom_bad_taste_in_the_mouth.aux'.
+
+ (./chapters/symptom_bad_taste_in_the_mouth.tex [62
+
+
+
+
+
+]
+Chapter 19.
+[63] [64] [65])
+\openout2 = `chapters/symptom_bedwetting.aux'.
+
+ (./chapters/symptom_bedwetting.tex [66
+
+
+
+
+
+]
+Chapter 20.
+[67] [68]) [69]
+\openout2 = `chapters/symptom_bent_penis.aux'.
+
+ (./chapters/symptom_bent_penis.tex [70
+
+
+
+
+]
+Chapter 21.
+[71] [72])
+\openout2 = `chapters/symptom_black_eye.aux'.
+
+ (./chapters/symptom_black_eye.tex
+Chapter 22.
+[73
+
+
+
+
+
+] [74] [75])
+\openout2 = `chapters/symptom_bleeding_after_vaginal_sex.aux'.
+
+ (./chapters/symptom_bleeding_after_vaginal_sex.tex [76
+
+
+
+
+
+]
+Chapter 23.
+[77] [78] [79])
+\openout2 = `chapters/symptom_bleeding_between_periods.aux'.
+
+ (./chapters/symptom_bleeding_between_periods.tex [80
+
+
+
+
+
+]
+Chapter 24.
+[81] [82] [83])
+\openout2 = `chapters/symptom_bleeding_during_pregnancy.aux'.
+
+ (./chapters/symptom_bleeding_during_pregnancy.tex [84
+
+
+
+
+
+]
+Chapter 25.
+[85] [86] [87])
+\openout2 = `chapters/symptom_bloating.aux'.
+
+ (./chapters/symptom_bloating.tex [88
+
+
+
+
+
+]
+Chapter 26.
+[89] [90] [91])
+\openout2 = `chapters/symptom_blood_clots.aux'.
+
+ (./chapters/symptom_blood_clots.tex [92
+
+
+
+
+
+]
+Chapter 27.
+[93] [94] [95])
+\openout2 = `chapters/symptom_blood_in_semen.aux'.
+
+ (./chapters/symptom_blood_in_semen.tex [96
+
+
+
+
+
+]
+Chapter 28.
+[97] [98] [99])
+\openout2 = `chapters/symptom_blood_in_stool.aux'.
+
+ (./chapters/symptom_blood_in_stool.tex [100
+
+
+
+
+
+]
+Chapter 29.
+[101] [102])
+\openout2 = `chapters/symptom_boils.aux'.
+
+ (./chapters/symptom_boils.tex
+Chapter 30.
+[103
+
+
+
+
+
+] [104]) [105]
+\openout2 = `chapters/symptom_bowel_incontinence.aux'.
+
+ (./chapters/symptom_bowel_incontinence.tex [106
+
+
+
+
+]
+Chapter 31.
+[107] [108])
+\openout2 = `chapters/symptom_brain_fog.aux'.
+
+ (./chapters/symptom_brain_fog.tex
+Chapter 32.
+[109
+
+
+
+
+
+] [110] [111])
+\openout2 = `chapters/symptom_breast_lump.aux'.
+
+ (./chapters/symptom_breast_lump.tex [112
+
+
+
+
+
+]
+Chapter 33.
+[113] [114] [115])
+\openout2 = `chapters/symptom_breast_tenderness.aux'.
+
+ (./chapters/symptom_breast_tenderness.tex [116
+
+
+
+
+
+]
+Chapter 34.
+[117] [118] [119])
+\openout2 = `chapters/symptom_brittle_nails.aux'.
+
+ (./chapters/symptom_brittle_nails.tex [120
+
+
+
+
+
+]
+Chapter 35.
+[121] [122] [123])
+\openout2 = `chapters/symptom_bruises.aux'.
+
+ (./chapters/symptom_bruises.tex [124
+
+
+
+
+
+]
+Chapter 36.
+[125] [126]) [127]
+\openout2 = `chapters/symptom_bunions.aux'.
+
+ (./chapters/symptom_bunions.tex [128
+
+
+
+
+]
+Chapter 37.
+[129] [130]) [131]
+\openout2 = `chapters/symptom_burning_feet.aux'.
+
+ (./chapters/symptom_burning_feet.tex [132
+
+
+
+
+]
+Chapter 38.
+[133] [134] [135])
+\openout2 = `chapters/symptom_burning_mouth_syndrome.aux'.
+
+ (./chapters/symptom_burning_mouth_syndrome.tex [136
+
+
+
+
+
+]
+Chapter 39.
+[137] [138] [139])
+\openout2 = `chapters/symptom_burping.aux'.
+
+ (./chapters/symptom_burping.tex [140
+
+
+
+
+
+]
+Chapter 40.
+[141] [142] [143])
+\openout2 = `chapters/symptom_calf_pain.aux'.
+
+ (./chapters/symptom_calf_pain.tex [144
+
+
+
+
+
+]
+Chapter 41.
+[145] [146] [147])
+\openout2 = `chapters/symptom_canker_sores.aux'.
+
+ (./chapters/symptom_canker_sores.tex [148
+
+
+
+
+
+]
+Chapter 42.
+[149] [150]) [151]
+\openout2 = `chapters/symptom_catarrh.aux'.
+
+ (./chapters/symptom_catarrh.tex [152
+
+
+
+
+]
+Chapter 43.
+[153] [154])
+\openout2 = `chapters/symptom_cellulite.aux'.
+
+ (./chapters/symptom_cellulite.tex
+Chapter 44.
+[155
+
+
+
+
+
+]) [156]
+\openout2 = `chapters/symptom_chest_pain.aux'.
+
+ (./chapters/symptom_chest_pain.tex
+Chapter 45.
+[157
+
+
+
+
+] [158]
+Overfull \hbox (6.26572pt too wide) in paragraph at lines 72--73
+[]\T1/lmr/m/n/10.95 First-line man-age-ment in-cludes ac-tiv-ity mod-i-fi-ca-ti
+on, phys-i-cal ther-apy, and anal-gesics (NSAIDs
+ []
+
+[159])
+\openout2 = `chapters/symptom_chest_tightness_and_discomfort.aux'.
+
+ (./chapters/symptom_chest_tightness_and_discomfort.tex [160
+
+
+
+
+
+]
+Chapter 46.
+[161] [162] [163])
+\openout2 = `chapters/symptom_chills.aux'.
+
+ (./chapters/symptom_chills.tex [164
+
+
+
+
+
+]
+Chapter 47.
+[165] [166])
+\openout2 = `chapters/symptom_choking.aux'.
+
+ (./chapters/symptom_choking.tex
+Chapter 48.
+[167
+
+
+
+
+
+] [168] [169])
+\openout2 = `chapters/symptom_chronic_wounds.aux'.
+
+ (./chapters/symptom_chronic_wounds.tex [170
+
+
+
+
+
+]
+Chapter 49.
+[171] [172] [173])
+\openout2 = `chapters/symptom_clitoral_pain.aux'.
+
+ (./chapters/symptom_clitoral_pain.tex [174
+
+
+
+
+
+]
+Chapter 50.
+[175] [176] [177])
+\openout2 = `chapters/symptom_cognitive_deficits.aux'.
+
+ (./chapters/symptom_cognitive_deficits.tex [178
+
+
+
+
+
+]
+Chapter 51.
+[179] [180]) [181]
+\openout2 = `chapters/symptom_cold_hands_and_feet.aux'.
+
+ (./chapters/symptom_cold_hands_and_feet.tex [182
+
+
+
+
+]
+Chapter 52.
+[183] [184] [185])
+\openout2 = `chapters/symptom_cold_intolerance.aux'.
+
+ (./chapters/symptom_cold_intolerance.tex [186
+
+
+
+
+
+]
+Chapter 53.
+[187] [188] [189])
+\openout2 = `chapters/symptom_cold_sores.aux'.
+
+ (./chapters/symptom_cold_sores.tex [190
+
+
+
+
+
+]
+Chapter 54.
+[191] [192] [193])
+\openout2 = `chapters/symptom_coma.aux'.
+
+ (./chapters/symptom_coma.tex [194
+
+
+
+
+
+]
+Chapter 55.
+[195] [196]) [197]
+\openout2 = `chapters/symptom_concussion.aux'.
+
+ (./chapters/symptom_concussion.tex [198
+
+
+
+
+]
+Chapter 56.
+[199] [200]) [201]
+\openout2 = `chapters/symptom_confusion.aux'.
+
+ (./chapters/symptom_confusion.tex [202
+
+
+
+
+]
+Chapter 57.
+[203]
+Overfull \hbox (1.52048pt too wide) in paragraph at lines 49--50
+[]\T1/lmr/m/n/10.95 Comprehensive neu-ro-log-i-cal ex-am-i-na-tion as-sesses me
+n-tal sta-tus, cra-nial nerves, mo-tor/sensory
+ []
+
+[204])
+\openout2 = `chapters/symptom_constipation.aux'.
+
+ (./chapters/symptom_constipation.tex
+Chapter 58.
+[205
+
+
+
+
+
+] [206])
+\openout2 = `chapters/symptom_corns_and_calluses.aux'.
+
+ (./chapters/symptom_corns_and_calluses.tex
+Chapter 59.
+[207
+
+
+
+
+
+] [208]) [209]
+\openout2 = `chapters/symptom_cough.aux'.
+
+ (./chapters/symptom_cough.tex [210
+
+
+
+
+]
+Chapter 60.
+[211] [212])
+\openout2 = `chapters/symptom_crying_spells.aux'.
+
+ (./chapters/symptom_crying_spells.tex
+Chapter 61.
+[213
+
+
+
+
+
+] [214] [215])
+\openout2 = `chapters/symptom_cyst.aux'.
+
+ (./chapters/symptom_cyst.tex [216
+
+
+
+
+
+]
+Chapter 62.
+[217] [218]) [219]
+\openout2 = `chapters/symptom_dandruff.aux'.
+
+ (./chapters/symptom_dandruff.tex [220
+
+
+
+
+]
+Chapter 63.
+[221] [222]) [223]
+\openout2 = `chapters/symptom_dark_circles_under_eyes.aux'.
+
+ (./chapters/symptom_dark_circles_under_eyes.tex [224
+
+
+
+
+]
+Chapter 64.
+[225] [226] [227])
+\openout2 = `chapters/symptom_dehydration.aux'.
+
+ (./chapters/symptom_dehydration.tex [228
+
+
+
+
+
+]
+Chapter 65.
+[229] [230] [231])
+\openout2 = `chapters/symptom_delirium.aux'.
+
+ (./chapters/symptom_delirium.tex [232
+
+
+
+
+
+]
+Chapter 66.
+[233]
+Overfull \hbox (1.52048pt too wide) in paragraph at lines 49--50
+[]\T1/lmr/m/n/10.95 Comprehensive neu-ro-log-i-cal ex-am-i-na-tion as-sesses me
+n-tal sta-tus, cra-nial nerves, mo-tor/sensory
+ []
+
+[234])
+\openout2 = `chapters/symptom_delusions.aux'.
+
+ (./chapters/symptom_delusions.tex
+Chapter 67.
+[235
+
+
+
+
+
+] [236] [237])
+\openout2 = `chapters/symptom_depression.aux'.
+
+ (./chapters/symptom_depression.tex [238
+
+
+
+
+
+]
+Chapter 68.
+[239] [240]
+Overfull \hbox (0.91293pt too wide) in paragraph at lines 59--60
+[]\T1/lmr/m/n/10.95 Referral to psy-chi-a-try is in-di-cated for se-vere symp-t
+oms, treat-ment re-sis-tance, sui-ci-dal ideation,
+ []
+
+[241])
+\openout2 = `chapters/symptom_diarrhea.aux'.
+
+ (./chapters/symptom_diarrhea.tex [242
+
+
+
+
+
+]
+Chapter 69.
+[243] [244])
+\openout2 = `chapters/symptom_disorientation.aux'.
+
+ (./chapters/symptom_disorientation.tex
+Chapter 70.
+[245
+
+
+
+
+
+] [246] [247])
+\openout2 = `chapters/symptom_dizziness.aux'.
+
+ (./chapters/symptom_dizziness.tex [248
+
+
+
+
+
+]
+Chapter 71.
+[249]
+Overfull \hbox (1.52048pt too wide) in paragraph at lines 48--49
+[]\T1/lmr/m/n/10.95 Comprehensive neu-ro-log-i-cal ex-am-i-na-tion as-sesses me
+n-tal sta-tus, cra-nial nerves, mo-tor/sensory
+ []
+
+[250])
+\openout2 = `chapters/symptom_double_vision.aux'.
+
+ (./chapters/symptom_double_vision.tex
+Chapter 72.
+[251
+
+
+
+
+
+]
+Overfull \hbox (5.10872pt too wide) in paragraph at lines 27--28
+[]\T1/lmr/m/n/10.95 Sudden-onset diplopia (pos-si-ble stroke, aneurysm, or brai
+n-stem le-sion), diplopia with headache,
+ []
+
+[252] [253])
+\openout2 = `chapters/symptom_drooling.aux'.
+
+ (./chapters/symptom_drooling.tex [254
+
+
+
+
+
+]
+Chapter 73.
+[255] [256] [257])
+\openout2 = `chapters/symptom_dry_eye_disease.aux'.
+
+ (./chapters/symptom_dry_eye_disease.tex [258
+
+
+
+
+
+]
+Chapter 74.
+[259] [260] [261])
+\openout2 = `chapters/symptom_dry_mouth.aux'.
+
+ (./chapters/symptom_dry_mouth.tex [262
+
+
+
+
+
+]
+Chapter 75.
+[263] [264])
+\openout2 = `chapters/symptom_dry_orgasm.aux'.
+
+ (./chapters/symptom_dry_orgasm.tex
+Chapter 76.
+[265
+
+
+
+
+
+] [266] [267])
+\openout2 = `chapters/symptom_dry_skin.aux'.
+
+ (./chapters/symptom_dry_skin.tex [268
+
+
+
+
+
+]
+Chapter 77.
+[269] [270] [271])
+\openout2 = `chapters/symptom_dysphagia.aux'.
+
+ (./chapters/symptom_dysphagia.tex [272
+
+
+
+
+
+]
+Chapter 78.
+[273] [274]) [275]
+\openout2 = `chapters/symptom_earache.aux'.
+
+ (./chapters/symptom_earache.tex [276
+
+
+
+
+]
+Chapter 79.
+[277] [278] [279])
+\openout2 = `chapters/symptom_earwax.aux'.
+
+ (./chapters/symptom_earwax.tex [280
+
+
+
+
+
+]
+Chapter 80.
+[281] [282]) [283]
+\openout2 = `chapters/symptom_edema.aux'.
+
+ (./chapters/symptom_edema.tex [284
+
+
+
+
+]
+Chapter 81.
+[285] [286]) [287]
+\openout2 = `chapters/symptom_elbow_pain.aux'.
+
+ (./chapters/symptom_elbow_pain.tex [288
+
+
+
+
+]
+Chapter 82.
+[289] [290] [291])
+\openout2 = `chapters/symptom_electric_shock_sensation.aux'.
+
+ (./chapters/symptom_electric_shock_sensation.tex [292
+
+
+
+
+
+]
+Chapter 83.
+[293] [294] [295])
+\openout2 = `chapters/symptom_enlarged_prostate.aux'.
+
+ (./chapters/symptom_enlarged_prostate.tex [296
+
+
+
+
+
+]
+Chapter 84.
+[297] [298]) [299]
+\openout2 = `chapters/symptom_enlarged_spleen.aux'.
+
+ (./chapters/symptom_enlarged_spleen.tex [300
+
+
+
+
+]
+Chapter 85.
+[301] [302]) [303]
+\openout2 = `chapters/symptom_erectile_dysfunction.aux'.
+
+ (./chapters/symptom_erectile_dysfunction.tex [304
+
+
+
+
+]
+Chapter 86.
+
+Overfull \hbox (3.98622pt too wide) in paragraph at lines 15--16
+[]\T1/lmr/m/n/10.95 Medications (an-tide-pres-sants SS-RIs, an-ti-hy-per-ten-si
+ves beta-blockers, di-uret-ics, an-tipsy-chotics) 
+ []
+
+[305] [306] [307])
+\openout2 = `chapters/symptom_excessive_sweating.aux'.
+
+ (./chapters/symptom_excessive_sweating.tex [308
+
+
+
+
+
+]
+Chapter 87.
+[309] [310] [311])
+\openout2 = `chapters/symptom_eye_allergies.aux'.
+
+ (./chapters/symptom_eye_allergies.tex [312
+
+
+
+
+
+]
+Chapter 88.
+[313] [314]) [315]
+\openout2 = `chapters/symptom_eye_discharge.aux'.
+
+ (./chapters/symptom_eye_discharge.tex [316
+
+
+
+
+]
+Chapter 89.
+[317] [318] [319])
+\openout2 = `chapters/symptom_eye_floaters.aux'.
+
+ (./chapters/symptom_eye_floaters.tex [320
+
+
+
+
+
+]
+Chapter 90.
+[321] [322]) [323]
+\openout2 = `chapters/symptom_eye_pain.aux'.
+
+ (./chapters/symptom_eye_pain.tex [324
+
+
+
+
+]
+Chapter 91.
+[325] [326] [327])
+\openout2 = `chapters/symptom_eye_strain.aux'.
+
+ (./chapters/symptom_eye_strain.tex [328
+
+
+
+
+
+]
+Chapter 92.
+[329] [330] [331])
+\openout2 = `chapters/symptom_eye_twitching.aux'.
+
+ (./chapters/symptom_eye_twitching.tex [332
+
+
+
+
+
+]
+Chapter 93.
+[333] [334] [335])
+\openout2 = `chapters/symptom_eyelid_bump.aux'.
+
+ (./chapters/symptom_eyelid_bump.tex [336
+
+
+
+
+
+]
+Chapter 94.
+[337] [338] [339])
+\openout2 = `chapters/symptom_eyelid_inflammation.aux'.
+
+ (./chapters/symptom_eyelid_inflammation.tex [340
+
+
+
+
+
+]
+Chapter 95.
+[341] [342]) [343]
+\openout2 = `chapters/symptom_facial_droop.aux'.
+
+ (./chapters/symptom_facial_droop.tex [344
+
+
+
+
+]
+Chapter 96.
+[345] [346] [347])
+\openout2 = `chapters/symptom_facial_numbness.aux'.
+
+ (./chapters/symptom_facial_numbness.tex [348
+
+
+
+
+
+]
+Chapter 97.
+[349] [350]
+Underfull \vbox (badness 10000) has occurred while \output is active []
+
+ [351]
+Overfull \hbox (1.52048pt too wide) in paragraph at lines 43--44
+[]\T1/lmr/m/n/10.95 Comprehensive neu-ro-log-i-cal ex-am-i-na-tion as-sesses me
+n-tal sta-tus, cra-nial nerves, mo-tor/sensory
+ []
+
+[352] [353])
+\openout2 = `chapters/symptom_fainting.aux'.
+
+ (./chapters/symptom_fainting.tex [354
+
+
+
+
+
+]
+Chapter 98.
+[355] [356]) [357]
+\openout2 = `chapters/symptom_fatigue.aux'.
+
+ (./chapters/symptom_fatigue.tex [358
+
+
+
+
+]
+Chapter 99.
+[359] [360])
+\openout2 = `chapters/symptom_febrile_seizure.aux'.
+
+ (./chapters/symptom_febrile_seizure.tex
+Chapter 100.
+[361
+
+
+
+
+
+] [362] [363])
+\openout2 = `chapters/symptom_fever.aux'.
+
+ (./chapters/symptom_fever.tex [364
+
+
+
+
+
+]
+Chapter 101.
+[365{/opt/homebrew/Cellar/texlive/20260301/share/texmf-dist/fonts/enc/dvips/lm/
+lm-mathit.enc}] [366{/opt/homebrew/Cellar/texlive/20260301/share/texmf-dist/fon
+ts/enc/dvips/lm/lm-mathsy.enc}] [367])
+\openout2 = `chapters/symptom_fluid_from_the_ear.aux'.
+
+
+(./chapters/symptom_fluid_from_the_ear.tex [368
+
+
+
+
+
+]
+Chapter 102.
+[369] [370] [371])
+\openout2 = `chapters/symptom_foot_pain.aux'.
+
+ (./chapters/symptom_foot_pain.tex [372
+
+
+
+
+
+]
+Chapter 103.
+[373] [374] [375])
+\openout2 = `chapters/symptom_frequent_bowel_movements.aux'.
+
+ (./chapters/symptom_frequent_bowel_movements.tex [376
+
+
+
+
+
+]
+Chapter 104.
+[377] [378] [379])
+\openout2 = `chapters/symptom_frequent_urination.aux'.
+
+ (./chapters/symptom_frequent_urination.tex [380
+
+
+
+
+
+]
+Chapter 105.
+[381] [382]) [383]
+\openout2 = `chapters/symptom_frostbite.aux'.
+
+ (./chapters/symptom_frostbite.tex [384
+
+
+
+
+]
+Chapter 106.
+[385] [386]) [387]
+\openout2 = `chapters/symptom_ganglion_cyst.aux'.
+
+ (./chapters/symptom_ganglion_cyst.tex [388
+
+
+
+
+]
+Chapter 107.
+[389]) [390]
+\openout2 = `chapters/symptom_green_stool.aux'.
+
+ (./chapters/symptom_green_stool.tex
+Chapter 108.
+[391
+
+
+
+
+] [392] [393])
+\openout2 = `chapters/symptom_groin_pain_or_swelling.aux'.
+
+ (./chapters/symptom_groin_pain_or_swelling.tex [394
+
+
+
+
+
+]
+Chapter 109.
+[395] [396] [397])
+\openout2 = `chapters/symptom_gum_swelling.aux'.
+
+ (./chapters/symptom_gum_swelling.tex [398
+
+
+
+
+
+]
+Chapter 110.
+[399] [400] [401])
+\openout2 = `chapters/symptom_gynecomastia.aux'.
+
+ (./chapters/symptom_gynecomastia.tex [402
+
+
+
+
+
+]
+Chapter 111.
+[403] [404]) [405]
+\openout2 = `chapters/symptom_haemoptysis.aux'.
+
+ (./chapters/symptom_haemoptysis.tex [406
+
+
+
+
+]
+Chapter 112.
+[407] [408])
+\openout2 = `chapters/symptom_hair_loss.aux'.
+
+ (./chapters/symptom_hair_loss.tex
+Chapter 113.
+[409
+
+
+
+
+
+] [410] [411])
+\openout2 = `chapters/symptom_hallucinations.aux'.
+
+ (./chapters/symptom_hallucinations.tex [412
+
+
+
+
+
+]
+Chapter 114.
+[413] [414] [415])
+\openout2 = `chapters/symptom_hand_tremor.aux'.
+
+ (./chapters/symptom_hand_tremor.tex [416
+
+
+
+
+
+]
+Chapter 115.
+[417]
+Overfull \hbox (1.52048pt too wide) in paragraph at lines 56--57
+[]\T1/lmr/m/n/10.95 Comprehensive neu-ro-log-i-cal ex-am-i-na-tion as-sesses me
+n-tal sta-tus, cra-nial nerves, mo-tor/sensory
+ []
+
+[418] [419])
+\openout2 = `chapters/symptom_headache.aux'.
+
+ (./chapters/symptom_headache.tex [420
+
+
+
+
+
+]
+Chapter 116.
+[421]
+Overfull \hbox (1.52048pt too wide) in paragraph at lines 48--49
+[]\T1/lmr/m/n/10.95 Comprehensive neu-ro-log-i-cal ex-am-i-na-tion as-sesses me
+n-tal sta-tus, cra-nial nerves, mo-tor/sensory
+ []
+
+[422])
+\openout2 = `chapters/symptom_hearing_loss.aux'.
+
+ (./chapters/symptom_hearing_loss.tex
+Chapter 117.
+[423
+
+
+
+
+
+] [424] [425])
+\openout2 = `chapters/symptom_heart_murmur.aux'.
+
+ (./chapters/symptom_heart_murmur.tex [426
+
+
+
+
+
+]
+Chapter 118.
+[427] [428] [429])
+\openout2 = `chapters/symptom_heartburn.aux'.
+
+ (./chapters/symptom_heartburn.tex [430
+
+
+
+
+
+]
+Chapter 119.
+[431] [432] [433])
+\openout2 = `chapters/symptom_heat_cramps.aux'.
+
+ (./chapters/symptom_heat_cramps.tex [434
+
+
+
+
+
+]
+Chapter 120.
+[435]) [436]
+\openout2 = `chapters/symptom_heat_exhaustion.aux'.
+
+ (./chapters/symptom_heat_exhaustion.tex
+Chapter 121.
+[437
+
+
+
+
+] [438]) [439]
+\openout2 = `chapters/symptom_heat_rash.aux'.
+
+ (./chapters/symptom_heat_rash.tex [440
+
+
+
+
+]
+Chapter 122.
+[441] [442] [443])
+\openout2 = `chapters/symptom_heat_stroke.aux'.
+
+ (./chapters/symptom_heat_stroke.tex [444
+
+
+
+
+
+]
+Chapter 123.
+[445] [446]) [447]
+\openout2 = `chapters/symptom_heavy_periods.aux'.
+
+ (./chapters/symptom_heavy_periods.tex [448
+
+
+
+
+]
+Chapter 124.
+[449] [450] [451])
+\openout2 = `chapters/symptom_heel_pain.aux'.
+
+ (./chapters/symptom_heel_pain.tex [452
+
+
+
+
+
+]
+Chapter 125.
+[453] [454] [455])
+\openout2 = `chapters/symptom_hematoma.aux'.
+
+ (./chapters/symptom_hematoma.tex [456
+
+
+
+
+
+]
+Chapter 126.
+[457]) [458]
+\openout2 = `chapters/symptom_hematuria.aux'.
+
+ (./chapters/symptom_hematuria.tex
+Chapter 127.
+[459
+
+
+
+
+] [460] [461])
+\openout2 = `chapters/symptom_hiccups.aux'.
+
+ (./chapters/symptom_hiccups.tex [462
+
+
+
+
+
+]
+Chapter 128.
+[463] [464] [465])
+\openout2 = `chapters/symptom_hip_pain.aux'.
+
+ (./chapters/symptom_hip_pain.tex [466
+
+
+
+
+
+]
+Chapter 129.
+[467] [468] [469])
+\openout2 = `chapters/symptom_hives_and_angioedema.aux'.
+
+ (./chapters/symptom_hives_and_angioedema.tex [470
+
+
+
+
+
+]
+Chapter 130.
+[471] [472]) [473]
+\openout2 = `chapters/symptom_hoarseness.aux'.
+
+ (./chapters/symptom_hoarseness.tex [474
+
+
+
+
+]
+Chapter 131.
+[475] [476])
+\openout2 = `chapters/symptom_hot_flushes.aux'.
+
+ (./chapters/symptom_hot_flushes.tex
+Chapter 132.
+[477
+
+
+
+
+
+] [478] [479])
+\openout2 = `chapters/symptom_hyperhidrosis.aux'.
+
+ (./chapters/symptom_hyperhidrosis.tex [480
+
+
+
+
+
+]
+Chapter 133.
+
+Overfull \hbox (24.05888pt too wide) in paragraph at lines 13--14
+[]\T1/lmr/m/n/10.95 Endocrine dis-or-ders: hy-per-thy-roidism, di-a-betes (au-t
+o-nomic dys-func-tion), hy-po-glycemia, pheochro-
+ []
+
+[481] [482]) [483]
+\openout2 = `chapters/symptom_hyperventilation.aux'.
+
+ (./chapters/symptom_hyperventilation.tex [484
+
+
+
+
+]
+Chapter 134.
+[485] [486]) [487]
+\openout2 = `chapters/symptom_hyphema.aux'.
+
+ (./chapters/symptom_hyphema.tex [488
+
+
+
+
+]
+Chapter 135.
+[489] [490]) [491]
+\openout2 = `chapters/symptom_hypothermia.aux'.
+
+ (./chapters/symptom_hypothermia.tex [492
+
+
+
+
+]
+Chapter 136.
+[493] [494]) [495]
+\openout2 = `chapters/symptom_inability_to_urinate.aux'.
+
+ (./chapters/symptom_inability_to_urinate.tex [496
+
+
+
+
+]
+Chapter 137.
+[497] [498]) [499]
+\openout2 = `chapters/symptom_indigestion.aux'.
+
+ (./chapters/symptom_indigestion.tex [500
+
+
+
+
+]
+Chapter 138.
+[501] [502]) [503]
+\openout2 = `chapters/symptom_ingrown_hair.aux'.
+
+ (./chapters/symptom_ingrown_hair.tex [504
+
+
+
+
+]
+Chapter 139.
+[505] [506]) [507]
+\openout2 = `chapters/symptom_ingrown_toenails.aux'.
+
+ (./chapters/symptom_ingrown_toenails.tex [508
+
+
+
+
+]
+Chapter 140.
+[509] [510]) [511]
+\openout2 = `chapters/symptom_insect_bites.aux'.
+
+ (./chapters/symptom_insect_bites.tex [512
+
+
+
+
+]
+Chapter 141.
+[513] [514]) [515]
+\openout2 = `chapters/symptom_insomnia.aux'.
+
+ (./chapters/symptom_insomnia.tex [516
+
+
+
+
+]
+Chapter 142.
+[517] [518]
+Overfull \hbox (0.91293pt too wide) in paragraph at lines 59--60
+[]\T1/lmr/m/n/10.95 Referral to psy-chi-a-try is in-di-cated for se-vere symp-t
+oms, treat-ment re-sis-tance, sui-ci-dal ideation,
+ []
+
+[519])
+\openout2 = `chapters/symptom_internal_bleeding.aux'.
+
+ (./chapters/symptom_internal_bleeding.tex [520
+
+
+
+
+
+]
+Chapter 143.
+[521] [522]) [523]
+\openout2 = `chapters/symptom_irregular_periods.aux'.
+
+ (./chapters/symptom_irregular_periods.tex [524
+
+
+
+
+]
+Chapter 144.
+[525] [526] [527])
+\openout2 = `chapters/symptom_irritability.aux'.
+
+ (./chapters/symptom_irritability.tex [528
+
+
+
+
+
+]
+Chapter 145.
+[529] [530] [531])
+\openout2 = `chapters/symptom_itching_pruritus.aux'.
+
+ (./chapters/symptom_itching_pruritus.tex [532
+
+
+
+
+
+]
+Chapter 146.
+[533] [534])
+\openout2 = `chapters/symptom_jaundice.aux'.
+
+ (./chapters/symptom_jaundice.tex
+Chapter 147.
+[535
+
+
+
+
+
+] [536] [537])
+\openout2 = `chapters/symptom_jock_itch.aux'.
+
+ (./chapters/symptom_jock_itch.tex [538
+
+
+
+
+
+]
+Chapter 148.
+[539] [540]) [541]
+\openout2 = `chapters/symptom_joint_pain.aux'.
+
+ (./chapters/symptom_joint_pain.tex [542
+
+
+
+
+]
+Chapter 149.
+[543]
+Overfull \hbox (6.26572pt too wide) in paragraph at lines 55--56
+[]\T1/lmr/m/n/10.95 First-line man-age-ment in-cludes ac-tiv-ity mod-i-fi-ca-ti
+on, phys-i-cal ther-apy, and anal-gesics (NSAIDs
+ []
+
+[544])
+\openout2 = `chapters/symptom_kidney_pain.aux'.
+
+ (./chapters/symptom_kidney_pain.tex
+Chapter 150.
+[545
+
+
+
+
+
+] [546] [547])
+\openout2 = `chapters/symptom_knee_injury.aux'.
+
+ (./chapters/symptom_knee_injury.tex [548
+
+
+
+
+
+]
+Chapter 151.
+[549] [550]) [551]
+\openout2 = `chapters/symptom_knee_pain.aux'.
+
+ (./chapters/symptom_knee_pain.tex [552
+
+
+
+
+]
+Chapter 152.
+[553] [554] [555])
+\openout2 = `chapters/symptom_labia_changes.aux'.
+
+ (./chapters/symptom_labia_changes.tex [556
+
+
+
+
+
+]
+Chapter 153.
+[557] [558] [559])
+\openout2 = `chapters/symptom_labor_signs.aux'.
+
+ (./chapters/symptom_labor_signs.tex [560
+
+
+
+
+
+]
+Chapter 154.
+[561]) [562]
+\openout2 = `chapters/symptom_lack_of_motivation.aux'.
+
+ (./chapters/symptom_lack_of_motivation.tex
+Chapter 155.
+[563
+
+
+
+
+] [564] [565])
+\openout2 = `chapters/symptom_laryngitis.aux'.
+
+ (./chapters/symptom_laryngitis.tex [566
+
+
+
+
+
+]
+Chapter 156.
+[567] [568]) [569]
+\openout2 = `chapters/symptom_leg_pain.aux'.
+
+ (./chapters/symptom_leg_pain.tex [570
+
+
+
+
+]
+Chapter 157.
+
+Overfull \hbox (0.85034pt too wide) in paragraph at lines 7--8
+\T1/lmr/m/n/10.95 Leg pain mech-a-nisms in-clude no-ci-cep-tive (mus-cu-loskele
+-tal in-jury, in-flam-ma-tion), neu-ro-pathic (nerve
+ []
+
+[571] [572] [573])
+\openout2 = `chapters/symptom_loss_of_appetite.aux'.
+
+ (./chapters/symptom_loss_of_appetite.tex [574
+
+
+
+
+
+]
+Chapter 158.
+[575] [576])
+\openout2 = `chapters/symptom_loss_of_bone_density.aux'.
+
+ (./chapters/symptom_loss_of_bone_density.tex
+Chapter 159.
+
+Overfull \hbox (8.69968pt too wide) in paragraph at lines 7--8
+\T1/lmr/m/n/10.95 Oestrogen in-hibits os-teo-clast ac-tiv-ity through re-cep-to
+r ac-ti-va-tor of nu-clear factor-kB lig-and (RANKL)
+ []
+
+[577
+
+
+
+
+
+] [578] [579])
+\openout2 = `chapters/symptom_loss_of_smell.aux'.
+
+ (./chapters/symptom_loss_of_smell.tex [580
+
+
+
+
+
+]
+Chapter 160.
+[581] [582] [583])
+\openout2 = `chapters/symptom_low_blood_sugar.aux'.
+
+ (./chapters/symptom_low_blood_sugar.tex [584
+
+
+
+
+
+]
+Chapter 161.
+[585] [586]) [587]
+\openout2 = `chapters/symptom_low_libido.aux'.
+
+ (./chapters/symptom_low_libido.tex [588
+
+
+
+
+]
+Chapter 162.
+[589] [590] [591])
+\openout2 = `chapters/symptom_low_self_esteem.aux'.
+
+ (./chapters/symptom_low_self_esteem.tex [592
+
+
+
+
+
+]
+Chapter 163.
+[593] [594] [595])
+\openout2 = `chapters/symptom_lump_under_armpit.aux'.
+
+ (./chapters/symptom_lump_under_armpit.tex [596
+
+
+
+
+
+]
+Chapter 164.
+[597] [598] [599])
+\openout2 = `chapters/symptom_lymphedema.aux'.
+
+ (./chapters/symptom_lymphedema.tex [600
+
+
+
+
+
+]
+Chapter 165.
+[601] [602]) [603]
+\openout2 = `chapters/symptom_malaise.aux'.
+
+ (./chapters/symptom_malaise.tex [604
+
+
+
+
+]
+Chapter 166.
+[605] [606])
+\openout2 = `chapters/symptom_memory_loss.aux'.
+
+ (./chapters/symptom_memory_loss.tex
+Chapter 167.
+[607
+
+
+
+
+
+] [608]
+Overfull \hbox (1.52048pt too wide) in paragraph at lines 54--55
+[]\T1/lmr/m/n/10.95 Comprehensive neu-ro-log-i-cal ex-am-i-na-tion as-sesses me
+n-tal sta-tus, cra-nial nerves, mo-tor/sensory
+ []
+
+[609])
+\openout2 = `chapters/symptom_menstrual_pain.aux'.
+
+ (./chapters/symptom_menstrual_pain.tex [610
+
+
+
+
+
+]
+Chapter 168.
+[611] [612]) [613]
+\openout2 = `chapters/symptom_migraine.aux'.
+
+ (./chapters/symptom_migraine.tex [614
+
+
+
+
+]
+Chapter 169.
+[615] [616] [617])
+\openout2 = `chapters/symptom_mittelschmerz.aux'.
+
+ (./chapters/symptom_mittelschmerz.tex [618
+
+
+
+
+
+]
+Chapter 170.
+[619]) [620]
+\openout2 = `chapters/symptom_mood_swings.aux'.
+
+ (./chapters/symptom_mood_swings.tex
+Chapter 171.
+[621
+
+
+
+
+] [622] [623])
+\openout2 = `chapters/symptom_morning_sickness.aux'.
+
+ (./chapters/symptom_morning_sickness.tex [624
+
+
+
+
+
+]
+Chapter 172.
+[625] [626] [627])
+\openout2 = `chapters/symptom_motion_sickness.aux'.
+
+ (./chapters/symptom_motion_sickness.tex [628
+
+
+
+
+
+]
+Chapter 173.
+[629] [630] [631])
+\openout2 = `chapters/symptom_mouth_ulcers.aux'.
+
+ (./chapters/symptom_mouth_ulcers.tex [632
+
+
+
+
+
+]
+Chapter 174.
+[633] [634] [635])
+\openout2 = `chapters/symptom_muscle_cramps.aux'.
+
+ (./chapters/symptom_muscle_cramps.tex [636
+
+
+
+
+
+]
+Chapter 175.
+[637]
+Overfull \hbox (13.992pt too wide) in paragraph at lines 48--49
+[]\T1/lmr/m/n/10.95 History fo-cuses on mech-a-nism of in-jury, on-set (acute v
+s in-sid-i-ous), lo-ca-tion, ag-gra-vat-ing/relieving
+ []
+
+[638] [639])
+\openout2 = `chapters/symptom_muscle_pain.aux'.
+
+ (./chapters/symptom_muscle_pain.tex [640
+
+
+
+
+
+]
+Chapter 176.
+[641]
+Overfull \hbox (6.26572pt too wide) in paragraph at lines 57--58
+[]\T1/lmr/m/n/10.95 First-line man-age-ment in-cludes ac-tiv-ity mod-i-fi-ca-ti
+on, phys-i-cal ther-apy, and anal-gesics (NSAIDs
+ []
+
+[642])
+\openout2 = `chapters/symptom_nail_injuries.aux'.
+
+ (./chapters/symptom_nail_injuries.tex
+Chapter 177.
+[643
+
+
+
+
+
+] [644]) [645]
+\openout2 = `chapters/symptom_nail_psoriasis.aux'.
+
+ (./chapters/symptom_nail_psoriasis.tex [646
+
+
+
+
+]
+Chapter 178.
+[647] [648]) [649]
+\openout2 = `chapters/symptom_narcolepsy.aux'.
+
+ (./chapters/symptom_narcolepsy.tex [650
+
+
+
+
+]
+Chapter 179.
+[651] [652]) [653]
+\openout2 = `chapters/symptom_nasal_congestion.aux'.
+
+ (./chapters/symptom_nasal_congestion.tex [654
+
+
+
+
+]
+Chapter 180.
+
+Overfull \hbox (8.27264pt too wide) in paragraph at lines 7--8
+\T1/lmr/m/n/10.95 Nasal con-ges-tion re-sults from va-sodi-la-tion and en-gorge
+-ment of ve-nous si-nu-soids in the nasal turbinates
+ []
+
+[655] [656] [657])
+\openout2 = `chapters/symptom_nausea.aux'.
+
+ (./chapters/symptom_nausea.tex [658
+
+
+
+
+
+]
+Chapter 181.
+[659] [660])
+\openout2 = `chapters/symptom_neck_pain.aux'.
+
+ (./chapters/symptom_neck_pain.tex
+Chapter 182.
+[661
+
+
+
+
+
+] [662] [663])
+\openout2 = `chapters/symptom_nerve_pain.aux'.
+
+ (./chapters/symptom_nerve_pain.tex [664
+
+
+
+
+
+]
+Chapter 183.
+[665] [666] [667])
+\openout2 = `chapters/symptom_night_sweats.aux'.
+
+ (./chapters/symptom_night_sweats.tex [668
+
+
+
+
+
+]
+Chapter 184.
+[669] [670] [671])
+\openout2 = `chapters/symptom_night_terrors.aux'.
+
+ (./chapters/symptom_night_terrors.tex [672
+
+
+
+
+
+]
+Chapter 185.
+[673] [674]) [675]
+\openout2 = `chapters/symptom_nipple_discharge.aux'.
+
+ (./chapters/symptom_nipple_discharge.tex [676
+
+
+
+
+]
+Chapter 186.
+[677] [678] [679])
+\openout2 = `chapters/symptom_nosebleed.aux'.
+
+ (./chapters/symptom_nosebleed.tex [680
+
+
+
+
+
+]
+Chapter 187.
+[681] [682] [683])
+\openout2 = `chapters/symptom_nosebleeds.aux'.
+
+ (./chapters/symptom_nosebleeds.tex [684
+
+
+
+
+
+]
+Chapter 188.
+[685] [686]) [687]
+\openout2 = `chapters/symptom_oral_thrush.aux'.
+
+ (./chapters/symptom_oral_thrush.tex [688
+
+
+
+
+]
+Chapter 189.
+[689]
+Overfull \hbox (4.73695pt too wide) in paragraph at lines 39--40
+\T1/lmr/bx/n/10.95 Note: \T1/lmr/m/n/10.95 Al-ways con-sider se-ri-ous un-der-l
+y-ing con-di-tions when eval-u-at-ing per-sis-tent oral thrush (oropha-
+ []
+
+[690] [691])
+\openout2 = `chapters/symptom_overactive_bladder.aux'.
+
+ (./chapters/symptom_overactive_bladder.tex [692
+
+
+
+
+
+]
+Chapter 190.
+[693] [694]) [695]
+\openout2 = `chapters/symptom_pain.aux'.
+
+ (./chapters/symptom_pain.tex [696
+
+
+
+
+]
+Chapter 191.
+[697]
+Overfull \hbox (6.26572pt too wide) in paragraph at lines 47--48
+[]\T1/lmr/m/n/10.95 First-line man-age-ment in-cludes ac-tiv-ity mod-i-fi-ca-ti
+on, phys-i-cal ther-apy, and anal-gesics (NSAIDs
+ []
+
+[698])
+\openout2 = `chapters/symptom_pain_after_surgery.aux'.
+
+ (./chapters/symptom_pain_after_surgery.tex
+Chapter 192.
+
+Overfull \hbox (21.29063pt too wide) in paragraph at lines 7--8
+\T1/lmr/m/n/10.95 Surgical in-ci-sion causes tis-sue dam-age that re-leases in-
+flam-ma-tory me-di-a-tors (prostaglandins, bradykinin,
+ []
+
+[699
+
+
+
+
+
+] [700]) [701]
+\openout2 = `chapters/symptom_pain_during_intercourse.aux'.
+
+ (./chapters/symptom_pain_during_intercourse.tex [702
+
+
+
+
+]
+Chapter 193.
+[703] [704]) [705]
+\openout2 = `chapters/symptom_painful_sex.aux'.
+
+ (./chapters/symptom_painful_sex.tex [706
+
+
+
+
+]
+Chapter 194.
+[707] [708] [709])
+\openout2 = `chapters/symptom_painful_urination.aux'.
+
+ (./chapters/symptom_painful_urination.tex [710
+
+
+
+
+
+]
+Chapter 195.
+[711] [712] [713])
+\openout2 = `chapters/symptom_palpitations.aux'.
+
+ (./chapters/symptom_palpitations.tex [714
+
+
+
+
+
+]
+Chapter 196.
+
+Overfull \hbox (46.65793pt too wide) in paragraph at lines 22--23
+[]\T1/lmr/m/n/10.95 Symptoms last-ing more than Eval-u-ate if new, ir-reg-u-lar
+, or ac-com-pa-nied by chest pain/dizziness/syncope 
+ []
+
+[715] [716])
+\openout2 = `chapters/symptom_panic_attacks.aux'.
+
+ (./chapters/symptom_panic_attacks.tex
+Chapter 197.
+[717
+
+
+
+
+
+] [718] [719])
+\openout2 = `chapters/symptom_peeling_skin.aux'.
+
+ (./chapters/symptom_peeling_skin.tex [720
+
+
+
+
+
+]
+Chapter 198.
+[721] [722] [723])
+\openout2 = `chapters/symptom_pelvic_organ_prolapse.aux'.
+
+ (./chapters/symptom_pelvic_organ_prolapse.tex [724
+
+
+
+
+
+]
+Chapter 199.
+[725] [726] [727])
+\openout2 = `chapters/symptom_pelvic_pain.aux'.
+
+ (./chapters/symptom_pelvic_pain.tex [728
+
+
+
+
+
+]
+Chapter 200.
+[729] [730] [731])
+\openout2 = `chapters/symptom_penis_irritation.aux'.
+
+ (./chapters/symptom_penis_irritation.tex [732
+
+
+
+
+
+]
+Chapter 201.
+[733] [734] [735])
+\openout2 = `chapters/symptom_penis_swelling_and_injury.aux'.
+
+ (./chapters/symptom_penis_swelling_and_injury.tex [736
+
+
+
+
+
+]
+Chapter 202.
+[737] [738] [739])
+\openout2 = `chapters/symptom_petechiae.aux'.
+
+ (./chapters/symptom_petechiae.tex [740
+
+
+
+
+
+]
+Chapter 203.
+[741] [742] [743])
+\openout2 = `chapters/symptom_pinched_nerve.aux'.
+
+ (./chapters/symptom_pinched_nerve.tex [744
+
+
+
+
+
+]
+Chapter 204.
+[745] [746]) [747]
+\openout2 = `chapters/symptom_pleurisy.aux'.
+
+ (./chapters/symptom_pleurisy.tex [748
+
+
+
+
+]
+Chapter 205.
+[749] [750]) [751]
+\openout2 = `chapters/symptom_pressure_sores.aux'.
+
+ (./chapters/symptom_pressure_sores.tex [752
+
+
+
+
+]
+Chapter 206.
+[753] [754]) [755]
+\openout2 = `chapters/symptom_rash.aux'.
+
+ (./chapters/symptom_rash.tex [756
+
+
+
+
+]
+Chapter 207.
+[757] [758] [759])
+\openout2 = `chapters/symptom_rectal_bleeding.aux'.
+
+ (./chapters/symptom_rectal_bleeding.tex [760
+
+
+
+
+
+]
+Chapter 208.
+[761] [762] [763])
+\openout2 = `chapters/symptom_rectal_pain.aux'.
+
+ (./chapters/symptom_rectal_pain.tex [764
+
+
+
+
+
+]
+Chapter 209.
+[765] [766]) [767]
+\openout2 = `chapters/symptom_red_eye.aux'.
+
+ (./chapters/symptom_red_eye.tex [768
+
+
+
+
+]
+Chapter 210.
+[769] [770] [771])
+\openout2 = `chapters/symptom_restless_legs_syndrome.aux'.
+
+ (./chapters/symptom_restless_legs_syndrome.tex [772
+
+
+
+
+
+]
+Chapter 211.
+[773] [774] [775])
+\openout2 = `chapters/symptom_runny_nose.aux'.
+
+ (./chapters/symptom_runny_nose.tex [776
+
+
+
+
+
+]
+Chapter 212.
+[777] [778] [779])
+\openout2 = `chapters/symptom_scabies.aux'.
+
+ (./chapters/symptom_scabies.tex [780
+
+
+
+
+
+]
+Chapter 213.
+[781]) [782]
+\openout2 = `chapters/symptom_sciatica.aux'.
+
+ (./chapters/symptom_sciatica.tex
+Chapter 214.
+[783
+
+
+
+
+]
+Overfull \hbox (13.992pt too wide) in paragraph at lines 48--49
+[]\T1/lmr/m/n/10.95 History fo-cuses on mech-a-nism of in-jury, on-set (acute v
+s in-sid-i-ous), lo-ca-tion, ag-gra-vat-ing/relieving
+ []
+
+[784] [785])
+\openout2 = `chapters/symptom_seizures.aux'.
+
+ (./chapters/symptom_seizures.tex [786
+
+
+
+
+
+]
+Chapter 215.
+[787]
+Overfull \hbox (1.52048pt too wide) in paragraph at lines 48--49
+[]\T1/lmr/m/n/10.95 Comprehensive neu-ro-log-i-cal ex-am-i-na-tion as-sesses me
+n-tal sta-tus, cra-nial nerves, mo-tor/sensory
+ []
+
+[788])
+\openout2 = `chapters/symptom_shin_splints.aux'.
+
+ (./chapters/symptom_shin_splints.tex
+Chapter 216.
+[789
+
+
+
+
+
+] [790]) [791]
+\openout2 = `chapters/symptom_shock.aux'.
+
+ (./chapters/symptom_shock.tex [792
+
+
+
+
+]
+Chapter 217.
+[793] [794]) [795]
+\openout2 = `chapters/symptom_shortness_of_breath.aux'.
+
+ (./chapters/symptom_shortness_of_breath.tex [796
+
+
+
+
+]
+Chapter 218.
+[797] [798])
+\openout2 = `chapters/symptom_shoulder_pain.aux'.
+
+ (./chapters/symptom_shoulder_pain.tex
+Chapter 219.
+[799
+
+
+
+
+
+] [800] [801])
+\openout2 = `chapters/symptom_skin_tags.aux'.
+
+ (./chapters/symptom_skin_tags.tex [802
+
+
+
+
+
+]
+Chapter 220.
+[803]) [804]
+\openout2 = `chapters/symptom_sneezing.aux'.
+
+ (./chapters/symptom_sneezing.tex
+Chapter 221.
+[805
+
+
+
+
+] [806])
+\openout2 = `chapters/symptom_snoring.aux'.
+
+ (./chapters/symptom_snoring.tex
+Chapter 222.
+[807
+
+
+
+
+
+] [808] [809])
+\openout2 = `chapters/symptom_sore_throat.aux'.
+
+ (./chapters/symptom_sore_throat.tex [810
+
+
+
+
+
+]
+Chapter 223.
+[811] [812])
+\openout2 = `chapters/symptom_splinters.aux'.
+
+ (./chapters/symptom_splinters.tex
+Chapter 224.
+[813
+
+
+
+
+
+]) [814]
+\openout2 = `chapters/symptom_stool_color_changes.aux'.
+
+ (./chapters/symptom_stool_color_changes.tex
+Chapter 225.
+[815
+
+
+
+
+] [816]) [817]
+\openout2 = `chapters/symptom_stress_health.aux'.
+
+ (./chapters/symptom_stress_health.tex [818
+
+
+
+
+]
+Chapter 226.
+[819] [820]) [821]
+\openout2 = `chapters/symptom_stretch_marks.aux'.
+
+ (./chapters/symptom_stretch_marks.tex [822
+
+
+
+
+]
+Chapter 227.
+[823] [824]) [825]
+\openout2 = `chapters/symptom_stroke.aux'.
+
+ (./chapters/symptom_stroke.tex [826
+
+
+
+
+]
+Chapter 228.
+[827]
+Overfull \hbox (1.52048pt too wide) in paragraph at lines 49--50
+[]\T1/lmr/m/n/10.95 Comprehensive neu-ro-log-i-cal ex-am-i-na-tion as-sesses me
+n-tal sta-tus, cra-nial nerves, mo-tor/sensory
+ []
+
+[828])
+\openout2 = `chapters/symptom_sty.aux'.
+
+ (./chapters/symptom_sty.tex
+Chapter 229.
+[829
+
+
+
+
+
+]) [830]
+\openout2 = `chapters/symptom_sunburn.aux'.
+
+ (./chapters/symptom_sunburn.tex
+Chapter 230.
+[831
+
+
+
+
+] [832]) [833]
+\openout2 = `chapters/symptom_swelling.aux'.
+
+ (./chapters/symptom_swelling.tex [834
+
+
+
+
+]
+Chapter 231.
+[835] [836] [837])
+\openout2 = `chapters/symptom_swollen_or_painful_testicle.aux'.
+
+ (./chapters/symptom_swollen_or_painful_testicle.tex [838
+
+
+
+
+
+]
+Chapter 232.
+[839] [840] [841])
+\openout2 = `chapters/symptom_syncope.aux'.
+
+ (./chapters/symptom_syncope.tex [842
+
+
+
+
+
+]
+Chapter 233.
+[843]
+Overfull \hbox (1.52048pt too wide) in paragraph at lines 48--49
+[]\T1/lmr/m/n/10.95 Comprehensive neu-ro-log-i-cal ex-am-i-na-tion as-sesses me
+n-tal sta-tus, cra-nial nerves, mo-tor/sensory
+ []
+
+[844])
+\openout2 = `chapters/symptom_tachycardia.aux'.
+
+ (./chapters/symptom_tachycardia.tex
+Chapter 234.
+[845
+
+
+
+
+
+] [846] [847])
+\openout2 = `chapters/symptom_teething.aux'.
+
+ (./chapters/symptom_teething.tex [848
+
+
+
+
+
+]
+Chapter 235.
+[849]) [850]
+\openout2 = `chapters/symptom_testicular_pain.aux'.
+
+ (./chapters/symptom_testicular_pain.tex
+Chapter 236.
+[851
+
+
+
+
+] [852]) [853]
+\openout2 = `chapters/symptom_tingling_numbness.aux'.
+
+ (./chapters/symptom_tingling_numbness.tex [854
+
+
+
+
+]
+Chapter 237.
+[855]
+Overfull \hbox (1.52048pt too wide) in paragraph at lines 52--53
+[]\T1/lmr/m/n/10.95 Comprehensive neu-ro-log-i-cal ex-am-i-na-tion as-sesses me
+n-tal sta-tus, cra-nial nerves, mo-tor/sensory
+ []
+
+[856] [857])
+\openout2 = `chapters/symptom_tinnitus.aux'.
+
+ (./chapters/symptom_tinnitus.tex [858
+
+
+
+
+
+]
+Chapter 238.
+[859] [860] [861])
+\openout2 = `chapters/symptom_toothache.aux'.
+
+ (./chapters/symptom_toothache.tex [862
+
+
+
+
+
+]
+Chapter 239.
+[863] [864] [865])
+\openout2 = `chapters/symptom_tremors.aux'.
+
+ (./chapters/symptom_tremors.tex [866
+
+
+
+
+
+]
+Chapter 240.
+[867] [868]) [869]
+\openout2 = `chapters/symptom_urinary_frequency.aux'.
+
+ (./chapters/symptom_urinary_frequency.tex [870
+
+
+
+
+]
+Chapter 241.
+[871] [872])
+\openout2 = `chapters/symptom_urinary_incontinence.aux'.
+
+ (./chapters/symptom_urinary_incontinence.tex
+Chapter 242.
+[873
+
+
+
+
+
+] [874])
+\openout2 = `chapters/symptom_urinary_retention.aux'.
+
+ (./chapters/symptom_urinary_retention.tex
+Chapter 243.
+[875
+
+
+
+
+
+] [876] [877])
+\openout2 = `chapters/symptom_urine_odor.aux'.
+
+ (./chapters/symptom_urine_odor.tex [878
+
+
+
+
+
+]
+Chapter 244.
+[879] [880] [881])
+\openout2 = `chapters/symptom_vaginal_bleeding.aux'.
+
+ (./chapters/symptom_vaginal_bleeding.tex [882
+
+
+
+
+
+]
+Chapter 245.
+[883] [884]) [885]
+\openout2 = `chapters/symptom_vaginal_discharge.aux'.
+
+ (./chapters/symptom_vaginal_discharge.tex [886
+
+
+
+
+]
+Chapter 246.
+[887]
+Overfull \hbox (6.05157pt too wide) in paragraph at lines 50--51
+[]\T1/lmr/m/n/10.95 Ultrasound (trans-ab-dom-i-nal or transvagi-nal) eval-u-ate
+s the en-dometrium, my-ometrium, ovaries,
+ []
+
+[888])
+\openout2 = `chapters/symptom_vaginal_dryness.aux'.
+
+ (./chapters/symptom_vaginal_dryness.tex
+Chapter 247.
+[889
+
+
+
+
+
+] [890] [891])
+\openout2 = `chapters/symptom_vaginal_irritation_and_infection.aux'.
+
+ (./chapters/symptom_vaginal_irritation_and_infection.tex
+[892
+
+
+
+
+
+]
+Chapter 248.
+[893] [894] [895])
+\openout2 = `chapters/symptom_vaginal_prolapse.aux'.
+
+ (./chapters/symptom_vaginal_prolapse.tex [896
+
+
+
+
+
+]
+Chapter 249.
+[897] [898]
+Overfull \hbox (1.00395pt too wide) in paragraph at lines 67--68
+[]\T1/lmr/m/n/10.95 Surgery: sacro-colpopexy, uterosacral lig-a-ment sus-pen-si
+on, an-te-rior/posterior re-pair, colpoclei-
+ []
+
+) [899]
+\openout2 = `chapters/symptom_vertigo.aux'.
+
+ (./chapters/symptom_vertigo.tex [900
+
+
+
+
+]
+Chapter 250.
+[901]
+Overfull \hbox (1.52048pt too wide) in paragraph at lines 48--49
+[]\T1/lmr/m/n/10.95 Comprehensive neu-ro-log-i-cal ex-am-i-na-tion as-sesses me
+n-tal sta-tus, cra-nial nerves, mo-tor/sensory
+ []
+
+[902])
+\openout2 = `chapters/symptom_vision_blurred.aux'.
+
+ (./chapters/symptom_vision_blurred.tex
+Chapter 251.
+[903
+
+
+
+
+
+] [904])
+\openout2 = `chapters/symptom_vomiting.aux'.
+
+ (./chapters/symptom_vomiting.tex
+Chapter 252.
+[905
+
+
+
+
+
+] [906])
+\openout2 = `chapters/symptom_vomiting_and_nausea.aux'.
+
+ (./chapters/symptom_vomiting_and_nausea.tex
+Chapter 253.
+[907
+
+
+
+
+
+] [908]) [909]
+\openout2 = `chapters/symptom_warning_signs_during_pregnancy.aux'.
+
+ (./chapters/symptom_warning_signs_during_pregnancy.tex
+[910
+
+
+
+
+]
+Chapter 254.
+[911] [912] [913])
+\openout2 = `chapters/symptom_watery_eyes.aux'.
+
+ (./chapters/symptom_watery_eyes.tex [914
+
+
+
+
+
+]
+Chapter 255.
+[915] [916] [917])
+\openout2 = `chapters/symptom_weakness.aux'.
+
+ (./chapters/symptom_weakness.tex [918
+
+
+
+
+
+]
+Chapter 256.
+[919] [920])
+\openout2 = `chapters/symptom_weight_gain.aux'.
+
+ (./chapters/symptom_weight_gain.tex
+Chapter 257.
+
+Overfull \hbox (6.96417pt too wide) in paragraph at lines 7--8
+\T1/lmr/m/n/10.95 Menopausal weight gain re-sults from sev-eral mech-a-nisms: d
+e-clin-ing oe-stro-gen re-duces basal metabolic
+ []
+
+[921
+
+
+
+
+
+] [922] [923])
+\openout2 = `chapters/symptom_weight_loss.aux'.
+
+ (./chapters/symptom_weight_loss.tex [924
+
+
+
+
+
+]
+Chapter 258.
+[925] [926])
+\openout2 = `chapters/symptom_wheezing.aux'.
+
+ (./chapters/symptom_wheezing.tex
+Chapter 259.
+
+Overfull \hbox (1.6419pt too wide) in paragraph at lines 22--23
+[]\T1/lmr/m/n/10.95 Symptoms last-ing more than per-sis-tent or ac-com-pa-nied 
+by res-pi-ra-tory dis-tress re-quires prompt
+ []
+
+[927
+
+
+
+
+
+] [928])
+\openout2 = `chapters/symptom_white_tongue.aux'.
+
+ (./chapters/symptom_white_tongue.tex
+Chapter 260.
+[929
+
+
+
+
+
+] [930] [931])
+\openout2 = `chapters/symptom_wound_care.aux'.
+
+ (./chapters/symptom_wound_care.tex [932
+
+
+
+
+
+]
+Chapter 261.
+[933]) [934]
+\openout2 = `chapters/symptom_wrist_injury.aux'.
+
+ (./chapters/symptom_wrist_injury.tex
+Chapter 262.
+[935
+
+
+
+
+]) [936]
+\openout2 = `chapters/symptom_wrist_pain.aux'.
+
+ (./chapters/symptom_wrist_pain.tex
+Chapter 263.
+[937
+
+
+
+
+] [938] [939])
+\openout2 = `chapters/symptom_yellow_tongue.aux'.
+
+ (./chapters/symptom_yellow_tongue.tex [940
+
+
+
+
+
+]
+Chapter 264.
+[941] [942] [943]) [944
+
+
+
+
+] (./medical_symptoms.aux
+(./chapters/appendix_emergency_warnings.aux)
+(./chapters/symptom_abdominal_pain.aux) (./chapters/symptom_abscess.aux)
+(./chapters/symptom_acne.aux) (./chapters/symptom_addiction_withdrawal.aux)
+(./chapters/symptom_allergic_reaction.aux) (./chapters/symptom_amenorrhea.aux)
+(./chapters/symptom_anal_itching.aux) (./chapters/symptom_anal_pain.aux)
+(./chapters/symptom_anemia.aux) (./chapters/symptom_anhedonia.aux)
+(./chapters/symptom_animal_bites.aux) (./chapters/symptom_ankle_pain.aux)
+(./chapters/symptom_anxiety.aux) (./chapters/symptom_arm_pain.aux)
+(./chapters/symptom_ascites.aux) (./chapters/symptom_back_pain.aux)
+(./chapters/symptom_bad_breath.aux)
+(./chapters/symptom_bad_taste_in_the_mouth.aux)
+(./chapters/symptom_bedwetting.aux) (./chapters/symptom_bent_penis.aux)
+(./chapters/symptom_black_eye.aux)
+(./chapters/symptom_bleeding_after_vaginal_sex.aux)
+(./chapters/symptom_bleeding_between_periods.aux)
+(./chapters/symptom_bleeding_during_pregnancy.aux)
+(./chapters/symptom_bloating.aux) (./chapters/symptom_blood_clots.aux)
+(./chapters/symptom_blood_in_semen.aux) (./chapters/symptom_blood_in_stool.aux)
+(./chapters/symptom_boils.aux) (./chapters/symptom_bowel_incontinence.aux)
+(./chapters/symptom_brain_fog.aux) (./chapters/symptom_breast_lump.aux)
+(./chapters/symptom_breast_tenderness.aux)
+(./chapters/symptom_brittle_nails.aux) (./chapters/symptom_bruises.aux)
+(./chapters/symptom_bunions.aux) (./chapters/symptom_burning_feet.aux)
+(./chapters/symptom_burning_mouth_syndrome.aux) (./chapters/symptom_burping.aux
+) (./chapters/symptom_calf_pain.aux) (./chapters/symptom_canker_sores.aux)
+(./chapters/symptom_catarrh.aux) (./chapters/symptom_cellulite.aux)
+(./chapters/symptom_chest_pain.aux)
+(./chapters/symptom_chest_tightness_and_discomfort.aux)
+(./chapters/symptom_chills.aux) (./chapters/symptom_choking.aux)
+(./chapters/symptom_chronic_wounds.aux) (./chapters/symptom_clitoral_pain.aux)
+(./chapters/symptom_cognitive_deficits.aux)
+(./chapters/symptom_cold_hands_and_feet.aux)
+(./chapters/symptom_cold_intolerance.aux) (./chapters/symptom_cold_sores.aux)
+(./chapters/symptom_coma.aux) (./chapters/symptom_concussion.aux)
+(./chapters/symptom_confusion.aux) (./chapters/symptom_constipation.aux)
+(./chapters/symptom_corns_and_calluses.aux) (./chapters/symptom_cough.aux)
+(./chapters/symptom_crying_spells.aux) (./chapters/symptom_cyst.aux)
+(./chapters/symptom_dandruff.aux)
+(./chapters/symptom_dark_circles_under_eyes.aux)
+(./chapters/symptom_dehydration.aux) (./chapters/symptom_delirium.aux)
+(./chapters/symptom_delusions.aux) (./chapters/symptom_depression.aux)
+(./chapters/symptom_diarrhea.aux) (./chapters/symptom_disorientation.aux)
+(./chapters/symptom_dizziness.aux) (./chapters/symptom_double_vision.aux)
+(./chapters/symptom_drooling.aux) (./chapters/symptom_dry_eye_disease.aux)
+(./chapters/symptom_dry_mouth.aux) (./chapters/symptom_dry_orgasm.aux)
+(./chapters/symptom_dry_skin.aux) (./chapters/symptom_dysphagia.aux)
+(./chapters/symptom_earache.aux) (./chapters/symptom_earwax.aux)
+(./chapters/symptom_edema.aux) (./chapters/symptom_elbow_pain.aux)
+(./chapters/symptom_electric_shock_sensation.aux)
+(./chapters/symptom_enlarged_prostate.aux)
+(./chapters/symptom_enlarged_spleen.aux)
+(./chapters/symptom_erectile_dysfunction.aux)
+(./chapters/symptom_excessive_sweating.aux)
+(./chapters/symptom_eye_allergies.aux) (./chapters/symptom_eye_discharge.aux)
+(./chapters/symptom_eye_floaters.aux) (./chapters/symptom_eye_pain.aux)
+(./chapters/symptom_eye_strain.aux) (./chapters/symptom_eye_twitching.aux)
+(./chapters/symptom_eyelid_bump.aux)
+(./chapters/symptom_eyelid_inflammation.aux)
+(./chapters/symptom_facial_droop.aux) (./chapters/symptom_facial_numbness.aux)
+(./chapters/symptom_fainting.aux) (./chapters/symptom_fatigue.aux)
+(./chapters/symptom_febrile_seizure.aux) (./chapters/symptom_fever.aux)
+(./chapters/symptom_fluid_from_the_ear.aux) (./chapters/symptom_foot_pain.aux)
+(./chapters/symptom_frequent_bowel_movements.aux)
+(./chapters/symptom_frequent_urination.aux) (./chapters/symptom_frostbite.aux)
+(./chapters/symptom_ganglion_cyst.aux) (./chapters/symptom_green_stool.aux)
+(./chapters/symptom_groin_pain_or_swelling.aux)
+(./chapters/symptom_gum_swelling.aux) (./chapters/symptom_gynecomastia.aux)
+(./chapters/symptom_haemoptysis.aux) (./chapters/symptom_hair_loss.aux)
+(./chapters/symptom_hallucinations.aux) (./chapters/symptom_hand_tremor.aux)
+(./chapters/symptom_headache.aux) (./chapters/symptom_hearing_loss.aux)
+(./chapters/symptom_heart_murmur.aux) (./chapters/symptom_heartburn.aux)
+(./chapters/symptom_heat_cramps.aux) (./chapters/symptom_heat_exhaustion.aux)
+(./chapters/symptom_heat_rash.aux) (./chapters/symptom_heat_stroke.aux)
+(./chapters/symptom_heavy_periods.aux) (./chapters/symptom_heel_pain.aux)
+(./chapters/symptom_hematoma.aux) (./chapters/symptom_hematuria.aux)
+(./chapters/symptom_hiccups.aux) (./chapters/symptom_hip_pain.aux)
+(./chapters/symptom_hives_and_angioedema.aux)
+(./chapters/symptom_hoarseness.aux) (./chapters/symptom_hot_flushes.aux)
+(./chapters/symptom_hyperhidrosis.aux) (./chapters/symptom_hyperventilation.aux
+) (./chapters/symptom_hyphema.aux) (./chapters/symptom_hypothermia.aux)
+(./chapters/symptom_inability_to_urinate.aux)
+(./chapters/symptom_indigestion.aux) (./chapters/symptom_ingrown_hair.aux)
+(./chapters/symptom_ingrown_toenails.aux) (./chapters/symptom_insect_bites.aux)
+(./chapters/symptom_insomnia.aux) (./chapters/symptom_internal_bleeding.aux)
+(./chapters/symptom_irregular_periods.aux) (./chapters/symptom_irritability.aux
+) (./chapters/symptom_itching_pruritus.aux) (./chapters/symptom_jaundice.aux)
+(./chapters/symptom_jock_itch.aux) (./chapters/symptom_joint_pain.aux)
+(./chapters/symptom_kidney_pain.aux) (./chapters/symptom_knee_injury.aux)
+(./chapters/symptom_knee_pain.aux) (./chapters/symptom_labia_changes.aux)
+(./chapters/symptom_labor_signs.aux) (./chapters/symptom_lack_of_motivation.aux
+) (./chapters/symptom_laryngitis.aux) (./chapters/symptom_leg_pain.aux)
+(./chapters/symptom_loss_of_appetite.aux)
+(./chapters/symptom_loss_of_bone_density.aux)
+(./chapters/symptom_loss_of_smell.aux) (./chapters/symptom_low_blood_sugar.aux)
+(./chapters/symptom_low_libido.aux) (./chapters/symptom_low_self_esteem.aux)
+(./chapters/symptom_lump_under_armpit.aux) (./chapters/symptom_lymphedema.aux)
+(./chapters/symptom_malaise.aux) (./chapters/symptom_memory_loss.aux)
+(./chapters/symptom_menstrual_pain.aux) (./chapters/symptom_migraine.aux)
+(./chapters/symptom_mittelschmerz.aux) (./chapters/symptom_mood_swings.aux)
+(./chapters/symptom_morning_sickness.aux)
+(./chapters/symptom_motion_sickness.aux) (./chapters/symptom_mouth_ulcers.aux)
+(./chapters/symptom_muscle_cramps.aux) (./chapters/symptom_muscle_pain.aux)
+(./chapters/symptom_nail_injuries.aux) (./chapters/symptom_nail_psoriasis.aux)
+(./chapters/symptom_narcolepsy.aux) (./chapters/symptom_nasal_congestion.aux)
+(./chapters/symptom_nausea.aux) (./chapters/symptom_neck_pain.aux)
+(./chapters/symptom_nerve_pain.aux) (./chapters/symptom_night_sweats.aux)
+(./chapters/symptom_night_terrors.aux) (./chapters/symptom_nipple_discharge.aux
+) (./chapters/symptom_nosebleed.aux) (./chapters/symptom_nosebleeds.aux)
+(./chapters/symptom_oral_thrush.aux) (./chapters/symptom_overactive_bladder.aux
+) (./chapters/symptom_pain.aux) (./chapters/symptom_pain_after_surgery.aux)
+(./chapters/symptom_pain_during_intercourse.aux)
+(./chapters/symptom_painful_sex.aux) (./chapters/symptom_painful_urination.aux)
+(./chapters/symptom_palpitations.aux) (./chapters/symptom_panic_attacks.aux)
+(./chapters/symptom_peeling_skin.aux)
+(./chapters/symptom_pelvic_organ_prolapse.aux)
+(./chapters/symptom_pelvic_pain.aux) (./chapters/symptom_penis_irritation.aux)
+(./chapters/symptom_penis_swelling_and_injury.aux)
+(./chapters/symptom_petechiae.aux) (./chapters/symptom_pinched_nerve.aux)
+(./chapters/symptom_pleurisy.aux) (./chapters/symptom_pressure_sores.aux)
+(./chapters/symptom_rash.aux) (./chapters/symptom_rectal_bleeding.aux)
+(./chapters/symptom_rectal_pain.aux) (./chapters/symptom_red_eye.aux)
+(./chapters/symptom_restless_legs_syndrome.aux)
+(./chapters/symptom_runny_nose.aux) (./chapters/symptom_scabies.aux)
+(./chapters/symptom_sciatica.aux) (./chapters/symptom_seizures.aux)
+(./chapters/symptom_shin_splints.aux) (./chapters/symptom_shock.aux)
+(./chapters/symptom_shortness_of_breath.aux)
+(./chapters/symptom_shoulder_pain.aux) (./chapters/symptom_skin_tags.aux)
+(./chapters/symptom_sneezing.aux) (./chapters/symptom_snoring.aux)
+(./chapters/symptom_sore_throat.aux) (./chapters/symptom_splinters.aux)
+(./chapters/symptom_stool_color_changes.aux)
+(./chapters/symptom_stress_health.aux) (./chapters/symptom_stretch_marks.aux)
+(./chapters/symptom_stroke.aux) (./chapters/symptom_sty.aux)
+(./chapters/symptom_sunburn.aux) (./chapters/symptom_swelling.aux)
+(./chapters/symptom_swollen_or_painful_testicle.aux)
+(./chapters/symptom_syncope.aux) (./chapters/symptom_tachycardia.aux)
+(./chapters/symptom_teething.aux) (./chapters/symptom_testicular_pain.aux)
+(./chapters/symptom_tingling_numbness.aux) (./chapters/symptom_tinnitus.aux)
+(./chapters/symptom_toothache.aux) (./chapters/symptom_tremors.aux)
+(./chapters/symptom_urinary_frequency.aux)
+(./chapters/symptom_urinary_incontinence.aux)
+(./chapters/symptom_urinary_retention.aux) (./chapters/symptom_urine_odor.aux)
+(./chapters/symptom_vaginal_bleeding.aux)
+(./chapters/symptom_vaginal_discharge.aux)
+(./chapters/symptom_vaginal_dryness.aux)
+(./chapters/symptom_vaginal_irritation_and_infection.aux)
+(./chapters/symptom_vaginal_prolapse.aux) (./chapters/symptom_vertigo.aux)
+(./chapters/symptom_vision_blurred.aux) (./chapters/symptom_vomiting.aux)
+(./chapters/symptom_vomiting_and_nausea.aux)
+(./chapters/symptom_warning_signs_during_pregnancy.aux)
+(./chapters/symptom_watery_eyes.aux) (./chapters/symptom_weakness.aux)
+(./chapters/symptom_weight_gain.aux) (./chapters/symptom_weight_loss.aux)
+(./chapters/symptom_wheezing.aux) (./chapters/symptom_white_tongue.aux)
+(./chapters/symptom_wound_care.aux) (./chapters/symptom_wrist_injury.aux)
+(./chapters/symptom_wrist_pain.aux) (./chapters/symptom_yellow_tongue.aux))
+ ***********
+LaTeX2e <2025-11-01>
+L3 programming layer <2026-01-19>
+ ***********
+Package rerunfilecheck Info: File `medical_symptoms.out' has not changed.
+(rerunfilecheck)             Checksum: E85BE0F27788C9F396C5646D0B36B563;144978.
+
+ ) 
+Here is how much of TeX's memory you used:
+ 19379 strings out of 467525
+ 473302 string characters out of 5408440
+ 677669 words of memory out of 5000000
+ 43042 multiletter control sequences out of 15000+600000
+ 676063 words of font info for 66 fonts, out of 8000000 for 9000
+ 1141 hyphenation exceptions out of 8191
+ 75i,6n,79p,7993b,1010s stack positions out of 10000i,1000n,20000p,200000b,200000s
+</opt/homebrew/Cellar/texlive/20260301/share/texmf-dist/fonts/type1/public/lm
+/lmbx10.pfb></opt/homebrew/Cellar/texlive/20260301/share/texmf-dist/fonts/type1
+/public/lm/lmbx12.pfb></opt/homebrew/Cellar/texlive/20260301/share/texmf-dist/f
+onts/type1/public/lm/lmmi10.pfb></opt/homebrew/Cellar/texlive/20260301/share/te
+xmf-dist/fonts/type1/public/lm/lmr10.pfb></opt/homebrew/Cellar/texlive/20260301
+/share/texmf-dist/fonts/type1/public/lm/lmr12.pfb></opt/homebrew/Cellar/texlive
+/20260301/share/texmf-dist/fonts/type1/public/lm/lmr17.pfb></opt/homebrew/Cella
+r/texlive/20260301/share/texmf-dist/fonts/type1/public/lm/lmro10.pfb></opt/home
+brew/Cellar/texlive/20260301/share/texmf-dist/fonts/type1/public/lm/lmsy10.pfb>
+
+Output written on medical_symptoms.pdf (972 pages, 1271824 bytes).
+PDF statistics:
+ 11020 PDF objects out of 12825 (max. 8388607)
+ 9929 compressed objects within 100 object streams
+ 3314 named destinations out of 3580 (max. 500000)
+ 7553 words of extra memory for PDF output out of 10000 (max. 10000000)
+
