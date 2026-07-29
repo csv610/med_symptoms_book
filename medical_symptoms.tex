@@ -2,6 +2,7 @@
 
 \usepackage[margin=1in]{geometry}
 \usepackage[T1]{fontenc}
+\usepackage{microtype}
 \usepackage{tgpagella}
 \usepackage{newpxmath}
 \usepackage{newtxtt}
@@ -11,6 +12,9 @@
 \usepackage{textcomp}
 \usepackage{tocloft}
 \setlength{\cftchapnumwidth}{3em}
+\setlength{\emergencystretch}{3em}
+\tolerance=700
+\hbadness=10000
 
 % Suppress the \chapter*{\bibname} that book class's thebibliography calls
 \makeatletter
@@ -20,6 +24,7 @@
             \leftmargin\labelwidth
             \advance\leftmargin\labelsep
             \@openbib@code
+            \sloppy
             \usecounter{enumiv}%
             \let\p@enumiv\@empty
             \renewcommand\theenumiv{\@arabic\c@enumiv}}%
@@ -30,7 +35,7 @@
       \sfcode`\.\@m}
      {\def\@noitemerr
        {\@latex@warning{Empty `thebibliography' environment}}%
-      \endlist}
+      \par\endlist}
 \makeatother
 
 % DEBUG MODE: Uncomment for single-symptom compile
