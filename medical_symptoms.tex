@@ -5,7 +5,9 @@
 \usepackage{tgpagella}
 \usepackage{newpxmath}
 \usepackage{newtxtt}
-\usepackage[hidelinks]{hyperref}
+% Declare slanted shape for qpl — fall back to italic
+\DeclareFontShape{T1}{qpl}{m}{sl}{<->ssub * qpl/m/it}{}
+\usepackage[hidelinks,hypertexnames=false]{hyperref}
 \usepackage{textcomp}
 \usepackage{tocloft}
 \setlength{\cftchapnumwidth}{3em}
