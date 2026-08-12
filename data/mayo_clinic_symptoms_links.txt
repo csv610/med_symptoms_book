@@ -1,0 +1,88 @@
+1. Abdominal pain	https://www.mayoclinic.org/symptoms/abdominal-pain/basics/definition/sym-20050728
+2. Abnormal liver enzymes, also known as Elevated liver enzymes	https://www.mayoclinic.org/symptoms/elevated-liver-enzymes/basics/definition/sym-20050830
+3. Anal pain	https://www.mayoclinic.org/symptoms/anal-pain/basics/definition/sym-20050918
+4. Ankle pain	https://www.mayoclinic.org/symptoms/ankle-pain/basics/definition/sym-20050796
+5. Anosmia, also known as Loss of smell (anosmia)	https://www.mayoclinic.org/symptoms/loss-of-smell/basics/definition/sym-20050804
+6. Arm pain	https://www.mayoclinic.org/symptoms/arm-pain/basics/definition/sym-20050870
+7. Back pain	https://www.mayoclinic.org/symptoms/back-pain/basics/definition/sym-20050878
+8. Bent penis	https://www.mayoclinic.org/symptoms/bent-penis/basics/definition/sym-20050628
+9. Bleeding after vaginal sex, also known as Vaginal bleeding after sex	https://www.mayoclinic.org/symptoms/bleeding-after-vaginal-sex/basics/definition/sym-20050716
+10. Bleeding during pregnancy	https://www.mayoclinic.org/symptoms/bleeding-during-pregnancy/basics/definition/sym-20050636
+11. Blood clots	https://www.mayoclinic.org/symptoms/blood-clots/basics/definition/sym-20050850
+12. Blood in semen	https://www.mayoclinic.org/symptoms/blood-in-semen/basics/definition/sym-20050603
+13. Brain lesions	https://www.mayoclinic.org/symptoms/brain-lesions/basics/definition/sym-20050692
+14. Breast calcifications	https://www.mayoclinic.org/symptoms/breast-calcifications/basics/definition/sym-20050834
+15. Breast lumps	https://www.mayoclinic.org/symptoms/breast-lumps/basics/definition/sym-20050619
+16. Breast rash	https://www.mayoclinic.org/symptoms/breast-rash/basics/definition/sym-20050817
+17. Burning feet	https://www.mayoclinic.org/symptoms/burning-feet/basics/definition/sym-20050809
+18. Cold hands	https://www.mayoclinic.org/symptoms/cold-hands/basics/definition/sym-20050648
+19. Cough	https://www.mayoclinic.org/symptoms/cough/basics/definition/sym-20050846
+20. Coughing up blood	https://www.mayoclinic.org/symptoms/coughing-up-blood/basics/definition/sym-20050934
+21. Dark circles under eyes	https://www.mayoclinic.org/symptoms/dark-circles-under-eyes/basics/definition/sym-20050624
+22. Diarrhea	https://www.mayoclinic.org/symptoms/diarrhea/basics/definition/sym-20050926
+23. Dizziness	https://www.mayoclinic.org/symptoms/dizziness/basics/definition/sym-20050886
+24. Dry orgasm	https://www.mayoclinic.org/symptoms/dry-orgasm/basics/definition/sym-20050906
+25. Dysuria, also known as Painful urination (dysuria)	https://www.mayoclinic.org/symptoms/painful-urination/basics/definition/sym-20050772
+26. Elbow pain	https://www.mayoclinic.org/symptoms/elbow-pain/basics/definition/sym-20050874
+27. Eosinophilia	https://www.mayoclinic.org/symptoms/eosinophilia/basics/definition/sym-20050752
+28. Epiphora, also known as Watery eyes	https://www.mayoclinic.org/symptoms/watery-eyes/basics/definition/sym-20050821
+29. Erythrocytosis, also known as High red blood cell count	https://www.mayoclinic.org/symptoms/high-red-blood-cell-count/basics/definition/sym-20050858
+30. Excessive sweating	https://www.mayoclinic.org/symptoms/excessive-sweating/basics/definition/sym-20050780
+31. Exhaustion, also known as Fatigue	https://www.mayoclinic.org/symptoms/fatigue/basics/definition/sym-20050894
+32. Eye pain	https://www.mayoclinic.org/symptoms/eye-pain/basics/definition/sym-20050744
+33. Eye twitching	https://www.mayoclinic.org/symptoms/eye-twitching/basics/definition/sym-20050838
+34. Flatulence, also known as Intestinal gas	https://www.mayoclinic.org/symptoms/intestinal-gas/basics/definition/sym-20050922
+35. Foot pain	https://www.mayoclinic.org/symptoms/foot-pain/basics/definition/sym-20050792
+36. Frequent bowel movements	https://www.mayoclinic.org/symptoms/frequent-bowel-movements/basics/definition/sym-20050720
+37. Frequent urination	https://www.mayoclinic.org/symptoms/frequent-urination/basics/definition/sym-20050712
+38. Green stool	https://www.mayoclinic.org/symptoms/green-stool/basics/definition/sym-20050708
+39. Groin pain (male)	https://www.mayoclinic.org/symptoms/groin-pain/basics/definition/sym-20050652
+40. Hand numbness, also known as Numbness in hands	https://www.mayoclinic.org/symptoms/numbness-in-hands/basics/definition/sym-20050842
+41. Headache	https://www.mayoclinic.org/symptoms/headache/basics/definition/sym-20050800
+42. Heel pain	https://www.mayoclinic.org/symptoms/heel-pain/basics/definition/sym-20050788
+43. Hemoglobin count, high, also known as High hemoglobin count	https://www.mayoclinic.org/symptoms/high-hemoglobin-count/basics/definition/sym-20050862
+44. Hemoglobin count, low, also known as Low hemoglobin count	https://www.mayoclinic.org/symptoms/low-hemoglobin/basics/definition/sym-20050760
+45. High blood protein	https://www.mayoclinic.org/symptoms/high-blood-protein/basics/definition/sym-20050599
+46. High lymphocyte count, also known as Lymphocytosis (high lymphocyte count)	https://www.mayoclinic.org/symptoms/lymphocytosis/basics/definition/sym-20050660
+47. High potassium (hyperkalemia)	https://www.mayoclinic.org/symptoms/hyperkalemia/basics/definition/sym-20050776
+48. High uric acid level	https://www.mayoclinic.org/symptoms/high-uric-acid-level/basics/definition/sym-20050607
+49. High white blood cell count	https://www.mayoclinic.org/symptoms/high-white-blood-cell-count/basics/definition/sym-20050611
+50. Hip pain	https://www.mayoclinic.org/symptoms/hip-pain/basics/definition/sym-20050684
+51. Insensitivity, also known as Numbness	https://www.mayoclinic.org/symptoms/numbness/basics/definition/sym-20050938
+52. Joint pain	https://www.mayoclinic.org/symptoms/joint-pain/basics/definition/sym-20050668
+53. Kidney pain	https://www.mayoclinic.org/symptoms/kidney-pain/basics/definition/sym-20050902
+54. Knee pain	https://www.mayoclinic.org/symptoms/knee-pain/basics/definition/sym-20050688
+55. Leg pain	https://www.mayoclinic.org/symptoms/leg-pain/basics/definition/sym-20050784
+56. Leg swelling	https://www.mayoclinic.org/symptoms/leg-swelling/basics/definition/sym-20050910
+57. Leukopenia, also known as Low white blood cell count	https://www.mayoclinic.org/symptoms/low-white-blood-cell-count/basics/definition/sym-20050615
+58. Low blood oxygen, also known as Low blood oxygen (hypoxemia)	https://www.mayoclinic.org/symptoms/hypoxemia/basics/definition/sym-20050930
+59. Low neutrophil count, also known as Neutropenia	https://www.mayoclinic.org/symptoms/neutropenia/basics/definition/sym-20050854
+60. Low potassium, also known as Low potassium (hypokalemia)	https://www.mayoclinic.org/symptoms/low-potassium/basics/definition/sym-20050632
+61. Muscle pain	https://www.mayoclinic.org/symptoms/muscle-pain/basics/definition/sym-20050866
+62. Nasal congestion	https://www.mayoclinic.org/symptoms/nasal-congestion/basics/definition/sym-20050644
+63. Nausea and vomiting	https://www.mayoclinic.org/symptoms/nausea/basics/definition/sym-20050736
+64. Neck pain	https://www.mayoclinic.org/symptoms/neck-pain/basics/definition/sym-20050882
+65. Night leg cramps	https://www.mayoclinic.org/symptoms/night-leg-cramps/basics/definition/sym-20050813
+66. Night sweats	https://www.mayoclinic.org/symptoms/night-sweats/basics/definition/sym-20050768
+67. Nipple discharge	https://www.mayoclinic.org/symptoms/nipple-discharge/basics/definition/sym-20050946
+68. Nose, runny, also known as Runny nose	https://www.mayoclinic.org/symptoms/runny-nose/basics/definition/sym-20050640
+69. Nosebleeds	https://www.mayoclinic.org/symptoms/nosebleeds/basics/definition/sym-20050914
+70. Pain, pelvic, also known as Pelvic pain	https://www.mayoclinic.org/symptoms/pelvic-pain/basics/definition/sym-20050898
+71. Pain, shoulder, also known as Shoulder pain	https://www.mayoclinic.org/symptoms/shoulder-pain/basics/definition/sym-20050696
+72. Pain, testicle, also known as Testicle pain	https://www.mayoclinic.org/symptoms/testicle-pain/basics/definition/sym-20050942
+73. Peeling skin	https://www.mayoclinic.org/symptoms/peeling-skin/basics/definition/sym-20050672
+74. Petechiae	https://www.mayoclinic.org/symptoms/petechiae/basics/definition/sym-20050724
+75. Protein in urine (proteinuria)	https://www.mayoclinic.org/symptoms/protein-in-urine/basics/definition/sym-20050656
+76. Rectal bleeding	https://www.mayoclinic.org/symptoms/rectal-bleeding/basics/definition/sym-20050740
+77. Red eye	https://www.mayoclinic.org/symptoms/red-eye/basics/definition/sym-20050748
+78. Shortness of breath	https://www.mayoclinic.org/symptoms/shortness-of-breath/basics/definition/sym-20050890
+79. Unexplained weight loss	https://www.mayoclinic.org/symptoms/unexplained-weight-loss/basics/definition/sym-20050700
+80. Urine odor	https://www.mayoclinic.org/symptoms/urine-odor/basics/definition/sym-20050704
+81. Vaginal bleeding	https://www.mayoclinic.org/symptoms/vaginal-bleeding/basics/definition/sym-20050756
+82. Vaginal discharge	https://www.mayoclinic.org/symptoms/vaginal-discharge/basics/definition/sym-20050825
+83. Vaginal dryness	https://www.mayoclinic.org/symptoms/vaginal-dryness/basics/definition/sym-20151520
+84. Vaginal odor	https://www.mayoclinic.org/symptoms/vaginal-odor/basics/definition/sym-20050664
+85. Vomiting blood	https://www.mayoclinic.org/symptoms/vomiting-blood/basics/definition/sym-20050732
+86. Wheezing	https://www.mayoclinic.org/symptoms/wheezing/basics/definition/sym-20050764
+87. White tongue	https://www.mayoclinic.org/symptoms/white-tongue/basics/definition/sym-20050676
+88. Yellow tongue	https://www.mayoclinic.org/symptoms/yellow-tongue/basics/definition/sym-20050595

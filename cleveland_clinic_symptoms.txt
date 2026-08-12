@@ -1,0 +1,411 @@
+1. Abdominal Distension (Distended Abdomen)
+2. Abdominal Pain
+3. Abdominal Pain During Pregnancy
+4. Adult Jaundice
+5. Age Regression
+6. Agent Orange Effects
+7. Agitation
+8. Akinesia
+9. Allergic Reaction
+10. Allodynia
+11. Alogia
+12. Anal Pain
+13. Anendophasia
+14. Anhedonia
+15. Ankle Pain
+16. Apathy
+17. Aphantasia
+18. Arachnodactyly
+19. Arcus Senilis
+20. Argyll Robertson Pupil
+21. Arm Pain
+22. Armpit Lump
+23. Asterixis
+24. Asthenia
+25. Asystole
+26. Ataxia
+27. Atypical Chest Pain
+28. Auditory Hallucinations
+29. Autoantibodies
+30. Back Labor
+31. Back of Knee Pain (Posterior Knee Pain)
+32. Back Pain
+33. Back Pain During Pregnancy
+34. Barrel Chest
+35. Beau’s Lines
+36. Belching
+37. Biliary Colic
+38. Bleeding During Pregnancy
+39. Bleeding Gums
+40. Bloated Stomach
+41. Blood in Semen (Hematospermia)
+42. Bloody Show
+43. Blue Sclera
+44. Blueberry Muffin Rash
+45. Blurry Vision
+46. Blurry Vision While Pregnant
+47. Body Odor
+48. Bone Pain
+49. Bounding Pulse
+50. Bradykinesia
+51. Bradypnea
+52. Brain Fog
+53. Brain Lesions
+54. Braxton Hicks Contractions
+55. Breakthrough Bleeding
+56. Breast Asymmetry
+57. Breast Dimpling
+58. Breast Lumps
+59. Breast Rash
+60. Buffalo Hump
+61. Burning Eyes
+62. Burning Feet Syndrome
+63. Butterfly (Malar) Rash
+64. Calf Muscle Pain
+65. Cancer Pain
+66. Cancerous Polyps
+67. Caput Medusae
+68. Cataplexy
+69. Chadwick Sign
+70. Changes in Bowel Habits
+71. Chemosis
+72. Chest and Back Pain
+73. Chest Congestion
+74. Chest Pain
+75. Chest Pressure
+76. Childhood Trauma & ACES
+77. Chills
+78. Chorea
+79. Chronic Cough
+80. Clay Colored Stool (Pale Stool)
+81. Clitoris Pain (Clitorodynia)
+82. Clonus
+83. Cloudy Urine
+84. Cobblestone Throat
+85. Coffee Ground Emesis (Vomitus)
+86. Cold Hands
+87. Cold Sores
+88. Colon Spasms
+89. Confusion
+90. Contractions
+91. Cotton Wool Spots
+92. Cough
+93. Coughing Up Blood
+94. Coughing Up Phlegm
+95. Cullen Sign
+96. Dactylitis (Sausage Fingers)
+97. Dark Circles Under Eyes
+98. Decerebrate Posturing
+99. Decorticate Posturing
+100. Diabetes and Dry Mouth
+101. Diabetes-Related Diarrhea
+102. Diarrhea in Babies
+103. Dilated Pupils (Mydriasis)
+104. Dissociative Fugue
+105. Dizziness
+106. Drooling
+107. Dry Cough
+108. Dry Eyelids
+109. Dry Heaving
+110. Dry Nipples
+111. Dry Scalp
+112. Dysdiadochokinesia
+113. Dysesthesia
+114. Dysmetria
+115. Dysosmia (Disordered Smell Perception)
+116. Dysphagia (Difficulty Swallowing)
+117. Dyspnea
+118. Dysuria (Painful Urination)
+119. Ear Bleeding
+120. Ear Pain (Earache, Otalgia)
+121. Early Satiety
+122. Echolalia
+123. Echopraxia
+124. Effacement
+125. Elbow Pain
+126. Electrolyte Imbalance
+127. Elevated Liver Enzymes
+128. Elevated PSA (Prostate-Specific Antigen) Level
+129. Emotional Dysregulation
+130. Enlarged Clitoris
+131. Erythematous Mucosa
+132. Esophoria
+133. Executive Dysfunction
+134. Exophoria
+135. Extrapyramidal Symptoms
+136. Eye (Intraocular) Pressure
+137. Eye Discharge
+138. Eye Floaters (Myodesopsias)
+139. Eye Irritation
+140. Eye Miosis
+141. Eye Pain
+142. Eye Twitching
+143. Facial Pain
+144. Facial Paralysis
+145. Facial Swelling
+146. Fatigue
+147. Fetor Hepaticus
+148. Fever
+149. Fever Rash
+150. First-Degree Burn
+151. Flank Pain
+152. Flatulence (Farting)
+153. Flu-Like Symptoms
+154. Foaming at the Mouth
+155. Foamy Urine
+156. Foot and Toe Ulcers
+157. Foot Drop
+158. Foot Pain
+159. Formication
+160. Frequent Bowel Movements
+161. Frequent Urination
+162. Gallbladder Pain
+163. Globus Sensation
+164. Glossoptosis
+165. Gottron Papules
+166. Gout Tophi
+167. Gray Hair
+168. Groin Pain
+169. Gynecomastia
+170. Hallucinations
+171. Harlequin Sign
+172. Heart Rate Variability (HRV)
+173. Heat Intolerance
+174. Heberden's Nodes
+175. Heel Pain
+176. Heinz Bodies
+177. Heliotrope Rash
+178. Hemiparesis
+179. Hemiplegia
+180. Hemorrhoids in Babies
+181. Hemostasis
+182. Hepatomegaly (Enlarged Liver)
+183. Heterochromia
+184. High Blood Protein (Hyperproteinemia)
+185. High Hemoglobin Count
+186. High Red Blood Cell Count
+187. Hip Pain
+188. Hives in Children
+189. Holosystolic Murmur
+190. Homonymous Hemianopia (Homonymous Hemianopsia)
+191. Hot Flashes
+192. Hyperalgesia
+193. Hyperarousal
+194. Hyperemia
+195. Hyperesthesia
+196. Hyperreflexia
+197. Hypertension Headache
+198. Hypopigmentation
+199. Hypoplasia
+200. Hypopyon
+201. Hyporeflexia
+202. Implantation Bleeding
+203. Incontinence After Prostate Surgery
+204. Indigestion (Dyspepsia)
+205. Inflammation
+206. Inner Knee Pain (Medial Knee Pain)
+207. Intention Tremor
+208. Intercostal retractions
+209. Intermittent Claudication
+210. Itchy Armpits
+211. Itchy Neck
+212. Itchy Throat
+213. Jaw Pain
+214. Jaw Popping
+215. Joint Effusion (Swollen Joint)
+216. Joint Pain
+217. Jugular Vein Distention
+218. Kaleidoscope Vision
+219. Kayser-Fleischer Rings
+220. Ketones in Urine During Pregnancy
+221. Kidney Pain
+222. Knee Pain
+223. Koilonychia (Spoon Nails)
+224. Kussmaul Breathing
+225. Left Arm Numb
+226. Left Side Abdominal Pain
+227. Left-Side Chest Pain
+228. Leg Pain
+229. Lethargy
+230. Leukocoria
+231. Lhermitte’s Sign
+232. Lightning Crotch
+233. Loss of Appetite
+234. Loss of Taste and Smell
+235. Low Hemoglobin
+236. Lower Abdominal Pain
+237. Lower Urinary Tract Symptoms (LUTS)
+238. Lump on Testicle (Scrotal Masses)
+239. Lung Sounds
+240. Lupus Anticoagulant
+241. Lupus Rash
+242. Madarosis
+243. Malaise
+244. Marcus Gunn Pupil
+245. Mees’ Lines
+246. Melena (Black Stool)
+247. Memory Loss
+248. Metamorphopsia
+249. Microvascular Angina
+250. Milk Bleb
+251. Mirror-Touch Synesthesia
+252. Monolid Eyes
+253. Mood Swings
+254. Moon Face - Moon Facies
+255. Mottled Skin
+256. MS Hug
+257. Mucus in Stool (Poop)
+258. Mucus Plug
+259. Muehrcke Lines
+260. Muscle Stiffness
+261. Muscle Weakness
+262. Musculoskeletal Chest Pain
+263. Musculoskeletal Pain
+264. Myalgia (Muscle Pain)
+265. Myoclonus (Muscle Twitch)
+266. Nail Clubbing
+267. Nail Pitting
+268. Nasal Obstruction
+269. Natal Teeth
+270. Nausea
+271. Neck Pain
+272. Neurodivergent
+273. Night Blindness (Nyctalopia)
+274. Night Sweats
+275. Nipple Discharge
+276. Nipple Pain, Itching & Rashes: Could It Be a Nipple Yeast Infection?
+277. Nitrite-Positive Urine
+278. Nociceptive Pain
+279. Nosebleeds While Pregnant
+280. Numbness
+281. Numbness in Hands
+282. Odynophagia (Painful Swallowing)
+283. Oligomenorrhea
+284. Opisthotonos
+285. Orbital Hypertelorism
+286. Orthopnea
+287. Oscillopsia
+288. Ovary Pain
+289. Pain on Outside of Knee (Lateral Knee Pain)
+290. Palinopsia
+291. Paranoia
+292. Paraplegia
+293. Paresthesia
+294. Paroxysmal Cough
+295. Paroxysmal Nocturnal Dyspnea (PND)
+296. Peeling Skin
+297. Pelvic Pain
+298. Petechiae
+299. Phosphenes
+300. Photophobia
+301. Photopsias (Eye Flashes)
+302. Photosensitivity
+303. Pill-Rolling Tremor
+304. Pimple on Penis
+305. Pink Breast Milk
+306. Pitting Edema
+307. Polydipsia
+308. Polyphagia (Hyperphagia)
+309. Postpartum Night Sweats
+310. Prodromal Labor
+311. Protein in Urine (Proteinuria)
+312. Psychogenic Pain
+313. Psychomotor Impairment
+314. Psychosis
+315. Pulseless Electrical Activity
+316. Pulsus Paradoxus
+317. Purpura
+318. Purulent Drainage
+319. Pus
+320. Quadriplegia
+321. Quickening in Pregnancy
+322. Raccoon Eyes
+323. Rectal Bleeding (Blood in Stool)
+324. Red Eye
+325. Referred Pain
+326. Regurgitation
+327. Renal Colic
+328. Rheumatoid Nodules
+329. Rhinorrhea (Runny Nose)
+330. Ridges in Nails
+331. Right Atrial Enlargement
+332. Right Side Abdominal Pain
+333. Right-Side Chest Pain
+334. Risus Sardonicus
+335. Roth Spots
+336. Round Ligament Pain
+337. Scalloped Tongue
+338. Scintillating Scotoma
+339. Scleral Icterus
+340. Second-Degree Burn
+341. Self-Loathing
+342. Sensitive Teeth
+343. Serous Drainage
+344. Shoulder Pain
+345. Signs of Premature Aging
+346. Sinus Pressure
+347. Sister Mary Joseph Nodule (SMJN)
+348. Skin Discoloration
+349. Skin Flushing
+350. Smelly Scalp
+351. Sneezing
+352. Somatic Pain
+353. Somnolence (Drowsiness)
+354. Sore Nipples
+355. Sore Throat and Headache
+356. Spasticity
+357. Steatorrhea
+358. Stiff Neck
+359. Strawberry Tongue
+360. Sudden Vision Loss
+361. Suicidal Ideation (Suicidal Thoughts)
+362. Swollen Anus
+363. Swollen Knee
+364. Swollen Lymph Nodes
+365. Swollen Lymph Nodes in the Neck (Cervical Lymphadenopathy)
+366. Swollen Testicles (Scrotal Swelling)
+367. Synesthesia
+368. Tachypnea
+369. Tenesmus
+370. Terminal Agitation
+371. Terminal lucidity
+372. Terry's Nails
+373. Testicular Pain
+374. Tetany
+375. Third-Degree Burn
+376. Throwing Up (Vomiting) Bile
+377. Thunderclap Headaches
+378. Tinnitus
+379. Tongue Color
+380. Tooth Discoloration
+381. Transaminitis
+382. Translucent Teeth
+383. Tremor
+384. Tremors in Infant Legs
+385. Tunnel Vision
+386. Ulnar Wrist Pain
+387. Unexplained Weight Gain
+388. Unexplained Weight Loss
+389. Upper Abdominal Pain
+390. Upper Back Pain
+391. Uremic Pruritus
+392. Urinary Urgency
+393. Vaginal Bleeding
+394. Vaginal Discharge
+395. Vaginal Dryness
+396. Vaginal Gas
+397. Vaginal Odor
+398. Vasoconstriction
+399. Vertigo
+400. Visceral Pain
+401. Visual Field Defects
+402. Vomiting (Emesis)
+403. Vomiting Blood
+404. Water Brash
+405. Water Breaking
+406. Wheezing
+407. White Spots on Nails (Leukonychia)
+408. White Tongue
+409. Withdrawal Bleeding
+410. Wrist Pain
+411. Yellow Semen

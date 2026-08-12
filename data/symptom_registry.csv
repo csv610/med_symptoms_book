@@ -1,0 +1,412 @@
+source_number,source_symptom,status,priority,book_chapter,chapter_file,mapping_confidence
+1,Abdominal Distension (Distended Abdomen),dedicated,high,Abdominal Distension (Distended Abdomen),chapters/symptom_abdominal_distension.tex,high
+2,Abdominal Pain,dedicated,high,Abdominal Pain,chapters/symptom_abdominal_pain.tex,high
+3,Abdominal Pain During Pregnancy,dedicated,high,Abdominal Pain During Pregnancy,chapters/symptom_abdominal_pain_during_pregnancy.tex,high
+4,Adult Jaundice,dedicated,high,Adult Jaundice,chapters/symptom_adult_jaundice.tex,high
+5,Age Regression,uncovered,low,,,
+6,Agent Orange Effects,uncovered,low,,,
+7,Agitation,dedicated,low,Agitation,chapters/symptom_agitation.tex,high
+8,Akinesia,uncovered,low,,,
+9,Allergic Reaction,dedicated,high,Allergic Reaction,chapters/symptom_allergic_reaction.tex,high
+10,Allodynia,dedicated,low,Allodynia,chapters/symptom_allodynia.tex,high
+11,Alogia,uncovered,low,,,
+12,Anal Pain,dedicated,medium,Anal Pain,chapters/symptom_anal_pain.tex,high
+13,Anendophasia,uncovered,low,,,
+14,Anhedonia,dedicated,low,Anhedonia (Loss of Interest),chapters/symptom_anhedonia.tex,high
+15,Ankle Pain,dedicated,medium,Ankle Pain,chapters/symptom_ankle_pain.tex,high
+16,Apathy,dedicated,low,Apathy,chapters/symptom_apathy.tex,high
+17,Aphantasia,uncovered,low,,,
+18,Arachnodactyly,uncovered,low,,,
+19,Arcus Senilis,uncovered,low,,,
+20,Argyll Robertson Pupil,uncovered,low,,,
+21,Arm Pain,dedicated,medium,Arm Pain,chapters/symptom_arm_pain.tex,high
+22,Armpit Lump,alias/subsection,low,Lump Under Armpit (Axillary Mass),chapters/symptom_lump_under_armpit.tex,high
+23,Asterixis,dedicated,low,Asterixis (Flapping Tremor),chapters/symptom_asterixis.tex,high
+24,Asthenia,uncovered,low,,,
+25,Asystole,uncovered,high,,,
+26,Ataxia,dedicated,low,Ataxia,chapters/symptom_ataxia.tex,high
+27,Atypical Chest Pain,dedicated,high,Atypical Chest Pain,chapters/symptom_atypical_chest_pain.tex,high
+28,Auditory Hallucinations,uncovered,low,,,
+29,Autoantibodies,uncovered,low,,,
+30,Back Labor,uncovered,medium,,,
+31,Back of Knee Pain (Posterior Knee Pain),uncovered,medium,,,
+32,Back Pain,dedicated,medium,Back Pain,chapters/symptom_back_pain.tex,high
+33,Back Pain During Pregnancy,dedicated,high,Back Pain During Pregnancy,chapters/symptom_back_pain_during_pregnancy.tex,high
+34,Barrel Chest,uncovered,high,,,
+35,Beau’s Lines,uncovered,low,,,
+36,Belching,alias/subsection,low,Burping (Eructation),chapters/symptom_burping.tex,high
+37,Biliary Colic,uncovered,low,,,
+38,Bleeding During Pregnancy,dedicated,high,Bleeding During Pregnancy,chapters/symptom_bleeding_during_pregnancy.tex,high
+39,Bleeding Gums,dedicated,medium,Bleeding Gums,chapters/symptom_bleeding_gums.tex,high
+40,Bloated Stomach,alias/subsection,low,Bloating,chapters/symptom_bloating.tex,high
+41,Blood in Semen (Hematospermia),dedicated,low,Blood in Semen (Hematospermia),chapters/symptom_blood_in_semen.tex,high
+42,Bloody Show,uncovered,low,,,
+43,Blue Sclera,uncovered,low,,,
+44,Blueberry Muffin Rash,uncovered,medium,,,
+45,Blurry Vision,dedicated,medium,Blurry Vision,chapters/symptom_blurry_vision.tex,high
+46,Blurry Vision While Pregnant,uncovered,medium,,,
+47,Body Odor,dedicated,low,Body Odor (Bromhidrosis),chapters/symptom_body_odor.tex,high
+48,Bone Pain,dedicated,medium,Bone Pain,chapters/symptom_bone_pain.tex,high
+49,Bounding Pulse,uncovered,low,,,
+50,Bradykinesia,uncovered,low,,,
+51,Bradypnea,uncovered,low,,,
+52,Brain Fog,dedicated,low,Brain Fog,chapters/symptom_brain_fog.tex,high
+53,Brain Lesions,uncovered,low,,,
+54,Braxton Hicks Contractions,uncovered,low,,,
+55,Breakthrough Bleeding,uncovered,medium,,,
+56,Breast Asymmetry,uncovered,low,,,
+57,Breast Dimpling,uncovered,low,,,
+58,Breast Lumps,uncovered,low,,,
+59,Breast Rash,uncovered,medium,,,
+60,Buffalo Hump,uncovered,low,,,
+61,Burning Eyes,uncovered,low,,,
+62,Burning Feet Syndrome,dedicated,low,Burning Feet,chapters/symptom_burning_feet.tex,high
+63,Butterfly (Malar) Rash,uncovered,medium,,,
+64,Calf Muscle Pain,uncovered,medium,,,
+65,Cancer Pain,uncovered,medium,,,
+66,Cancerous Polyps,uncovered,low,,,
+67,Caput Medusae,uncovered,low,,,
+68,Cataplexy,dedicated,low,Cataplexy,chapters/symptom_cataplexy.tex,high
+69,Chadwick Sign,uncovered,low,,,
+70,Changes in Bowel Habits,uncovered,low,,,
+71,Chemosis,uncovered,low,,,
+72,Chest and Back Pain,uncovered,high,,,
+73,Chest Congestion,uncovered,high,,,
+74,Chest Pain,dedicated,high,Chest Pain,chapters/symptom_chest_pain.tex,high
+75,Chest Pressure,dedicated,high,Chest Pressure,chapters/symptom_chest_pressure.tex,high
+76,Childhood Trauma & ACES,uncovered,low,,,
+77,Chills,dedicated,low,Chills,chapters/symptom_chills.tex,high
+78,Chorea,dedicated,low,Chorea,chapters/symptom_chorea.tex,high
+79,Chronic Cough,dedicated,medium,Chronic Cough,chapters/symptom_chronic_cough.tex,high
+80,Clay Colored Stool (Pale Stool),uncovered,low,,,
+81,Clitoris Pain (Clitorodynia),uncovered,medium,,,
+82,Clonus,uncovered,low,,,
+83,Cloudy Urine,dedicated,low,Cloudy Urine,chapters/symptom_cloudy_urine.tex,high
+84,Cobblestone Throat,uncovered,low,,,
+85,Coffee Ground Emesis (Vomitus),uncovered,low,,,
+86,Cold Hands,alias/subsection,low,Cold Hands and Feet (Raynaud Phenomenon),chapters/symptom_cold_hands_and_feet.tex,high
+87,Cold Sores,dedicated,low,Cold Sores (Herpes Labialis),chapters/symptom_cold_sores.tex,high
+88,Colon Spasms,uncovered,low,,,
+89,Confusion,dedicated,high,Confusion,chapters/symptom_confusion.tex,high
+90,Contractions,uncovered,low,,,
+91,Cotton Wool Spots,uncovered,low,,,
+92,Cough,dedicated,medium,Cough,chapters/symptom_cough.tex,high
+93,Coughing Up Blood,alias/subsection,high,Haemoptysis (Coughing Up Blood),chapters/symptom_haemoptysis.tex,high
+94,Coughing Up Phlegm,dedicated,medium,Coughing Up Phlegm,chapters/symptom_coughing_up_phlegm.tex,high
+95,Cullen Sign,uncovered,low,,,
+96,Dactylitis (Sausage Fingers),uncovered,low,,,
+97,Dark Circles Under Eyes,dedicated,low,Dark Circles Under Eyes,chapters/symptom_dark_circles_under_eyes.tex,high
+98,Decerebrate Posturing,uncovered,low,,,
+99,Decorticate Posturing,uncovered,low,,,
+100,Diabetes and Dry Mouth,uncovered,low,,,
+101,Diabetes-Related Diarrhea,uncovered,medium,,,
+102,Diarrhea in Babies,uncovered,medium,,,
+103,Dilated Pupils (Mydriasis),uncovered,low,,,
+104,Dissociative Fugue,uncovered,low,,,
+105,Dizziness,dedicated,medium,Dizziness,chapters/symptom_dizziness.tex,high
+106,Drooling,dedicated,low,Drooling (Sialorrhea),chapters/symptom_drooling.tex,high
+107,Dry Cough,dedicated,medium,Dry Cough,chapters/symptom_dry_cough.tex,high
+108,Dry Eyelids,uncovered,low,,,
+109,Dry Heaving,uncovered,low,,,
+110,Dry Nipples,uncovered,low,,,
+111,Dry Scalp,uncovered,low,,,
+112,Dysdiadochokinesia,uncovered,low,,,
+113,Dysesthesia,uncovered,low,,,
+114,Dysmetria,uncovered,low,,,
+115,Dysosmia (Disordered Smell Perception),uncovered,low,,,
+116,Dysphagia (Difficulty Swallowing),dedicated,low,Dysphagia (Difficulty Swallowing),chapters/symptom_dysphagia.tex,high
+117,Dyspnea,alias/subsection,high,Shortness of Breath,chapters/symptom_shortness_of_breath.tex,high
+118,Dysuria (Painful Urination),alias/subsection,medium,Painful Urination (Dysuria),chapters/symptom_painful_urination.tex,high
+119,Ear Bleeding,uncovered,medium,,,
+120,"Ear Pain (Earache, Otalgia)",uncovered,medium,,,
+121,Early Satiety,uncovered,low,,,
+122,Echolalia,uncovered,low,,,
+123,Echopraxia,uncovered,low,,,
+124,Effacement,uncovered,low,,,
+125,Elbow Pain,dedicated,medium,Elbow Pain,chapters/symptom_elbow_pain.tex,high
+126,Electrolyte Imbalance,uncovered,low,,,
+127,Elevated Liver Enzymes,uncovered,low,,,
+128,Elevated PSA (Prostate-Specific Antigen) Level,uncovered,low,,,
+129,Emotional Dysregulation,uncovered,low,,,
+130,Enlarged Clitoris,uncovered,low,,,
+131,Erythematous Mucosa,uncovered,low,,,
+132,Esophoria,uncovered,low,,,
+133,Executive Dysfunction,uncovered,low,,,
+134,Exophoria,uncovered,low,,,
+135,Extrapyramidal Symptoms,uncovered,low,,,
+136,Eye (Intraocular) Pressure,uncovered,low,,,
+137,Eye Discharge,dedicated,medium,Eye Discharge,chapters/symptom_eye_discharge.tex,high
+138,Eye Floaters (Myodesopsias),dedicated,low,Eye Floaters (Vitreous Floaters),chapters/symptom_eye_floaters.tex,high
+139,Eye Irritation,uncovered,low,,,
+140,Eye Miosis,uncovered,low,,,
+141,Eye Pain,dedicated,medium,Eye Pain (Ophthalmalgia),chapters/symptom_eye_pain.tex,high
+142,Eye Twitching,dedicated,low,Eye Twitching (Blepharospasm and Myokymia),chapters/symptom_eye_twitching.tex,high
+143,Facial Pain,uncovered,medium,,,
+144,Facial Paralysis,uncovered,high,,,
+145,Facial Swelling,uncovered,medium,,,
+146,Fatigue,dedicated,medium,Fatigue,chapters/symptom_fatigue.tex,high
+147,Fetor Hepaticus,uncovered,low,,,
+148,Fever,dedicated,medium,Fever,chapters/symptom_fever.tex,high
+149,Fever Rash,uncovered,medium,,,
+150,First-Degree Burn,uncovered,low,,,
+151,Flank Pain,uncovered,medium,,,
+152,Flatulence (Farting),dedicated,low,Flatulence (Gas),chapters/symptom_flatulence.tex,high
+153,Flu-Like Symptoms,uncovered,low,,,
+154,Foaming at the Mouth,uncovered,high,,,
+155,Foamy Urine,uncovered,low,,,
+156,Foot and Toe Ulcers,uncovered,low,,,
+157,Foot Drop,dedicated,low,Foot Drop,chapters/symptom_foot_drop.tex,high
+158,Foot Pain,dedicated,medium,Foot Pain,chapters/symptom_foot_pain.tex,high
+159,Formication,uncovered,low,,,
+160,Frequent Bowel Movements,dedicated,low,Frequent Bowel Movements,chapters/symptom_frequent_bowel_movements.tex,high
+161,Frequent Urination,dedicated,low,Frequent Urination,chapters/symptom_frequent_urination.tex,high
+162,Gallbladder Pain,dedicated,medium,Gallbladder Pain,chapters/symptom_gallbladder_pain.tex,high
+163,Globus Sensation,dedicated,low,Globus Sensation,chapters/symptom_globus_sensation.tex,high
+164,Glossoptosis,uncovered,low,,,
+165,Gottron Papules,uncovered,low,,,
+166,Gout Tophi,uncovered,low,,,
+167,Gray Hair,uncovered,low,,,
+168,Groin Pain,alias/subsection,medium,Groin Pain or Swelling,chapters/symptom_groin_pain_or_swelling.tex,high
+169,Gynecomastia,dedicated,low,Gynecomastia (Enlarged Male Breast Tissue),chapters/symptom_gynecomastia.tex,high
+170,Hallucinations,dedicated,low,Hallucinations,chapters/symptom_hallucinations.tex,high
+171,Harlequin Sign,uncovered,low,,,
+172,Heart Rate Variability (HRV),uncovered,low,,,
+173,Heat Intolerance,uncovered,low,,,
+174,Heberden's Nodes,uncovered,low,,,
+175,Heel Pain,dedicated,medium,Heel Pain,chapters/symptom_heel_pain.tex,high
+176,Heinz Bodies,uncovered,low,,,
+177,Heliotrope Rash,uncovered,medium,,,
+178,Hemiparesis,uncovered,high,,,
+179,Hemiplegia,uncovered,high,,,
+180,Hemorrhoids in Babies,uncovered,low,,,
+181,Hemostasis,uncovered,low,,,
+182,Hepatomegaly (Enlarged Liver),dedicated,low,Hepatomegaly,chapters/symptom_hepatomegaly.tex,high
+183,Heterochromia,uncovered,low,,,
+184,High Blood Protein (Hyperproteinemia),uncovered,low,,,
+185,High Hemoglobin Count,uncovered,low,,,
+186,High Red Blood Cell Count,uncovered,low,,,
+187,Hip Pain,dedicated,medium,Hip Pain,chapters/symptom_hip_pain.tex,high
+188,Hives in Children,uncovered,low,,,
+189,Holosystolic Murmur,uncovered,low,,,
+190,Homonymous Hemianopia (Homonymous Hemianopsia),uncovered,low,,,
+191,Hot Flashes,alias/subsection,low,Hot Flushes (Hot Flashes),chapters/symptom_hot_flushes.tex,high
+192,Hyperalgesia,uncovered,low,,,
+193,Hyperarousal,uncovered,low,,,
+194,Hyperemia,uncovered,low,,,
+195,Hyperesthesia,uncovered,low,,,
+196,Hyperreflexia,uncovered,low,,,
+197,Hypertension Headache,uncovered,high,,,
+198,Hypopigmentation,uncovered,low,,,
+199,Hypoplasia,uncovered,low,,,
+200,Hypopyon,uncovered,low,,,
+201,Hyporeflexia,uncovered,low,,,
+202,Implantation Bleeding,uncovered,medium,,,
+203,Incontinence After Prostate Surgery,uncovered,low,,,
+204,Indigestion (Dyspepsia),dedicated,low,Indigestion (Dyspepsia),chapters/symptom_indigestion.tex,high
+205,Inflammation,uncovered,low,,,
+206,Inner Knee Pain (Medial Knee Pain),uncovered,medium,,,
+207,Intention Tremor,uncovered,low,,,
+208,Intercostal retractions,uncovered,low,,,
+209,Intermittent Claudication,dedicated,low,Intermittent Claudication,chapters/symptom_intermittent_claudication.tex,high
+210,Itchy Armpits,uncovered,low,,,
+211,Itchy Neck,uncovered,low,,,
+212,Itchy Throat,uncovered,low,,,
+213,Jaw Pain,uncovered,medium,,,
+214,Jaw Popping,uncovered,low,,,
+215,Joint Effusion (Swollen Joint),uncovered,medium,,,
+216,Joint Pain,dedicated,medium,Joint Pain,chapters/symptom_joint_pain.tex,high
+217,Jugular Vein Distention,uncovered,low,,,
+218,Kaleidoscope Vision,uncovered,medium,,,
+219,Kayser-Fleischer Rings,uncovered,low,,,
+220,Ketones in Urine During Pregnancy,uncovered,high,,,
+221,Kidney Pain,dedicated,medium,Kidney Pain,chapters/symptom_kidney_pain.tex,high
+222,Knee Pain,dedicated,medium,Knee Pain,chapters/symptom_knee_pain.tex,high
+223,Koilonychia (Spoon Nails),uncovered,low,,,
+224,Kussmaul Breathing,uncovered,low,,,
+225,Left Arm Numb,uncovered,low,,,
+226,Left Side Abdominal Pain,uncovered,high,,,
+227,Left-Side Chest Pain,uncovered,high,,,
+228,Leg Pain,dedicated,medium,Leg Pain,chapters/symptom_leg_pain.tex,high
+229,Lethargy,uncovered,low,,,
+230,Leukocoria,uncovered,low,,,
+231,Lhermitte’s Sign,uncovered,low,,,
+232,Lightning Crotch,uncovered,low,,,
+233,Loss of Appetite,dedicated,low,Loss of Appetite,chapters/symptom_loss_of_appetite.tex,high
+234,Loss of Taste and Smell,uncovered,low,,,
+235,Low Hemoglobin,uncovered,low,,,
+236,Lower Abdominal Pain,uncovered,high,,,
+237,Lower Urinary Tract Symptoms (LUTS),uncovered,medium,,,
+238,Lump on Testicle (Scrotal Masses),uncovered,low,,,
+239,Lung Sounds,uncovered,low,,,
+240,Lupus Anticoagulant,uncovered,low,,,
+241,Lupus Rash,uncovered,medium,,,
+242,Madarosis,uncovered,low,,,
+243,Malaise,dedicated,low,Malaise,chapters/symptom_malaise.tex,high
+244,Marcus Gunn Pupil,uncovered,low,,,
+245,Mees’ Lines,uncovered,low,,,
+246,Melena (Black Stool),dedicated,high,Melena (Black Stool),chapters/symptom_melena.tex,high
+247,Memory Loss,uncovered,low,,,
+248,Metamorphopsia,uncovered,low,,,
+249,Microvascular Angina,uncovered,low,,,
+250,Milk Bleb,uncovered,low,,,
+251,Mirror-Touch Synesthesia,uncovered,low,,,
+252,Monolid Eyes,uncovered,low,,,
+253,Mood Swings,dedicated,low,Mood Swings,chapters/symptom_mood_swings.tex,high
+254,Moon Face - Moon Facies,uncovered,low,,,
+255,Mottled Skin,uncovered,low,,,
+256,MS Hug,uncovered,low,,,
+257,Mucus in Stool (Poop),uncovered,low,,,
+258,Mucus Plug,uncovered,low,,,
+259,Muehrcke Lines,uncovered,low,,,
+260,Muscle Stiffness,uncovered,medium,,,
+261,Muscle Weakness,uncovered,high,,,
+262,Musculoskeletal Chest Pain,uncovered,high,,,
+263,Musculoskeletal Pain,uncovered,medium,,,
+264,Myalgia (Muscle Pain),uncovered,medium,,,
+265,Myoclonus (Muscle Twitch),dedicated,medium,Myoclonus,chapters/symptom_myoclonus.tex,high
+266,Nail Clubbing,dedicated,low,Nail Clubbing,chapters/symptom_nail_clubbing.tex,high
+267,Nail Pitting,uncovered,low,,,
+268,Nasal Obstruction,dedicated,low,Nasal Obstruction,chapters/symptom_nasal_obstruction.tex,high
+269,Natal Teeth,uncovered,low,,,
+270,Nausea,dedicated,medium,Nausea,chapters/symptom_nausea.tex,high
+271,Neck Pain,dedicated,medium,Neck Pain,chapters/symptom_neck_pain.tex,high
+272,Neurodivergent,uncovered,low,,,
+273,Night Blindness (Nyctalopia),uncovered,low,,,
+274,Night Sweats,dedicated,medium,Night Sweats,chapters/symptom_night_sweats.tex,high
+275,Nipple Discharge,dedicated,medium,Nipple Discharge,chapters/symptom_nipple_discharge.tex,high
+276,"Nipple Pain, Itching & Rashes: Could It Be a Nipple Yeast Infection?",uncovered,medium,,,
+277,Nitrite-Positive Urine,uncovered,low,,,
+278,Nociceptive Pain,uncovered,medium,,,
+279,Nosebleeds While Pregnant,uncovered,low,,,
+280,Numbness,dedicated,medium,Numbness,chapters/symptom_numbness.tex,high
+281,Numbness in Hands,uncovered,medium,,,
+282,Odynophagia (Painful Swallowing),dedicated,medium,Odynophagia,chapters/symptom_odynophagia.tex,high
+283,Oligomenorrhea,uncovered,low,,,
+284,Opisthotonos,uncovered,low,,,
+285,Orbital Hypertelorism,uncovered,low,,,
+286,Orthopnea,uncovered,low,,,
+287,Oscillopsia,uncovered,low,,,
+288,Ovary Pain,uncovered,medium,,,
+289,Pain on Outside of Knee (Lateral Knee Pain),uncovered,medium,,,
+290,Palinopsia,uncovered,low,,,
+291,Paranoia,uncovered,low,,,
+292,Paraplegia,uncovered,low,,,
+293,Paresthesia,uncovered,low,,,
+294,Paroxysmal Cough,uncovered,medium,,,
+295,Paroxysmal Nocturnal Dyspnea (PND),uncovered,high,,,
+296,Peeling Skin,dedicated,low,Peeling Skin,chapters/symptom_peeling_skin.tex,high
+297,Pelvic Pain,dedicated,medium,Pelvic Pain,chapters/symptom_pelvic_pain.tex,high
+298,Petechiae,dedicated,low,Petechiae,chapters/symptom_petechiae.tex,high
+299,Phosphenes,uncovered,low,,,
+300,Photophobia,dedicated,low,Photophobia (Light Sensitivity),chapters/symptom_photophobia.tex,high
+301,Photopsias (Eye Flashes),uncovered,low,,,
+302,Photosensitivity,uncovered,low,,,
+303,Pill-Rolling Tremor,uncovered,low,,,
+304,Pimple on Penis,uncovered,low,,,
+305,Pink Breast Milk,uncovered,low,,,
+306,Pitting Edema,uncovered,low,,,
+307,Polydipsia,dedicated,low,Polydipsia,chapters/symptom_polydipsia.tex,high
+308,Polyphagia (Hyperphagia),uncovered,low,,,
+309,Postpartum Night Sweats,uncovered,medium,,,
+310,Prodromal Labor,uncovered,low,,,
+311,Protein in Urine (Proteinuria),dedicated,low,Protein in Urine (Proteinuria),chapters/symptom_protein_in_urine.tex,high
+312,Psychogenic Pain,uncovered,medium,,,
+313,Psychomotor Impairment,uncovered,low,,,
+314,Psychosis,uncovered,low,,,
+315,Pulseless Electrical Activity,uncovered,high,,,
+316,Pulsus Paradoxus,uncovered,low,,,
+317,Purpura,dedicated,low,Purpura,chapters/symptom_purpura.tex,high
+318,Purulent Drainage,uncovered,low,,,
+319,Pus,uncovered,low,,,
+320,Quadriplegia,uncovered,low,,,
+321,Quickening in Pregnancy,uncovered,high,,,
+322,Raccoon Eyes,uncovered,low,,,
+323,Rectal Bleeding (Blood in Stool),dedicated,high,Rectal Bleeding,chapters/symptom_rectal_bleeding.tex,high
+324,Red Eye,dedicated,low,Red Eye,chapters/symptom_red_eye.tex,high
+325,Referred Pain,uncovered,medium,,,
+326,Regurgitation,dedicated,low,Regurgitation,chapters/symptom_regurgitation.tex,high
+327,Renal Colic,uncovered,low,,,
+328,Rheumatoid Nodules,uncovered,low,,,
+329,Rhinorrhea (Runny Nose),alias/subsection,medium,Runny Nose (Rhinorrhea),chapters/symptom_runny_nose.tex,high
+330,Ridges in Nails,uncovered,low,,,
+331,Right Atrial Enlargement,uncovered,low,,,
+332,Right Side Abdominal Pain,uncovered,high,,,
+333,Right-Side Chest Pain,uncovered,high,,,
+334,Risus Sardonicus,uncovered,low,,,
+335,Roth Spots,uncovered,low,,,
+336,Round Ligament Pain,uncovered,medium,,,
+337,Scalloped Tongue,uncovered,low,,,
+338,Scintillating Scotoma,uncovered,low,,,
+339,Scleral Icterus,uncovered,low,,,
+340,Second-Degree Burn,uncovered,low,,,
+341,Self-Loathing,uncovered,low,,,
+342,Sensitive Teeth,uncovered,low,,,
+343,Serous Drainage,uncovered,low,,,
+344,Shoulder Pain,dedicated,medium,Shoulder Pain,chapters/symptom_shoulder_pain.tex,high
+345,Signs of Premature Aging,uncovered,low,,,
+346,Sinus Pressure,uncovered,low,,,
+347,Sister Mary Joseph Nodule (SMJN),uncovered,low,,,
+348,Skin Discoloration,uncovered,low,,,
+349,Skin Flushing,uncovered,low,,,
+350,Smelly Scalp,uncovered,low,,,
+351,Sneezing,dedicated,low,Sneezing,chapters/symptom_sneezing.tex,high
+352,Somatic Pain,uncovered,medium,,,
+353,Somnolence (Drowsiness),uncovered,low,,,
+354,Sore Nipples,uncovered,low,,,
+355,Sore Throat and Headache,dedicated,high,Sore Throat and Headache,chapters/symptom_sore_throat_and_headache.tex,high
+356,Spasticity,dedicated,low,Spasticity,chapters/symptom_spasticity.tex,high
+357,Steatorrhea,dedicated,low,Steatorrhea,chapters/symptom_steatorrhea.tex,high
+358,Stiff Neck,uncovered,low,,,
+359,Strawberry Tongue,uncovered,low,,,
+360,Sudden Vision Loss,dedicated,high,Sudden Vision Loss,chapters/symptom_sudden_vision_loss.tex,high
+361,Suicidal Ideation (Suicidal Thoughts),dedicated,low,Suicidal Ideation,chapters/symptom_suicidal_ideation.tex,high
+362,Swollen Anus,uncovered,low,,,
+363,Swollen Knee,uncovered,low,,,
+364,Swollen Lymph Nodes,dedicated,low,Swollen Lymph Nodes,chapters/symptom_swollen_lymph_nodes.tex,high
+365,Swollen Lymph Nodes in the Neck (Cervical Lymphadenopathy),uncovered,low,,,
+366,Swollen Testicles (Scrotal Swelling),alias/subsection,medium,Swollen or Painful Testicle,chapters/symptom_swollen_or_painful_testicle.tex,high
+367,Synesthesia,uncovered,low,,,
+368,Tachypnea,dedicated,low,Tachypnea,chapters/symptom_tachypnea.tex,high
+369,Tenesmus,uncovered,low,,,
+370,Terminal Agitation,uncovered,low,,,
+371,Terminal lucidity,uncovered,low,,,
+372,Terry's Nails,uncovered,low,,,
+373,Testicular Pain,dedicated,medium,Testicular Pain (Orchalgia),chapters/symptom_testicular_pain.tex,high
+374,Tetany,dedicated,low,Tetany,chapters/symptom_tetany.tex,high
+375,Third-Degree Burn,uncovered,low,,,
+376,Throwing Up (Vomiting) Bile,uncovered,medium,,,
+377,Thunderclap Headaches,alias/subsection,high,Thunderclap Headache,chapters/symptom_thunderclap_headache.tex,high
+378,Tinnitus,dedicated,low,Tinnitus (Ringing in the Ears),chapters/symptom_tinnitus.tex,high
+379,Tongue Color,uncovered,low,,,
+380,Tooth Discoloration,uncovered,low,,,
+381,Transaminitis,uncovered,low,,,
+382,Translucent Teeth,uncovered,low,,,
+383,Tremor,alias/subsection,low,Tremors,chapters/symptom_tremors.tex,high
+384,Tremors in Infant Legs,uncovered,low,,,
+385,Tunnel Vision,uncovered,medium,,,
+386,Ulnar Wrist Pain,uncovered,medium,,,
+387,Unexplained Weight Gain,uncovered,low,,,
+388,Unexplained Weight Loss,uncovered,medium,,,
+389,Upper Abdominal Pain,dedicated,high,Upper Abdominal Pain,chapters/symptom_upper_abdominal_pain.tex,high
+390,Upper Back Pain,uncovered,medium,,,
+391,Uremic Pruritus,uncovered,low,,,
+392,Urinary Urgency,dedicated,medium,Urinary Urgency,chapters/symptom_urinary_urgency.tex,high
+393,Vaginal Bleeding,dedicated,medium,Vaginal Bleeding,chapters/symptom_vaginal_bleeding.tex,high
+394,Vaginal Discharge,dedicated,medium,Vaginal Discharge,chapters/symptom_vaginal_discharge.tex,high
+395,Vaginal Dryness,dedicated,low,Vaginal Dryness,chapters/symptom_vaginal_dryness.tex,high
+396,Vaginal Gas,uncovered,low,,,
+397,Vaginal Odor,dedicated,low,Vaginal Odor,chapters/symptom_vaginal_odor.tex,high
+398,Vasoconstriction,uncovered,low,,,
+399,Vertigo,dedicated,low,Vertigo,chapters/symptom_vertigo.tex,high
+400,Visceral Pain,uncovered,medium,,,
+401,Visual Field Defects,uncovered,low,,,
+402,Vomiting (Emesis),alias/subsection,medium,Vomiting and Nausea,chapters/symptom_vomiting_and_nausea.tex,high
+403,Vomiting Blood,alias/subsection,high,Hematemesis (Vomiting Blood),chapters/symptom_hematemesis.tex,high
+404,Water Brash,uncovered,medium,,,
+405,Water Breaking,uncovered,low,,,
+406,Wheezing,dedicated,low,Wheezing,chapters/symptom_wheezing.tex,high
+407,White Spots on Nails (Leukonychia),uncovered,low,,,
+408,White Tongue,dedicated,low,White Tongue,chapters/symptom_white_tongue.tex,high
+409,Withdrawal Bleeding,uncovered,medium,,,
+410,Wrist Pain,dedicated,medium,Wrist Pain,chapters/symptom_wrist_pain.tex,high
+411,Yellow Semen,uncovered,low,,,

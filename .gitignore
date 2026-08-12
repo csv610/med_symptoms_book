@@ -13,3 +13,5 @@
 *.dvi
 *.ps
 *.ent
+
+.hermes/
